@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" uploadOnCheckin="32421b6b-f728-4793-a21c-eec114561280">
     <serverData>
       <paths name="ivan@ssh.dcc.fc.up.pt:34024">
         <serverdata>
@@ -17,5 +17,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="ivan@ssh.dcc.fc.up.pt:34024" />
   </component>
 </project>

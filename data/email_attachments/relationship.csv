@@ -1,0 +1,968 @@
+﻿Disease ID;Drug Name ;Rank;Reviews;Activitie;FDA Approved
+1; Humira;5.1;47;High;Yes
+1; Remicade;5.4;15;High;Yes
+1; Entyvio;5.3;35;Med-high;Yes
+1; Stelara;5.9;31;Med-high;Yes
+1; azathioprine;6.0;10;Med-high;Yes
+1; mesalamine ;7.1;32;Med-high;No
+1; budesonide;6.4;12;Med-high;Yes
+1; vedolizumab;5.2;40;Med-low;Yes
+1; Entocort EC;7.6;6;Med-low;Yes
+1; Imuran;3.8;None;Med-low;Yes
+1; sulfasalazine ;8.2;10;Med-low;No
+1; hyoscyamine ;9.0;3;Med-low;No
+1; Cimzia;6.5;4;Low;Yes
+1; cholestyramine ;9.3;11;Low;No
+1; infliximab;4.7;20;Low;Yes
+1; adalimumab;5.1;47;Low;Yes
+1; Azasan;10;1;Low;Yes
+1; rifaximin ;9.3;7;Low;No
+1; tacrolimus;8.5;3;Low;No
+1; Ortikos;0.0;None;Low;Yes
+1; certolizumab;6.5;4;Low;Yes
+1; cyclosporine ;0.0;None;Low;No
+1; mycophenolate mofetil;0.0;None;Low;No
+1; ustekinumab;5.9;38;Low;Yes
+1; Amjevita;0.0;None;Low;Yes
+1; Cyltezo;0.0;None;Low;Yes
+1; Inflectra;1.0;3;Low;Yes
+1; Renflexis;0.0;None;Low;Yes
+1; Ixifi;0.0;None;Low;Yes
+1; Abrilada;0.0;None;Low;Yes
+1; Avsola;0.0;None;Low;Yes
+1; Hadlima;0.0;None;Low;Yes
+1; Hyrimoz;0.0;None;High;Yes
+2; Abilify;6.1;83;High;Yes
+2; Seroquel;6.5;35;High;Yes
+2; Latuda;6.5;99;Med-High;Yes
+2; Risperdal;5.0;46;Med-High;Yes
+2; Zyprexa;6.0;44;Med-High;Yes
+2; clozapine;8.1;40;Med-High;Yes
+2; risperidone;5.2;100;Med-High;Yes
+2; olanzapine;5.7;90;Med-High;Yes
+2; Abilify Maintena;6.5;26;Med;Yes
+2; Invega Sustenna;4.1;64;Med;Yes
+2; quetiapine;6.7;58;Med-low;Yes
+2; Vraylar;6.2;46;Med-low;Yes
+2; Rexulti;5.1;31;Med-low;Yes
+2; Clozaril;9.1;11;Med-low;Yes
+2; Geodon;6.4;42;Med-low;Yes
+2; lurasidone;6.5;103;Med-low;Yes
+2; Aristada;3.7;4;Low;Yes
+2; cariprazine;6.2;51;Low;Yes
+2; Invega Trinza;7.2;16;Low;Yes
+2; aripiprazole;6.0;126;Low;Yes
+2; Invega;4.7;68;Low;Yes
+2; Seroquel XR;7.6;8;Low;Yes
+2; chlorpromazine;9.3;8;Low;Yes
+2; Saphris;7.6;41;Low;Yes
+2; Risperdal Consta;7.6;7;Low;Yes
+2; ziprasidone;6.3;48;Low;Yes
+2; paliperidone;4.6;187;Low;Yes
+2; loxapine;7.1;8;Low;Yes
+2; Fanapt;6.5;15;Low;Yes
+2; Zyprexa Zydis;5.3;5;Low;Yes
+2; trifluoperazine;8.1;9;Low;Yes
+2; thioridazine;9.3;3;Low;Yes
+2; Zyprexa Relprevv;0.0;None;Low;Yes
+2; FazaClo;0.0;None;Low;Yes
+2; Abilify MyCite;0.0;None;Low;Yes
+2; asenapine;7.3;43 ;Low;Yes
+2; Perseris;0.0;None;Low;Yes
+2; thiothixene;10;1 ;Low;Yes
+2; Zyprexa Intramuscular;0.0;None;Low;Yes
+2; Aristada Initio;0.0;None;Low;Yes
+2; brexpiprazole;5.7;35;Low;Yes
+2; iloperidone;6.1;16;Low;Yes
+2; Versacloz;0.0;None;Low;Yes
+2; Adasuve;0.0;;Low;Yes
+2; amisulpride;9.3;3;None;Yes
+2; Caplyta;3.9;15;None;Yes
+2; lumateperone;4.3;16;None;Yes
+2; Secuado;0.0;None;None;Yes
+3; clobetasol;8.9;64;High;Yes
+3; methotrexate;7.9;82;High;Yes
+3; Humira;7.2;108;Med-High;Yes
+3; Stelara;8.2;128;Med-High;Yes
+3; fluocinonide;7.8;15;Med;Yes
+3; Tazorac;8.7;3;Med-low;Yes
+3; triamcinolone;7.8;17;Med-low;Yes
+3; halobetasol;8.5;13;Med-low;Yes
+3; betamethasone;0.0;;Med-low;Yes
+3; Cosentyx;6.3;6;Med-low;Yes
+3; Taltz;8.9;9;Med-low;Yes
+3; Tremfya;8.4;10;Med-low;Yes
+3; Ilumya;4.5;2;Med-low;Yes
+3; secukinumab;6.3;6;Med-low;Yes
+3; Skyrizi;1.0;1;Med-low;Yes
+3; Elocon;9.6;12;Low;Yes
+3; triamcinolone;9.8;5;Low;Yes
+3; Clobex;8.6;29;Low;Yes
+3; calcipotriene;6.0;30;Low;Yes
+3; Dovonex;5.4;20;Low;Yes
+3; mometasone;9.4;16;Low;Yes
+3; desonide;9.0;4;Low;Yes
+3; prednisone;6.0;7;Low;Yes
+3; Taclonex;7.8;39;Low;Yes
+3; Soriatane;7.6;8;Low;Yes
+3; acitretin;6.6;25;Low;Yes
+3; cyclosporine;9.8;4;Low;Yes
+3; hydrocortisone;6.0;2;Low;Yes
+3; Temovate;10;2;Low;Yes
+3; ustekinumab;8.2;130;Low;Yes
+3; adalimumab;7.2;109;Low;Yes
+3; betamethasone / calcipotriene;7.4;61;Low;Yes
+3; Kenalog-40;9.5;2;Low;Yes
+3; Neoral;10;1;Low;Yes
+3; desoximetasone;8.4;8;Low;Yes
+3; Kenalog;8.5;10;Low;Yes
+3; Fluocinonide-E;0.0;None;Low;Yes
+3; Otrexup;0.0;None;Low;Yes
+3; Remicade;7.3;4;Low;Yes
+3; Topicort;9.3;3;Low;Yes
+3; Trexall;0.0;None;Low;Yes
+3; coal tar;8.1;16;Low;Yes
+3; fluocinolone;0.0;None;Low;Yes
+3; tazarotene;8.7;3;Low;Yes
+3; Vectical;8.3;4;Low;Yes
+3; Acthar;0.0;None;Low;Yes
+3; Aristocort A;0.0;None;Low;Yes
+3; Aristocort R;0.0;None;Low;Yes
+3; Aristospan;0.0;None;Low;Yes
+3; calcitriol;8.3;4;Low;Yes
+3; Cinolar;0.0;None;Low;Yes
+3; Clinacort;0.0;None;Low;Yes
+3; Cortizone-10;0.0;None;Low;Yes
+3; Enstilar;5.8;13;Low;Yes
+3; Gengraf;0.0;None;Low;Yes
+3; Kenalog-10;10;1;Low;Yes
+3; Locoid;0.0;None;Low;Yes
+3; methylprednisolone;1.0;1;Low;Yes
+3; Rasuvo;0.0;None;Low;Yes
+3; RediTrex;0.0;None;Low;Yes
+3; Taclonex Scalp;9.0;2;Low;Yes
+3; Trianex;0.0;None;Low;Yes
+3; Triderm;0.0;None;Low;Yes
+3; Vanos;0.0;None;Low;Yes
+3; Ala-Cort;0.0;None;Low;Yes
+3; Ala-Scalp;0.0;None;Low;Yes
+3; Ala-Scalp HP;0.0;None;Low;Yes
+3; alclometasone;8.0;1;Low;Yes
+3; Aquanil HC;0.0;None;Low;Yes
+3; Beta HC;0.0;None;Low;Yes
+3; Bioelements Immediate Comfort;0.0;None;Low;Yes
+3; Caldecort;0.0;None;Low;Yes
+3; Cloderm;9.0;1;Low;Yes
+3; Cordran;0.0;None;Low;Yes
+3; Cordran Tape;10;4;Low;Yes
+3; Cortizone-5;0.0;None;Low;Yes
+3; Dermarest Plus Anti-Itch;0.0;None;Low;Yes
+3; Dermovate;0.0;1;Low;Yes
+3; Dermtex HC;0.0;None;Low;Yes
+3; dexamethasone;0.0;None;Low;Yes
+3; diflorasone;0.0;None;Low;Yes
+3; etanercept ;8.1;29;Low;No
+3; flurandrenolide;10;5;Low;Yes
+3; Halog;0.0;None;Low;Yes
+3; infliximab;8.0;5;Low;Yes
+3; Itch-X Lotion;0.0;None;Low;Yes
+3; Locoid Lipocream;0.0;None;Low;Yes
+3; NuCort;0.0;None;Low;Yes
+3; Olux;9.1;8;Low;Yes
+3; Olux-E;0.0;None;Low;Yes
+3; Oxsoralen-Ultra;0.0;None;Low;Yes
+3; Pandel;0.0;None;Low;Yes
+3; prednisolone;0.0;None;Low;Yes
+3; Psoriasin;7.3;9;Low;Yes
+3; Sarnol-HC;0.0;None;Low;Yes
+3; Sernivo;0.0;None;Low;Yes
+3; Synalar;0.0;None;Low;Yes
+3; tacrolimus;8.0;1;Low;Yes
+3; Texacort;0.0;None;Low;Yes
+3; U-Cort;0.0;None;Low;Yes
+3; Abrilada;0.0;None;None;Yes
+3; amcinonide;0.0;None;None;Yes
+3; Amjevita;0.0;None;None;Yes
+3; ammonium lactate / halobetasol;10;1;None;Yes
+3; ammonium lactate / urea;0.0;None;None;Yes
+3; Analpram-HC;0.0;None;None;Yes
+3; Analpram E;0.0;None;None;Yes
+3; Anthraforte;0.0;None;None;Yes
+3; anthralin;0.0;None;None;Yes
+3; Anthrascalp;0.0;None;None;Yes
+3; Apexicon;0.0;None;None;Yes
+3; ApexiCon E;0.0;None;None;Yes
+3; Avsola;0.0;None;None;Yes
+3; Balnetar;0.0;None;None;Yes
+3; Betatar Gel;0.0;None;None;Yes
+3; brodalumab;5.0;3;None;Yes
+3; Bryhali;0.0;None;None;Yes
+3; Calcitrene;0.0;None;None;Yes
+3; Capex;0.0;None;None;Yes
+3; Carb-O-Lac5;0.0;None;None;Yes
+3; Carb-O-Lac HP;0.0;None;None;Yes
+3; Clobevate;0.0;None;None;Yes
+3; clocortolone;9.0;1;None;Yes
+3; Clodan;0.0;None;None;Yes
+3; coal tar / salicylic acid / sulfur;9.0;1;None;Yes
+3; coal tar / salicylic acid;0.0;None;None;Yes
+3; Cordran SP;0.0;None;None;Yes
+3; Cormax;0.0;None;None;Yes
+3; Cormax Scalp;0.0;None;None;Yes
+3; corticotropin;0.0;None;None;Yes
+3; Cutar;0.0;None;None;Yes
+3; Cyclocort;0.0;None;None;Yes
+3; Cyltezo;0.0;None;None;Yes
+3; Denorex Therapeutic Protection;0.0;None;None;Yes
+3; Derma-Smoothe / FS;0.0;None;None;Yes
+3; Derma-Smoothe / FS (Body Oil);0.0;None;None;Yes
+3; Derma-Smoothe / FS (Scalp);0.0;None;None;Yes
+3; Dermatop;0.0;None;None;Yes
+3; Desonate;0.0;None;None;Yes
+3; DesOwen;8.0;1;None;Yes
+3; DHS Tar Shampoo;0.0;None;None;Yes
+3; Doak Tar;0.0;None;None;Yes
+3; Dritho-Scalp;0.0;None;None;Yes
+3; Drithocreme;0.0;None;None;Yes
+3; Duobrii;9.5;2;None;Yes
+3; Elta Tar;0.0;None;None;Yes
+3; Embeline;8.0;1;None;Yes
+3; Embeline E;0.0;None;None;Yes
+3; Epifoam;0.0;None;None;Yes
+3; Estar;0.0;None;None;Yes
+3; Fototar;0.0;None;None;Yes
+3; guselkumab;8.6;11;None;Yes
+3; H.P. Acthar Gel;0.0;None;None;Yes
+3; Hadlima;0.0;None;None;Yes
+3; halcinonide;0.0;None;None;Yes
+3; halobetasol / tazarotene;9.5;2;None;Yes
+3; Halonate;0.0;None;None;Yes
+3; HC Pram;0.0;None;None;Yes
+3; hydrocortisone / pramoxine;8.0;1;None;Yes
+3; hydroxyurea ;0.0;None;None;No
+3; Hyrimoz;0.0;None;None;Yes
+3; Impoyz;0.0;None;None;Yes
+3; Inflectra;0.0;None;None;Yes
+3; Ionil T;10;1;None;Yes
+3; ixekizumab;8.9;10;None;Yes
+3; Ixifi;0.0;None;None;Yes
+3; Kalosar;0.0;None;None;Yes
+3; Kerasal Ultra 20;0.0;None;None;Yes
+3; LoKara;0.0;None;None;Yes
+3; Medotar;0.0;None;None;Yes
+3; methoxsalen;0.0;None;None;Yes
+3; MG217 Medicated Tar;9.0;2;None;Yes
+3; Neutrogena T / Derm;0.0;None;None;Yes
+3; Neutrogena T / Gel;0.0;None;None;Yes
+3; Nolix;0.0;None;None;Yes
+3; Novacort;0.0;None;None;Yes
+3; Oxipor VHC;0.0;None;None;Yes
+3; Pramosone;8.0;1;None;Yes
+3; prednicarbate;0.0;None;None;Yes
+3; Proctofoam HC;0.0;None;None;Yes
+3; R A Acne;0.0;None;None;Yes
+3; Renflexis;0.0;None;None;Yes
+3; Resinol;0.0;None;None;Yes
+3; resorcinol;0.0;None;None;Yes
+3; risankizumab;1.0;1;None;Yes
+3; Scytera;10;1;None;Yes
+3; Siliq;5.0;3;None;Yes
+3; Sorilux;1.0;1;None;Yes
+3; Synalar Ointment;0.0;None;None;Yes
+3; Tarsum;0.0;None;None;Yes
+3; Theraplex T;0.0;None;None;Yes
+3; tildrakizumab;4.5;2;None;Yes
+3; Tovet;0.0;None;None;Yes
+3; Ultralytic;0.0;None;None;Yes
+3; Ultralytic 2;0.0;None;None;Yes
+3; Ultravate;9.0;1;None;Yes
+3; Verdeso;0.0;None;None;Yes
+3; Zithranol;0.0;None;None;Yes
+3; Zithranol-RR;0.0;None;None;Yes
+4; Tresiba;8.8;4;High;Yes
+4; insulin degludec;8.8;4;Low;Yes
+4; insulin aspart / insulin degludec;0.0;None;Low;Yes
+5;methotrexate;6.1;111;High;Yes
+5; Enbrel;8.0;117;High;Yes
+5; Humira;6.1;121;Med;Yes
+5; Celebrex;8.0;21;Med;Yes
+5; prednisone;7.8;42;Med;Yes
+5; Plaquenil;6.9;63;Med;Yes
+5; meloxicam;5.6;52;Med;Yes
+5; hydroxychloroquine;6.4;128;Med-low;Yes
+5; Rituxan;7.3;16;Med-low;Yes
+5; Xeljanz;5.3;86;Med-low;Yes
+5; Kevzara;4.4;16;Med-low;Yes
+5; sulfasalazine;4.9;58;Low;Yes
+5; Actemra;6.7;28;Low;Yes
+5; leflunomide;5.7;74;Low;Yes
+5; Arava;6.6;28;Low;Yes
+5; diclofenac;7.2;39;Low;Yes
+5; Remicade;7.4;31;Low;Yes
+5; Mobic;6.2;19;Low;Yes
+5; naproxen;7.0;23;Low;Yes
+5; Orencia;6.2;44;Low;Yes
+5; celecoxib;7.6;25;Low;Yes
+5; Norco ;5.5;4;Low;No
+5; ibuprofen;10;6;Low;Yes
+5; acetaminophen / hydrocodone ;5.1;58;Low;No
+5; Cimzia;8.4;18;Low;Yes
+5; aspirin;10;2;Low;Yes
+5; etanercept;8.0;121;Low;Yes
+5; Simponi;6.9;37;Low;Yes
+5; Vimovo;9.0;7;Low;Yes
+5; adalimumab;6.1;125;Low;Yes
+5; Arthritis Pain;0.0;None;Low;Yes
+5; Aspergum;0.0;None;Low;Yes
+5; Aspiritab;0.0;None;Low;Yes
+5; Aspirtab;0.0;None;Low;Yes
+5; atorvastatin ;0.0;None;Low;No
+5; Bayer Aspirin;0.0;None;Low;Yes
+5; Bayer Aspirin Extra Strength Plus;0.0;None;Low;Yes
+5; Bufferin;0.0;None;Low;Yes
+5; Easprin;0.0;None;Low;Yes
+5; Ecotrin;0.0;None;Low;Yes
+5; Ecpirin;0.0;None;Low;Yes
+5; Entercote;0.0;None;Low;Yes
+5; etodolac;8.0;4;Low;Yes
+5; Genacote;0.0;None;Low;Yes
+5; Halfprin;0.0;None;Low;Yes
+5; Lortab ;8.8;6;Low;No
+5; nabumetone;5.2;12;Low;Yes
+5; Norwich Aspirin;0.0;None;Low;Yes
+5; Rayos;0.0;None;Low;Yes
+5; Aleve;6.8;6;Low;Yes
+5; Azulfidine;10;1;Low;Yes
+5; methylprednisolone;8.7;15;Low;Yes
+5; Motrin;10;2;Low;Yes
+5; tocilizumab;6.6;30;Low;Yes
+5; Voltaren;6.6;12;Low;Yes
+5; A-G Profen;0.0;None;Low;Yes
+5; Actiprofen;0.0;None;Low;Yes
+5; Addaprin;0.0;None;Low;Yes
+5; Advil;10;1;Low;Yes
+5; azathioprine;3.6;7;Low;Yes
+5; doxycycline ;8.0;5;Low;No
+5; Duexis;5.0;5;Low;Yes
+5; Genpril;0.0;None;Low;Yes
+5; IBU-200;0.0;None;Low;Yes
+5; infliximab;7.2;34;Low;Yes
+5; Midol IB;0.0;None;Low;Yes
+5; Motrin IB;0.0;None;Low;Yes
+5; Naprosyn;6.5;2;Low;Yes
+5; Nuprin;0.0;None;Low;Yes
+5; Proprinal;0.0;None;Low;Yes
+5; rituximab;7.5;71;Low;Yes
+5; abatacept;6.2;45;Low;Yes
+5; Aflaxen;0.0;None;Low;Yes
+5; All Day Pain Relief;0.0;None;Low;Yes
+5; All Day Relief;0.0;None;Low;Yes
+5; Anaprox;0.0;None;Low;Yes
+5; Anaprox-DS;0.0;None;Low;Yes
+5; Arthrotec;8.1;11;Low;Yes
+5; Azulfidine EN-tabs;0.0;None;Low;Yes
+5; Cataflam;0.0;None;Low;Yes
+5; dexamethasone;1.0;1;Low;Yes
+5; EC-Naprosyn;0.0;None;Low;Yes
+5; Flanax Pain Reliever;0.0;None;Low;Yes
+5; Imuran;3.3;3;Low;Yes
+5; indomethacin;8.3;3;Low;Yes
+5; Kenalog-40;7.4;7;Low;Yes
+5; Kineret;0.0;;Low;Yes
+5; Medrol;7.0;1;Low;Yes
+5; Midol Extended Relief;0.0;None;Low;Yes
+5; Naprelan;0.0;None;Low;Yes
+5; Otrexup;9.5;2;Low;Yes
+5; oxaprozin;5.5;4;Low;Yes
+5; piroxicam;8.0;5;Low;Yes
+5; Rasuvo;0.0;None;Low;Yes
+5; salsalate;8.0;2;Low;Yes
+5; sulindac;5.7;3;Low;Yes
+5; Trexall;0.0;None;Low;Yes
+5; triamcinolone;7.6;8;Low;Yes
+5; Xeljanz XR;6.7;12;Low;Yes
+5; acetaminophen / tramadol;8.7;3;Low;No
+5; anakinra;8.0;1;Low;Yes
+5; Anexsia ;0.0;;Low;No
+5; Aristospan;9.0;1;Low;Yes
+5; auranofin;10;2;Low;Yes
+5; certolizumab;8.4;18;Low;Yes
+5; Clinacort;0.0;None;Low;Yes
+5; cortisone;0.0;None;Low;Yes
+5; Daypro;5.0;3;Low;Yes
+5; De-Sone LA;0.0;;Low;Yes
+5; Depo-Medrol;9.0;1;Low;Yes
+5; Dexamethasone Intensol;0.0;None;Low;Yes
+5; diclofenac / misoprostol;8.1;11;Low;Yes
+5; Dxevo;0.0;None;Low;Yes
+5; esomeprazole / naproxen;9.0;7;Low;Yes
+5; famotidine / ibuprofen;4.0;6;Low;Yes
+5; golimumab;6.7;50;Low;Yes
+5; Indocin;8.0;1;Low;Yes
+5; Kenalog-10;0.0;None;Low;Yes
+5; ketoprofen;8.5;2;Low;Yes
+5; Medrol Dosepak;9.0;1;Low;Yes
+5; MethylPREDNISolone Dose Pack;0.0;None;Low;Yes
+5; minocycline ;7.4;8;Low;No
+5; mycophenolate mofetil ;5.7;3;Low;No
+5; Olumiant;0.0;None;Low;Yes
+5; RediTrex;0.0;None;Low;Yes
+5; Ridaura;10;2;Low;Yes
+5; Rinvoq;7.2;17;Low;Yes
+5; Simponi Aria;5.9;9;Low;Yes
+5; Solu-Medrol;0.0;None;Low;Yes
+5; tofacitinib;5.5;100;Low;Yes
+5; Abrilada;0.0;None;None;Yes
+5; acetaminophen / aspirin;0.0;None;None;Yes
+5; Acthar;10;1;None;Yes
+5; alemtuzumab;0.0;None;None;No
+5; Amjevita;0.0;None;None;Yes
+5; Analgesic Balm Greaseless;0.0;None;None;Yes
+5; Ansaid;6.0;1;None;Yes
+5; Arthricare Cream;0.0;None;None;Yes
+5; Arthricream;0.0;None;None;Yes
+5; Asper-Flex;0.0;None;None;Yes
+5; Avsola;0.0;None;None;Yes
+5; Azasan;0.0;None;None;Yes
+5; baricitinib;0.0;None;None;Yes
+5; Boroleum;0.0;None;None;Yes
+5; camphor / menthol / methyl salicylate OFF LABEL;0.0;None;None;Yes
+5; Castiva Cooling;0.0;None;None;Yes
+5; Clinoril;8.0;1;None;Yes
+5; Co-Gesic ;0.0;None;None;No
+5; corticotropin;9.5;2;None;Yes
+5; Cortone Acetate;0.0;None;None;Yes
+5; Cuprimine;0.0;None;None;Yes
+5; cyclophosphamide ;0.0;None;None;No
+5; cyclosporine;0.0;None;None;Yes
+5; Cyltezo;0.0;None;None;Yes
+5; D-Penamine;0.0;None;None;Yes
+5; Daypro Alta;0.0;None;None;Yes
+5; Depen;0.0;None;None;Yes
+5; Depen Titratabs;0.0;None;None;Yes
+5; diflunisal;6.5;2;None;Yes
+5; Dolobid;5.0;1;None;Yes
+5; Erelzi;0.0;None;None;Yes
+5; Eticovo;0.0;None;None;Yes
+5; Eucalyptamint;0.0;None;None;Yes
+5; Exocaine Plus;0.0;None;None;Yes
+5; Feldene;7.5;4;None;Yes
+5; fenoprofen;9.0;1;None;Yes
+5; Fenortho;0.0;None;None;Yes
+5; Flex-All 454 Maximum Strength;0.0;None;None;Yes
+5; flurbiprofen;6.0;1;None;Yes
+5; Gengraf;0.0;None;None;Yes
+5; Gordogesic;0.0;None;None;Yes
+5; H.P. Acthar Gel;0.0;None;None;Yes
+5; Hadlima;0.0;None;None;Yes
+5; Hycet ;0.0;None;None;No
+5; Hyrimoz;0.0;None;None;Yes
+5; Indocin SR;0.0;None;None;Yes
+5; Inflectra;0.0;None;None;Yes
+5; interferon gamma-1b ;0.0;None;None;No
+5; Ixifi;0.0;None;None;Yes
+5; Lorcet Plus ;0.0;None;None;No
+5; meclofenamate;0.0;None;None;Yes
+5; Mentholatum Deep Heating;0.0;None;None;Yes
+5; methyl salicylate;6.8;7;None;Yes
+5; Myoflex;0.0;None;None;Yes
+5; Nalfon;0.0;None;None;Yes
+5; Neoral;0.0;None;None;Yes
+5; penicillamine;0.0;None;None;Yes
+5; phenytoin ;0.0;None;None;No
+5; Relafen DS;0.0;None;None;Yes
+5; Renflexis;0.0;None;None;Yes
+5; Salonpas Pain Patch;6.0;5;None;Yes
+5; sarilumab;4.4;16;None;Yes
+5; Satogesic;0.0;None;None;Yes
+5; tetracycline ;0.0;None;None;No
+5; Theracodophen Low 90 ;0.0;None;None;No
+5; tolmetin;9.0;1;None;Yes
+5; trolamine salicylate;3.3;4;None;Yes
+5; upadacitinib;7.2;17;None;Yes
+5; Ximino ;0.0;None;None;No
+5; Xodol ;0.0;None;None;No
+6; Plaquenil;6.7;34;High;Yes
+6; hydroxychloroquine;7.2;65;Med-high;Yes
+6; prednisone;7.2;6;Med-low;Yes
+6; Benlysta;7.8;39;Low;Yes
+6; Imuran;5.3;18;Low;Yes
+6; azathioprine;5.5;20;Low;Yes
+6; mycophenolate mofetil ;8.5;4;Low;No
+6; aspirin;0.0;None;Low;Yes
+6; Kenalog-40;7.0;3;Low;Yes
+6; triamcinolone;7.0;3;Low;Yes
+6; Arthritis Pain;0.0;None;Low;Yes
+6; Aspergum;0.0;None;Low;Yes
+6; Bayer Aspirin;0.0;None;Low;Yes
+6; Easprin;0.0;None;Low;Yes
+6; Ecotrin;0.0;None;Low;Yes
+6; Genacote;0.0;None;Low;Yes
+6; Acthar;0.0;None;Low;Yes
+6; Aspiritab;0.0;None;Low;Yes
+6; Aspirtab;0.0;None;Low;Yes
+6; Bayer Aspirin Extra Strength Plus;0.0;None;Low;Yes
+6; belimumab;7.8;39;Low;Yes
+6; Bufferin;0.0;None;Low;Yes
+6; dexamethasone;0.0;None;Low;Yes
+6; Ecpirin;0.0;None;Low;Yes
+6; Entercote;0.0;None;Low;Yes
+6;Halfprin;0.0;None;Low;Yes
+6; Norwich Aspirin;0.0;None;Low;Yes
+6; Azasan;4.0;1;Low;Yes
+6; corticotropin;0.0;None;Low;Yes
+6; cyclophosphamide ;0.0;None;Low;No
+6; Dexamethasone Intensol;0.0;None;Low;Yes
+6; Kenalog-10;0.0;None;Low;Yes
+6; Clinacort;0.0;None;Low;Yes
+6; cortisone;0.0;None;Low;Yes
+6; De-Sone LA;0.0;None;Low;Yes
+6; Dxevo;0.0;None;Low;Yes
+6; H.P. Acthar Gel;0.0;None;Low;Yes
+6; HiDex;0.0;None;Low;Yes
+6; Cortone Acetate;0.0;None;None;Yes
+7; warfarin;8.0;4;High;Yes
+7; Coumadin;9.0;1;Med-High;Yes
+7; aspirin;0.0;None;Med-Low;Yes
+7; heparin;0.0;None;Low;Yes
+7; Jantoven;0.0;None;Low;Yes
+7; Bayer Aspirin;0.0;None;Low;Yes
+7; Ecotrin;0.0;None;Low;Yes
+7; Arthritis Pain;0.0;None;Low;Yes
+7; Aspergum;0.0;None;Low;Yes
+7; Entercote;0.0;None;Low;Yes
+7; Halfprin;0.0;None;Low;Yes
+7; Easprin;0.0;None;Low;Yes
+7; Genacote;0.0;None;Low;Yes
+7; Ascriptin;0.0;None;Low;Yes
+7; Aspiritab;0.0;None;Low;Yes
+7; Aspirtab;0.0;None;Low;Yes
+7; Ecpirin;0.0;None;Low;Yes
+7; Norwich Aspirin;0.0;None;Low;Yes
+7; Bayer Aspirin Extra Strength Plus;0.0;None;Low;Yes
+7; Bufferin;0.0;None;Low;Yes
+8; prednisone;6.0;4;High;Yes
+8; budesonide;7.5;23;High;Yes
+8; mesalamine;8.5;9;Med-Low;Yes
+8; Entocort EC;7.7;10;Med-Low;Yes
+8; sulfasalazine;10;2;Low;Yes
+8; Asacol;9.0;1;Low;Yes
+8; Lialda;0.0;None;Low;Yes
+8; Pentasa;9.5;2;Low;Yes
+8; hydrocortisone;0.0;None;Low;Yes
+8; Apriso;9.5;2;Low;Yes
+8; azathioprine;5.0;2;Low;Yes
+8; mercaptopurine;0.0;None;Low;No
+8; Remicade;0.0;None;Low;Yes
+8; Imuran;1.0;1;Low;Yes
+8; Asacol HD;0.0;None;Low;Yes
+8; dexamethasone;0.0;None;Low;Yes
+8; Azulfidine;0.0;None;Low;Yes
+8; Acthar;0.0;None;Low;Yes
+8; infliximab;0.0;None;Low;Yes
+8; cyclosporine ;0.0;None;Low;No
+8; Gastrocrom;0.0;None;Low;Yes
+8; Cortef;0.0;None;Low;Yes
+8; corticotropin;0.0;None;Low;Yes
+8; cromolyn;0.0;None;Low;Yes
+8; Dexamethasone Intensol;0.0;None;Low;Yes
+8; Cortifoam;0.0;None;Low;Yes
+8; Delzicol;10;1;Low;Yes
+8; mycophenolate mofetil ;0.0;None;Low;No
+8; Solu-Cortef;0.0;None;Low;Yes
+8; Colocort;0.0;None;Low;Yes
+8; Cortenema;0.0;None;Low;Yes
+8; Rowasa;0.0;None;Low;Yes
+8; ZoDex;0.0;None;Low;Yes
+8; Azasan;0.0;None;Low;Yes
+8; Azulfidine EN-tabs;0.0;None;Low;Yes
+8; De-Sone LA;0.0;None;Low;Yes
+8; Dxevo;0.0;None;Low;Yes
+8; H.P. Acthar Gel;0.0;None;Low;Yes
+9; Copaxone;7.8;122;High;Yes
+9; Gilenya;6.9;88;High;Yes
+9; Tecfidera;6.4;82;High;Yes
+9; Tysabri;7.8;92;High;Yes
+9; Aubagio;5.5;67;Med-High;Yes
+9; Rebif;7.2;25;Med-High;Yes
+9; Ampyra;8.2;68;Med;Yes
+9; Ocrevus;4.8;86;Med;Yes
+9; Avonex;7.5;37;Med-Low;Yes
+9; teriflunomide;5.5;69;Med-Low;Yes
+9; Plegridy;7.4;10;Med-Low;Yes
+9; Mavenclad;0.0;None;Low;Yes
+9; Mayzent;9.5;2;Low;Yes
+9; ozanimod;0.0;None;Low;Yes
+9; Vumerity;0.0;None;Low;Yes
+9; Zeposia;0.0;None;Low;Yes
+9; prednisone;0.0;None;Low;Yes
+9; Betaseron;7.8;5;Low;Yes
+9; Avonex Pen;8.9;11;Low;Yes
+9; glatiramer;7.4;137;Low;Yes
+9; dalfampridine;8.0;71;Low;Yes
+9; fingolimod;6.9;90;Low;Yes
+9; interferon beta-1a;7.7;82;Low;Yes
+9; dexamethasone;10;1;Low;Yes
+9; dimethyl fumarate;6.4;85;Low;Yes
+9; Lemtrada;6.5;13;Low;Yes
+9; natalizumab;7.7;94;Low;Yes
+9; ocrelizumab;4.7;95;Low;Yes
+9; Acthar;6.8;4;Low;Yes
+9; Extavia;0.0;None;Low;Yes
+9; Imuran;0.0;None;Low;Yes
+9; valacyclovir ;9.5;2;Low;No
+9; azathioprine;4.5;2;Low;Yes
+9; Dexamethasone Intensol;0.0;None;Low;Yes
+9; interferon beta-1b;7.8;5;Low;Yes
+9; methylprednisolone;4.5;2;Low;Yes
+9; prednisolone;0.0;None;Low;Yes
+9; Rebif Rebidose;8.3;4;Low;Yes
+9; Solu-Medrol;0.0;;Low;Yes
+9; alemtuzumab;6.5;13;Low;Yes
+9; cladribine;0.0;None;Low;Yes
+9; Glatopa;4.3;9;Low;Yes
+9; mitoxantrone;10;1;Low;Yes
+9; mycophenolate mofetil ;9.5;2;Low;No
+9; Azasan;0.0;None;Low;Yes
+9; corticotropin;6.6;9;Low;Yes
+9; cyclophosphamide ;6.0;3;Low;
+9; daclizumab;0.0;None;Low;Yes
+9; De-Sone LA;0.0;None;Low;Yes
+9; Dxevo;0.0;None;Low;Yes
+9; H.P. Acthar Gel;3.0;3;Low;Yes
+9; HiDex;0.0;None;Low;Yes
+9; Medrol;1.0;1;Low;Yes
+9; Millipred;0.0;None;Low;Yes
+9; Millipred DP;0.0;None;Low;Yes
+9; Orapred ODT;0.0;None;Low;Yes
+9; PediaPred;0.0;None;Low;Yes
+9; peginterferon beta-1a;7.4;10;Low;Yes
+9; siponimod;9.5;2;Low;Yes
+9; Bafiertam;0.0;None;None;Yes
+9; diroximel fumarate;0.0;None;None;Yes
+9; Kesimpta;0.0;None;None;Yes
+9; monomethyl fumarate;0.0;None;None;Yes
+9; ofatumumab;0.0;None;None;Yes
+10; Keppra;5.4;80;Low;Yes
+10; levetiracetam;5.4;123;Low;Yes
+10; carbamazepine;6.6;67;Low;Yes
+10; gabapentin;6.3;13;Low;Yes
+10; Depakote;6.6;54;Low;Yes
+10; lamotrigine;6.3;47;Low;Yes
+10; Dilantin;7.7;29;Low;Yes
+10; Tegretol;6.6;33;Low;Yes
+10; Topamax;6.0;1;Low;Yes
+10; Trokendi XR;10;1;Low;Yes
+10; divalproex sodium;6.6;76;Low;Yes
+10; Neurontin;7.5;4;Low;Yes
+10; Carbatrol;7.8;8;Low;Yes
+10; Depakote ER;6.8;17;Low;Yes
+10; Lamictal;5.4;13;Low;Yes
+10; phenytoin;7.7;34;Low;Yes
+10; Keppra XR;6.6;7;Low;Yes
+10; Lyrica;4.8;6;Low;Yes
+10; Tegretol XR;7.1;10;Low;Yes
+10; Felbatol;7.8;6;Low;Yes
+10; Trileptal;6.3;4;Low;Yes
+10; valproic acid;3.5;2;Low;Yes
+10; Diamox;9.0;1;Low;Yes
+10; clonazepam;9.5;3;Low;Yes
+10; Epitol;5.3;4;Low;Yes
+10; oxcarbazepine;5.4;7;Low;Yes
+10; Phenytoin Sodium;0.0;None;Low;Yes
+10; topiramate;5.7;3;Low;Yes
+10; clobazam;7.0;14;Low;Yes
+10; Fycompa;5.2;30;Low;Yes
+10; Vimpat;7.6;11;Low;Yes
+10; Cerebyx;0.0;None;Low;Yes
+10; Depakote Sprinkles;0.0;None;Low;Yes
+10; Fanatrex;0.0;None;Low;Yes
+10; pregabalin;5.0;7;Low;Yes
+10; acetazolamide;8.5;2;Low;Yes
+10; Lamictal XR;0.0;None;Low;Yes
+10; felbamate;7.5;10;Low;Yes
+10; Klonopin;0.0;1;Low;Yes
+10; Sabril;0.0;None;Low;Yes
+10; Aptiom;7.2;6;Low;Yes
+10; Valproate Sodium;0.0;None;Low;Yes
+10; Briviact;5.9;16;Low;Yes
+10; lacosamide;7.5;13;Low;Yes
+10; Lamictal CD;0.0;None;Low;Yes
+10; Lamictal ODT;0.0;None;Low;Yes
+10; Oxtellar XR;0.0;None;Low;Yes
+10; perampanel;5.0;31;Low;Yes
+10; Phenytek;10;1;Low;Yes
+10; Qudexy XR;0.0;None;Low;Yes
+10; vigabatrin;0.0;None;Low;Yes
+10; brivaracetam;5.8;17;Low;Yes
+10; Diamox Sequels;0.0;None;Low;Yes
+10; Elepsia XR;0.0;None;Low;Yes
+10; ethotoin;1.0;1;Low;Yes
+10; fosphenytoin;0.0;None;Low;Yes
+10; Mysoline;0.0;None;Low;Yes
+10; Peganone;1.0;1;Low;Yes
+10; primidone;0.0;None;Low;Yes
+10; Roweepra;0.0;None;Low;Yes
+10; Roweepra XR;0.0;None;Low;Yes
+10; Spritam;0.0;None;Low;Yes
+10; Topamax Sprinkle;0.0;None;Low;Yes
+10; eslicarbazepine;7.2;6;None;Yes
+10; Gabitril;0.0;None;None;Yes
+10; tiagabine;0.0;None;None;Yes
+10; Vigadrone;0.0;None;None;Yes
+11; Zinecard;0.0;None;High;Yes
+11; dexrazoxane;0.0;None;Low;Yes
+11;nifedipine;0.0;None;High;Yes
+12; sildenafil;6.6;11;High;Yes
+12; Revatio;6.6;9;Med-High;Yes
+12; Letairis;8.8;10;Med;Yes
+12; Adcirca;6.2;6;Med-low;Yes
+12; Tracleer;9.5;5;Med-low;Yes
+12; isosorbide dinitrate ;0.0;None;Low;No
+12; tadalafil;5.4;7;Low;Yes
+12; Remodulin;5.7;4;Low;Yes
+12; ambrisentan;8.2;12;Low;Yes
+12; Opsumit;10;5;Low;Yes
+12; Tyvaso;8.3;11;Low;Yes
+12; bosentan;8.6;6;Low;Yes
+12; Flolan;8.0;2;Low;Yes
+12; Adempas;1.0;2;Low;Yes
+12; treprostinil;7.7;15;Low;Yes
+12; Ventavis;0.0;None;Low;Yes
+12; epoprostenol;7.7;3;Low;Yes
+12; macitentan;10;5;Low;Yes
+12; Orenitram;0.0;None;Low;Yes
+12; Uptravi;4.3;18;Low;Yes
+12; Veletri;7.0;1;Low;Yes
+12; riociguat;1.5;4;Low;Yes
+12; Alyq;0.0;None;Low;Yes
+12; iloprost;0.0;None;Low;Yes
+12; Dilatrate-SR ;0.0;None;Low;No
+12; Isordil Titradose ;0.0;None;Low;No
+12; Isochron;0.0;None;Low;No
+12; IsoDitrate ;0.0;None;Low;No
+12; selexipag;4.1;21;Low;Yes
+13; Pulmozyme;10;1;High;Yes
+13; Creon;10;4;High;Yes
+13; azithromycin;9.0;1;Med;Yes
+13; Kalydeco;10;1;Med-Low;Yes
+13; tobramycin;0.0;None;Med-Low;Yes
+13; Cayston;0.0;None;Low;Yes
+13; dornase alfa;10;1;Low;Yes
+13; Orkambi;0.0;None;Low;Yes
+13; Tobi;0.0;None;Low;Yes
+13; Zenpep;10;1;Low;Yes
+13; vitamin e;0.0;None;Low;Yes
+13; pancrelipase;10;6;Low;Yes
+13; Symdeko;0.0;;Low;Yes
+13; Zithromax;9.0;1;Low;Yes
+13; ivacaftor;10;1;Low;Yes
+13; Azithromycin Dose Pack;0.0;None;Low;Yes
+13; amikacin;1.0;1;Low;Yes
+13; Amikin;1.0;1;Low;Yes
+13; aztreonam;0.0;None;Low;Yes
+13; TOBI Podhaler;0.0;None;Low;Yes
+13; Garamycin;0.0;None;Low;Yes
+13; Pancreaze;0.0;None;Low;Yes
+13; Trikafta;9.0;1;Low;Yes
+13; gentamicin;0.0;None;Low;Yes
+13; ivacaftor / lumacaftor;0.0;None;Low;Yes
+13;Bethkis;0.0;None;Low;Yes
+13; Pertzye;0.0;None;Low;Yes
+13; Azactam;0.0;None;Low;Yes
+13; pancreatin;0.0;None;Low;Yes
+13; Viokace;0.0;None;Low;Yes
+13; Alpha E;0.0;None;Low;Yes
+13; Amikin Pediatric;0.0;None;Low;Yes
+13; Aqua-E;0.0;None;Low;Yes
+13; Aqua Gem-E;0.0;None;Low;Yes
+13; Aquasol E;0.0;None;Low;Yes
+13; Aquavite-E;0.0;None;Low;Yes
+13; E-400 Clear;0.0;None;Low;Yes
+13; E-600;0.0;None;Low;Yes
+13; E-Gems;0.0;None;Low;Yes
+13; E Pherol;0.0;None;Low;Yes
+13; ivacaftor / tezacaftor;0.0;None;Low;Yes
+13; Kitabis Pak;0.0;None;Low;Yes
+13; Bronchitol;0.0;None;None;Yes
+13; elexacaftor / ivacaftor / tezacaftor;9.5;2;None;Yes
+13; Hi-Vegi-Lip;0.0;None;None;Yes
+13; mannitol;0.0;None;None;Yes
+13; Pan-2400;0.0;None;None;Yes
+13; Pancreatin 4X;0.0;None;None;Yes
+14; deferasirox;0.0;None;Med-Low;No
+15; Tresiba;8.8;4;High;Yes
+15; insulin degludec;8.8;4;Low;Yes
+15; insulin aspart / insulin degludec;0.0;None;Low;Yes
+16; phentermine;8.7;602;High;Yes
+16; Topamax;6.9;49;Med-High;No
+16; Adipex-P;8.9;146;Med-Low;Yes
+16; topiramate ;7.5;194;Med-Low;No
+16; Contrave;6.9;1166;Low;Yes
+16; Desoxyn;10;3;Low;Yes
+16; Alli;6.0;102;Low;Yes
+16; bupropion;8.1;27;Low;No
+16; Xenical;8.3;105;Low;Yes
+16; orlistat;7.3;321;Low;Yes
+16; phendimetrazine;8.3;145;Low;Yes
+16; Qsymia;8.2;174;Low;Yes
+16; diethylpropion;8.6;143;Low;Yes
+16; Saxenda;7.6;766;Low;Yes
+16; methamphetamine;10;4;Low;Yes
+16; lorcaserin;8.0;307;Low;Yes
+16; Pregnyl ;9.0;1;Low;No
+16; phentermine / topiramate;8.3;188;Low;Yes
+16; Bontril PDM;6.8;4;Low;Yes
+16; chorionic gonadotropin (hcg) ;7.5;13;Low;No
+16; methylphenidate ;6.0;1;Low;No
+16; Topamax Sprinkle ;0.0;None;Low;No
+16; benzphetamine;7.7;16;Low;Yes
+16; bupropion / naltrexone;6.9;1200;Low;Yes
+16; cimetidine;0.0;None;Low;No
+16;liraglutide;7.7;861;Low;Yes
+16; Lomaira;7.0;15;Low;Yes
+16; amphetamine;10;1;Low;Yes
+16; Atti-Plex P;0.0;None;Low;Yes
+16; desvenlafaxine ;8.2;7;Low;No
+16; Equaline Acid Reducer;0.0;None;Low;No
+16; Evekeo;0.0;None;Low;Yes
+16; Tagamet HB;0.0;None;Low;No
+16; cellulose / citric acid;0.0;None;None;Yes
+16; Fendique ER;0.0;None;None;Yes
+16; fenfluramine;0.0;None;None;Yes
+17; Aricept;4.9;30;High;Yes
+17; Namenda;4.6;23;High;Yes
+17; donepezil;4.8;58;High;Yes
+17; memantine;4.6;45;Med;Yes
+17; Exelon;6.7;12;Low;Yes
+17; Namenda XR;3.3;4;Low;Yes
+17; galantamine;8.1;12;Low;Yes
+17; rivastigmine;5.7;24;Low;Yes
+17; Aricept ODT;5.0;2;Low;Yes
+17; vitamin e;0.0;None;Low;Yes
+17; Namzaric;9.0;5;Low;Yes
+17; donepezil / memantine;9.0;5;Low;Yes
+17; Razadyne;0.0;None;Low;Yes
+17; Razadyne ER;10;2;Low;Yes
+17; Alpha E;0.0;None;Low;Yes
+17; etanercept ;0.0;None;Low;No
+17; Hydergine;0.0;None;Low;Yes
+17; Aqua-E;0.0;None;Low;Yes
+17; Aqua Gem-E;0.0;None;Low;Yes
+17; Aquasol E;0.0;None;Low;Yes
+17; E Pherol;0.0;None;Low;Yes
+17; ergoloid mesylates;0.0;None;Low;Yes
+17; Aquavite-E;0.0;None;Low;Yes
+17; E-400 Clear;0.0;None;Low;Yes
+17; E-600;0.0;None;Low;Yes
+17;E-Gems;0.0;None;Low;Yes
+18; Xenazine;0.0;None;High;Yes
+18; Austedo;0.0;None;High;Yes
+18; tetrabenazine;0.0;None;High;Yes
+18; baclofen ;3.0;1;Med;No
+18; deutetrabenazine;0.0;None;Low;Yes
+19; Kuvan;0.0;None;High;Yes
+19; sapropterin;0.0;None;Med-High;Yes
+19; Palynziq;0.0;None;Med-High;Yes
+19; pegvaliase;10;1;Low;Yes
+20; epoetin alfa;3.8;5;High;Yes
+20; multivitamin with iron;8.9;17;Med;Yes
+20; Procrit;2.5;4;Med;Yes
+20; Vitamin B6;0.0;None;Med-Low;Yes
+20; Anadrol-50;0.0;None;Low;Yes
+20; Epogen;9.0;1;Low;Yes
+20; Ferralet 90;10;2;Low;Yes
+20; Integra Plus;0.0;None;Low;Yes
+20; pyridoxine;0.0;None;Low;Yes
+20; Integra;10;1;Low;Yes
+20; Aminoxin;0.0;None;Low;Yes
+20; Ferocon;0.0;None;Low;Yes
+20; Iron-150;0.0;None;Low;Yes
+20; Chromagen;0.0;None;Low;Yes
+20; Integra F;9.0;1;Low;Yes
+20; BiferaRx;0.0;None;Low;Yes
+20; Ferrex 150 Forte;0.0;None;Low;Yes
+20; oxymetholone;10;1;Low;Yes
+20; Revlimid;0.0;None;Low;Yes
+20; Dialyvite;0.0;None;Low;Yes
+20; Fusion Plus;0.0;None;Low;Yes
+20; FE C Tab Plus;0.0;None;Low;Yes
+20; Ferrex 150 Forte Plus;0.0;None;Low;Yes
+20; lenalidomide;0.0;None;Low;Yes
+20; Multigen;0.0;None;Low;Yes
+20; EnLyte;0.0;None;Low;Yes
+20; Ferrex 28;0.0;None;Low;Yes
+20; Retacrit;0.0;None;Low;Yes
+20; Ferrogels Forte;0.0;None;Low;Yes
+20; FoliTab 500;0.0;None;Low;Yes
+20; Maxaron Forte;6.3;3;Low;Yes
+20; Multigen Plus;0.0;None;Low;Yes
+20; Nephron-FA;0.0;None;Low;Yes
+20; Ferotrin;0.0;None;Low;Yes
+20; Hematogen Forte;10;1;Low;Yes
+20; Irospan 24 / 6;0.0;None;Low;Yes
+20; Multigen Folic;0.0;None;Low;Yes
+20; Taron Forte;0.0;None;Low;Yes
+20; Tricon;0.0;None;Low;Yes
+20; Active Fe;0.0;None;None;Yes
+20; FeRiva;0.0;None;None;Yes
+20; FeRivaFA;0.0;None;None;Yes
+20; Iferex 150 Forte;0.0;None;None;Yes
+20; luspatercept;0.0;None;None;Yes
+20; MyKidz Iron;0.0;None;None;Yes
+20; Nufera;0.0;None;None;Yes
+20; Reblozyl;0.0;None;None;Yes
+21; carbidopa / levodopa;6.1;41;High;Yes
+21; Sinemet;7.3;9;High;Yes
+21; amantadine;7.4;14;Med-High;Yes
+21; Sinemet CR;7.5;2;Med;Yes
+21; Rytary;4.9;20;Med-low;Yes
+21; Azilect;7.4;10;Med-low;Yes
+21; levodopa;0.0;None;Med-low;Yes
+21; Gocovri;0.0;None;Med-low;Yes
+21; Inbrija;0.0;None;Med-low;Yes
+21; Ongentys;0.0;None;Med-low;Yes
+21; ropinirole;5.5;13;Med-low;Yes
+21; pramipexole;5.0;14;Med-low;Yes
+21; Mirapex;4.7;7;Low;Yes
+21; Requip;2.4;5;Low;Yes
+21; selegiline;9.7;3;Low;Yes
+21; rasagiline;6.5;14;Low;Yes
+21; Mirapex ER;8.3;4;Low;Yes
+21; Neupro;6.3;17;Low;Yes
+21; Comtan;4.0;6;Low;Yes
+21; Requip XL;7.8;4;Low;Yes
+21; benztropine;1.0;1;Low;Yes
+21; Cogentin;0.0;None;Low;Yes
+21; trihexyphenidyl;4.3;7;Low;Yes
+21; Eldepryl;10;1;Low;Yes
+21; entacapone;4.8;9;Low;Yes
+21; Exelon;4.5;2;Low;Yes
+21; Stalevo;6.3;6;Low;Yes
+21; carbidopa / entacapone / levodopa;6.5;8;Low;Yes
+21; Apokyn;7.3;3;Low;Yes
+21; Duopa;0.0;None;Low;Yes
+21; Parcopa;0.0;None;Low;Yes
+21; rivastigmine;3.3;4;Low;Yes
+21; rotigotine;6.3;17;Low;Yes
+21; Stalevo 100;0.0;None;Low;Yes
+21; Stalevo 150;5.0;1;Low;Yes
+21; Zelapar;9.5;2;Low;Yes
+21; apomorphine;7.5;4;Low;Yes
+21; bromocriptine;10;1;Low;Yes
+21; Osmolex ER;0.0;None;Low;Yes
+21; Parlodel;0.0;None;Low;Yes
+21; belladonna;0.0;None;Low;Yes
+21; safinamide;10;2;Low;Yes
+21; Stalevo 50;0.0;None;Low;Yes
+21; Stalevo 75;0.0;None;Low;Yes
+21; Stalevo 125;0.0;None;Low;Yes
+21; Stalevo 200;9.0;1;Low;Yes
+21; Tasmar;0.0;None;Low;Yes
+21; tolcapone;0.0;None;Low;Yes
+21; Xadago;10;2;Low;Yes
+21; Belladonna Tincture;0.0;None;None;Yes
+21; istradefylline;0.0;None;None;Yes
+21; Kynmobi;0.0;None;None;Yes
+21; Nourianz;0.0;None;None;Yes
+21; opicapone;0.0;None;None;Yes
