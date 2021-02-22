@@ -1,4 +1,4 @@
-﻿Disease Id,No.,Name,mim,number,cuid,Transmition,Disease acronym
+﻿Disease Id,No.,Name,mim_number,cuid,Transmition,Disease acronym
 0,1,Poliomyelitis,,,,Pm
 1,2,Crohn Disease ,266600,CN043071,Mul,IBD
 2,3,Schizophrenia,181500,C1866990,,Sc
