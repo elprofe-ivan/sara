@@ -1,197 +1,197 @@
-﻿Disease Id;No.;Name;mim_number;cuid;Transmition;Disease acronym
-0;1;Poliomyelitis;;;;Pm
-1;2;Crohn Disease ;266600;CN043071;Mul;IBD
-2;3;Schizophrenia;181500;C1866990;;Sc
-3;4;Psoriasis 1;177900;C0033860;;Ps
-3;5;Psoriasis 2;602723;C0033860;AD;Ps
-3;6;Psoriasis 3;601454;C0033860;;Ps
-3;7;Psoriasis 4;603935;C0033860;;Ps
-3;8;Psoriasis 5;604316;C0033860;;Ps
-3;9;Psoriasis 6;605364;C0033860;;Ps
-3;10;Psoriasis 7;605606;C0033860;;Ps
-3;11;Psoriasis 8;610707;C0033860;;Ps
-3;12;Psoriasis 9;607857;C0033860;;Ps
-3;13;Psoriasis 10;612410;C0033860;;Ps
-3;14;Psoriasis 11;612599;C0033860;;Ps
-3;15;Psoriasis 12;617043;C0033860;;Ps
-3;16;Psoriasis 13;612950;C0033860;;Ps
-3;17;Psoriasis 14;614204;C0033860;AR;Ps
-3;18;Psoriasis 15;616106;C0033860;AD;Ps
-4;19;Diabetes mellitus;222100;C0011847;AR insulin-dependent type1;DT1
-5;20;RHEUMATOID ARTHRITIS;180300; C0003873;;RE
-6;21;Lupus;601744;C1835315;;Lu
-7;22;ANTIPHOSPHOLIPID SYNDROME;107320;C0085278;AD;AS
-8;23;Inflammatory bowel disease 7;605225;C0021390;;IBD
-8;24;Inflammatory bowel disease 23;612381;C0021390;;IBD
-8;25;Inflammatory bowel disease 29;618077;C0021390;AD;IBD
-8;26;Inflammatory bowel disease 10;611081;CN043071;Mul, Crohn Disease ;IBD
-8;27;Inflammatory bowel disease 9;608448;C0021390;;IBD
-8;28;Inflammatory bowel disease 12;612241;C0021390;;IBD
-8;29;Inflammatory bowel disease 18;612262;C0021390;;IBD
-8;30;Inflammatory bowel disease 5;606348;C0021390;;IBD
-8;31;Inflammatory bowel disease 19;612278;CN043071;Mul, Crohn Disease;IBD
-8;32;Inflammatory bowel disease 3;604519;C0021390;AD;IBD
-8;33;Inflammatory bowel disease 13;612244;C0021390;;IBD
-8;34;Inflammatory bowel disease 11;191390;C0021390;Multifactorial;IBD
-8;35;Inflammatory bowel disease 14;612245;C0021390;;IBD
-8;36;Inflammatory bowel disease 16;612259;C0021390;;IBD
-8;37;Inflammatory bowel disease 15;612255;C0021390;;IBD
-8;38;Inflammatory bowel disease 20;612288;C0021390;;IBD
-8;39;Inflammatory bowel disease 28;613148;C0021390;AR, early onset;IBD
-8;40;Inflammatory bowel disease 2;601458;C0021390;;IBD
-8;41;Inflammatory bowel disease 26;612639;C0021390;;IBD
-8;42;Inflammatory bowel disease 27;612796;C0021390;;IBD
-8;43;Inflammatory bowel disease 4;606675;C0021390;;IBD
-8;44;Inflammatory bowel disease 8;606668;C0021390;;IBD
-8;45;Inflammatory bowel disease 22;612380;C0021390;;IBD
-8;46;Inflammatory bowel disease 21;612354;C0021390;;IBD
-8;47;Inflammatory bowel disease 6;606674;C0021390;;IBD
-8;48;Inflammatory bowel disease 30;619079;CN043071;Mul, Crohn Disease;IBD
-8;49;Inflammatory bowel disease 24;612566;C0021390;;IBD
-8;50;Inflammatory bowel disease 25;612567;C0021390;AR, early onset;IBD
-8;51;Inflammatory bowel disease 17;612261;C0021390;protection against;IBD
-9;52;Multiple sclerosis 4;612596;C0026769;susceptibility;ME
-9;53;Multiple sclerosis 3;612595;C0026769;susceptibility;ME
-9;54;Multiple sclerosis 1;126200;C0026769;susceptibility;ME
-9;55;Multiple sclerosis 2;612594;C0026769;susceptibility;ME
-9;56;Multiple sclerosis 5;614810;C0026769;susceptibility;ME
-9;57;Multiple sclerosis ;126200;C0026769;disease progression, modifier of;ME
-10;58;Epilepsy 4;617935;C1866990;familial focal, with variable foci 4;Ep
-10;59;Epilepsy 2;617116;C1866990;familial focal, with variable foci 2;Ep
-10;60;Epilepsy 3;617118;C1866990;familial focal, with variable foci 3;Ep
-10;61;Epilepsy 1;604364;C1866990;familial focal, with variable foci 1;Ep
-11;62;Cardiomyopathy, dilated, 1LL;615373;C0878544;AD;CA
-11;63;Left ventricular noncompaction 8;615373;C0878544;AD;CA
-11;64;Cardiomyopathy, dilated, 1CC;613122;C0878544;AD;CA
-11;65;Cardiomyopathy, dilated, 1A;115200;C0878544;AD;CA
-11;66;Cardiomyopathy, dilated, 1D;601494;C0878544;AD;CA
-11;67;Left ventricular noncompaction 6;601494;C0878544;AD;CA
-11;68;Cardiomyopathy, dilated, 1V;613697;C0878544;AD;CA
-11;69;Cardiomyopathy, hypertrophic, 23, with or without LVNC;612158;C0878544;AD;CA
-11;70;Cardiomyopathy, dilated, 1AA, with or without LVNC;612158;C0878544;AD;CA
-11;71;Cardiomyopathy, dilated, 1H;604288;C0878544;;CA
-11;72;Cardiomyopathy, dilated, 1G;604145;C0878544;;CA
-11;73;Cardiomyopathy, dilated, 1I;604765;C0878544;AD;CA
-11;74;Cardiomyopathy, dilated, 1NN;615916;C0878544;AD;CA
-11;75;Cardiomyopathy, dilated, 1E;601154;C0878544;AD;CA
-11;76;Cardiomyopathy, dilated, 1Z;611879;C0878544;;CA
-11;77;Cardiomyopathy, dilated, 1GG;613642;C0878544;AR;CA
-11;78;Cardiomyopathy, dilated, 1L;606685;C0878544;;CA
-11;79;Cardiomyopathy, dilated, 1K;605582;C0878544;;CA
-11;80;Cardiomyopathy, dilated, 1JJ;615235;C0878544;AD;CA
-11;81;Cardiomyopathy, dilated, 1P;609909;C0878544;;CA
-11;82;?Cardiomyopathy, dilated, 1J;605362;C0878544;AD;CA
-11;83;?Cardiomyopathy, dilated, 2B;614672;C0878544;AR;CA
-11;84;Cardiomyopathy, dilated, 1Q;609915;C0878544;;CA
-11;85;Cardiomyopathy, dilated 1B;600884;C0878544;AD;CA
-11;86;Cardiomyopathy, dilated, 1X;611615;C0878544;AR;CA
-11;87;Cardiomyopathy, hypertrophic, 22;615248;C0878544;AD;CA
-11;88;Cardiomyopathy, familial restrictive, 4;615248;C0878544;AD;CA
-11;89;Cardiomyopathy, dilated, 1KK;615248;C0878544;AD;CA
-11;90;Cardiomyopathy, dilated, 1W;611407;C0878544;;CA
-11;91;Cardiomyopathy, dilated, 1C, with or without LVNC;601493;C0878544;AD;CA
-11;92;Cardiomyopathy, hypertrophic, 24;601493;C0878544;AD;CA
-11;93;Left ventricular noncompaction 3;601493;C0878544;AD;CA
-11;94;Cardiomyopathy, dilated, 1DD;613172;C0878544;AD;CA
-11;95;Cardiomyopathy, dilated, 1HH;613881;C0878544;AD;CA
-11;96;?Cardiomyopathy, dilated, 1M;607482;C0878544;;CA
-11;97;Cardiomyopathy, dilated, 1MM;615396;C0878544;AD;CA
-11;98;Left ventricular noncompaction 10;615396;C0878544;AD;CA
-11;99;Cardiomyopathy, dilated, 1II;615184;C0878544;AD;CA
-11;100;Cardiomyopathy, dilated, 1O;608569;C0878544;AD;CA
-11;101;Cardiomyopathy, dilated, 1EE;613252;C0878544;;CA
-11;102;Left ventricular noncompaction 5;613426;C0878544;AD;CA
-11;103;Cardiomyopathy, dilated, 1S;613426;C0878544;AD;CA
-11;104;Cardiomyopathy, dilated, 1U;613694;C0878544;AD;CA
-11;105;Cardiomyopathy, dilated, 1R;613424;C0878544;AD;CA
-11;106;Left ventricular noncompaction 4;613424;C0878544;AD;CA
-11;107;Cardiomyopathy, dilated, 1Y;611878;C0878544;AD;CA
-11;108;Left ventricular noncompaction 9;611878;C0878544;AD;CA
-11;109;Cardiomyopathy, dilated, 1BB;612877;C0878544;;CA
-11;110;?Cardiomyopathy, dilated, 2A;611880;C0878544;AR;CA
-11;111;Cardiomyopathy, dilated, 1FF;613286;C0878544;;CA
-11;112;Cardiomyopathy, dilated, 3B;302045;C0878544;XL;CA
-12;113;Pulmonary hypertension, primary, 4;615344;C0443147;AD;PH
-12;114;Pulmonary hypertension, primary, fenfluramine or dexfenfluramine-associated;178600;C0443147;AD;PH
-12;115;Pulmonary hypertension, familial primary, 1, with or without HHT;178600;C0443147;AD;PH
-12;116;Pulmonary hypertension, primary, 3;615343;C0443147;AD;PH
-12;117;Pulmonary hypertension, primary, 2;615342;C0443147;AD;PH
-12;118;Pulmonary hypertension, primary, autosomal recessive;265400;C0443147;AR;PH
-13;119;Cystic fibrosis - Bronchiectasis with or without elevated sweat chloride 1;211400;C1857437;AD, cystic fibrosis;CF
-13;120;Cystic fibrosis - Pancreatitis, hereditary;167800;C1857437];AD, cystic fibrosis;CF
-13;121;Cystic fibrosis - Congenital bilateral absence of vas deferens;277180;C1857438;AR, cystic fibrosis;CF
-13;122;Cystic fibrosis - Cystic fibrosis;219700;C1857437];AR, cystic fibrosis;CF
-14;123;Hemochromatosis, type 2A;602390;C0441748;AR;HC
-14;124;Hemochromatosis, type 4;606069;C1853733;AD;HC
-14;125;Hemochromatosis;235200;C0003873;AR;HC
-14;126;Hemochromatosis, type 3;604250;C0003873;AR;HC
-14;127;?Hemochromatosis, type 5;615517;C0003873;AD;HC
-14;128;Hemochromatosis, type 2B;613313;C0003873;AR;HC
-14;129;HFE hemochromatosis;235200;C0003873;AR;HC
-14;130;African iron overload;601195;C0003873;AD;HC
-15;131;Microvascular complications of diabetes 4;612628; C0011881;;mcD
-15;132;Microvascular complications of diabetes 7;612635; C0011881;;mcD
-15;133;Microvascular complications of diabetes 1;603933; C0011881;;mcD
-15;134;Microvascular complications of diabetes 6;612634; C0011881;;mcD
-15;135;Microvascular complications of diabetes 5;612633; C0011881;;mcD
-15;136;Microvascular complications of diabetes 2;612623; C0011881;;mcD
-15;137;Microvascular complications of diabetes 3;612624; C0011881;;mcD
-15;138;Diabetes mellitus;222100;C0011847;AR, insulin-dependent, type1;DT1
-16;139;Abdominal obesity-metabolic syndrome 4;618620;C2930930;AD;Aob
-16;140;Abdominal obesity-metabolic syndrome 1;605552;C2930930;AD;Aob
-16;141;;605552;C2930930;AD;Aob
-16;142;Abdominal obesity-metabolic syndrome;605572;C2930930;AD;Aob
-16;143;Abdominal obesity-metabolic syndrome 3;615812;C2930930;AD;Aob
-17;144;Alzheimer disease 3;607822;C0002395;AD;AZH3
-17;145;Alzheimer disease 1, familial;104300;C0002395;AD;AZH1
-17;146;Alzheimer disease 2;104310;C0002395;AD;AZH2
-17;147;Alzheimer disease-4;606889;C0002395;AD;AZH4
-17;148;Alzheimer disease-5;602096;C0002395;AD;AZH5
-17;149;Alzheimer disease 6;605526;C0002395;AD;AZH6
-17;150;Alzheimer disease-7;606187;C0002395;AD;AZH7
-17;151;Alzheimer disease 8;607116;C0002395;AD;AZH8
-17;152;Alzheimer disease 9;608907;C0002395;AD;AZH9
-17;153;Alzheimer disease 10;609636;C0002395;AD;AZH10
-17;154;Alzheimer disease 11;609790;C0002395;AD;AZH11
-17;155;Alzheimer disease 18;155903;C0002395;AD;AZH18
-18;156;Huntington disease;143100;C1840466;AD;HD
-19;157;Phenylketonuria;261600;C1849914;AR;PKU
-20;158;Sickle cell anemia;603903; C0019034;AR, this disease is related with some other phenotypes ;AF
-20;159;Anemia, hemolytic;266120;C0272118;AR;AH
-20;160;Iron-refractory iron deficiency anemia;206200;C0272118;AR;AI
-20;161;Dyserythropoietic anemia, congenital, type Ib;615631;C0272118;AR;AD
-20;162;Dyserythropoietic anemia, congenital, type Ia;224120;C0272118;AR;AD
-20;163;Dyserythropoietic anemia, congenital, type III;105600;C0272118;AD;AD
-20;164;Dyserythropoietic anemia, congenital, type IV;613673;C0272118;AD;AD
-20;165;Dyserythropoietic anemia, congenital, type II;224100;C0272118;AR;AD
-21;166;Parkinson disease 7, autosomal recessive early-onset;606324; C0030567;AR;PKS
-21;167;Kufor-Rakeb syndrome;606693; C0030567;AR;PKS
-21;168;Parkinson disease 6, early onset;605909; C0030567;AR;PKS
-21;169;Parkinson disease 10;606852; C0030567;;PKS
-21;170;Parkinson disease 19a, juvenile-onset;615528; C0030567;AR;PKS
-21;171;Parkinson disease 19b, early-onset;615528; C0030567;AR;PKS
-21;172;Parkinson disease, late-onset, susceptibility to;168600; C0030567;AD, Mu;PKS
-21;173;Parkinson disease 16;613164; C0030567;;PKS
-21;174;Parkinson disease 3;602404; C0030567;;PKS
-21;175;Parkinson disease 13;610297; C0030567;;PKS
-21;176;Parkinson disease 11;607688; C0030567;;PKS
-21;177;Parkinson disease 21;616361; C0030567;AD;PKS
-21;178;Parkinson disease 18;614251; C0030567;AD;PKS
-21;179;?Parkinson disease 5, susceptibility to;613643; C0030567;AD;PKS
-21;180;Parkinson disease 4;605543; C0030567;AD;PKS
-21;181;Parkinson disease 1;168601; C0030567;AD;PKS
-21;182;Parkinson disease, susceptibility to;168600; C0030567;AD, Mu;PKS
-21;183;Parkinson disease, juvenile, type 2;600116; C0030567;AR;PKS
-21;184;Parkinson disease, susceptibility to;168600; C0030567;AD, Mu;PKS
-21;185;Parkinson disease 22, autosomal dominant;616710; C0030567;AD;PKS
-21;186;Parkinson disease 8;607060; C0030567;AD;PKS
-21;187;Parkinson disease, late-onset, susceptibility to;168600; C0030567;AD, Mu;PKS
-21;188;Parkinson disease, susceptibility to;168600; C0030567;AD, Mu;PKS
-21;189;Parkinson disease 23, autosomal recessive, early onset;616840; C0030567;AR;PKS
-21;190;Parkinson disease 17;614203; C0030567;AD;PKS
-21;191;Parkinson disease, susceptibility to;168600; C0030567;AD, Mu;PKS
-21;192;Parkinson disease 20, early-onset;615530; C0030567;AR;PKS
-21;193;Parkinson disease 15, autosomal recessive;260300; C0030567;AR;PKS
-21;194;Parkinson disease 14, autosomal recessive;612953; C0030567;AR;PKS
-21;195;Parkinson disease 12;300557; C0030567;;PKS
-21;196;Parkinson disease, age of onset, modifier;168600; C0030567;AD, Mu;PKS
+﻿Disease Id,No.,Name,mim,number,cuid,Transmition,Disease acronym
+0,1,Poliomyelitis,,,,Pm
+1,2,Crohn Disease ,266600,CN043071,Mul,IBD
+2,3,Schizophrenia,181500,C1866990,,Sc
+3,4,Psoriasis 1,177900,C0033860,,Ps
+3,5,Psoriasis 2,602723,C0033860,AD,Ps
+3,6,Psoriasis 3,601454,C0033860,,Ps
+3,7,Psoriasis 4,603935,C0033860,,Ps
+3,8,Psoriasis 5,604316,C0033860,,Ps
+3,9,Psoriasis 6,605364,C0033860,,Ps
+3,10,Psoriasis 7,605606,C0033860,,Ps
+3,11,Psoriasis 8,610707,C0033860,,Ps
+3,12,Psoriasis 9,607857,C0033860,,Ps
+3,13,Psoriasis 10,612410,C0033860,,Ps
+3,14,Psoriasis 11,612599,C0033860,,Ps
+3,15,Psoriasis 12,617043,C0033860,,Ps
+3,16,Psoriasis 13,612950,C0033860,,Ps
+3,17,Psoriasis 14,614204,C0033860,AR,Ps
+3,18,Psoriasis 15,616106,C0033860,AD,Ps
+4,19,Diabetes mellitus,222100,C0011847,AR insulin-dependent type1,DT1
+5,20,RHEUMATOID ARTHRITIS,180300, C0003873,,RE
+6,21,Lupus,601744,C1835315,,Lu
+7,22,ANTIPHOSPHOLIPID SYNDROME,107320,C0085278,AD,AS
+8,23,Inflammatory bowel disease 7,605225,C0021390,,IBD
+8,24,Inflammatory bowel disease 23,612381,C0021390,,IBD
+8,25,Inflammatory bowel disease 29,618077,C0021390,AD,IBD
+8,26,Inflammatory bowel disease 10,611081,CN043071,Mul; Crohn Disease ,IBD
+8,27,Inflammatory bowel disease 9,608448,C0021390,,IBD
+8,28,Inflammatory bowel disease 12,612241,C0021390,,IBD
+8,29,Inflammatory bowel disease 18,612262,C0021390,,IBD
+8,30,Inflammatory bowel disease 5,606348,C0021390,,IBD
+8,31,Inflammatory bowel disease 19,612278,CN043071,Mul; Crohn Disease,IBD
+8,32,Inflammatory bowel disease 3,604519,C0021390,AD,IBD
+8,33,Inflammatory bowel disease 13,612244,C0021390,,IBD
+8,34,Inflammatory bowel disease 11,191390,C0021390,Multifactorial,IBD
+8,35,Inflammatory bowel disease 14,612245,C0021390,,IBD
+8,36,Inflammatory bowel disease 16,612259,C0021390,,IBD
+8,37,Inflammatory bowel disease 15,612255,C0021390,,IBD
+8,38,Inflammatory bowel disease 20,612288,C0021390,,IBD
+8,39,Inflammatory bowel disease 28,613148,C0021390,AR; early onset,IBD
+8,40,Inflammatory bowel disease 2,601458,C0021390,,IBD
+8,41,Inflammatory bowel disease 26,612639,C0021390,,IBD
+8,42,Inflammatory bowel disease 27,612796,C0021390,,IBD
+8,43,Inflammatory bowel disease 4,606675,C0021390,,IBD
+8,44,Inflammatory bowel disease 8,606668,C0021390,,IBD
+8,45,Inflammatory bowel disease 22,612380,C0021390,,IBD
+8,46,Inflammatory bowel disease 21,612354,C0021390,,IBD
+8,47,Inflammatory bowel disease 6,606674,C0021390,,IBD
+8,48,Inflammatory bowel disease 30,619079,CN043071,Mul; Crohn Disease,IBD
+8,49,Inflammatory bowel disease 24,612566,C0021390,,IBD
+8,50,Inflammatory bowel disease 25,612567,C0021390,AR; early onset,IBD
+8,51,Inflammatory bowel disease 17,612261,C0021390,protection against,IBD
+9,52,Multiple sclerosis 4,612596,C0026769,susceptibility,ME
+9,53,Multiple sclerosis 3,612595,C0026769,susceptibility,ME
+9,54,Multiple sclerosis 1,126200,C0026769,susceptibility,ME
+9,55,Multiple sclerosis 2,612594,C0026769,susceptibility,ME
+9,56,Multiple sclerosis 5,614810,C0026769,susceptibility,ME
+9,57,Multiple sclerosis ,126200,C0026769,disease progression; modifier of,ME
+10,58,Epilepsy 4,617935,C1866990,familial focal; with variable foci 4,Ep
+10,59,Epilepsy 2,617116,C1866990,familial focal; with variable foci 2,Ep
+10,60,Epilepsy 3,617118,C1866990,familial focal; with variable foci 3,Ep
+10,61,Epilepsy 1,604364,C1866990,familial focal; with variable foci 1,Ep
+11,62,Cardiomyopathy; dilated; 1LL,615373,C0878544,AD,CA
+11,63,Left ventricular noncompaction 8,615373,C0878544,AD,CA
+11,64,Cardiomyopathy; dilated; 1CC,613122,C0878544,AD,CA
+11,65,Cardiomyopathy; dilated; 1A,115200,C0878544,AD,CA
+11,66,Cardiomyopathy; dilated; 1D,601494,C0878544,AD,CA
+11,67,Left ventricular noncompaction 6,601494,C0878544,AD,CA
+11,68,Cardiomyopathy; dilated; 1V,613697,C0878544,AD,CA
+11,69,Cardiomyopathy; hypertrophic; 23; with or without LVNC,612158,C0878544,AD,CA
+11,70,Cardiomyopathy; dilated; 1AA; with or without LVNC,612158,C0878544,AD,CA
+11,71,Cardiomyopathy; dilated; 1H,604288,C0878544,,CA
+11,72,Cardiomyopathy; dilated; 1G,604145,C0878544,,CA
+11,73,Cardiomyopathy; dilated; 1I,604765,C0878544,AD,CA
+11,74,Cardiomyopathy; dilated; 1NN,615916,C0878544,AD,CA
+11,75,Cardiomyopathy; dilated; 1E,601154,C0878544,AD,CA
+11,76,Cardiomyopathy; dilated; 1Z,611879,C0878544,,CA
+11,77,Cardiomyopathy; dilated; 1GG,613642,C0878544,AR,CA
+11,78,Cardiomyopathy; dilated; 1L,606685,C0878544,,CA
+11,79,Cardiomyopathy; dilated; 1K,605582,C0878544,,CA
+11,80,Cardiomyopathy; dilated; 1JJ,615235,C0878544,AD,CA
+11,81,Cardiomyopathy; dilated; 1P,609909,C0878544,,CA
+11,82,?Cardiomyopathy; dilated; 1J,605362,C0878544,AD,CA
+11,83,?Cardiomyopathy; dilated; 2B,614672,C0878544,AR,CA
+11,84,Cardiomyopathy; dilated; 1Q,609915,C0878544,,CA
+11,85,Cardiomyopathy; dilated 1B,600884,C0878544,AD,CA
+11,86,Cardiomyopathy; dilated; 1X,611615,C0878544,AR,CA
+11,87,Cardiomyopathy; hypertrophic; 22,615248,C0878544,AD,CA
+11,88,Cardiomyopathy; familial restrictive; 4,615248,C0878544,AD,CA
+11,89,Cardiomyopathy; dilated; 1KK,615248,C0878544,AD,CA
+11,90,Cardiomyopathy; dilated; 1W,611407,C0878544,,CA
+11,91,Cardiomyopathy; dilated; 1C; with or without LVNC,601493,C0878544,AD,CA
+11,92,Cardiomyopathy; hypertrophic; 24,601493,C0878544,AD,CA
+11,93,Left ventricular noncompaction 3,601493,C0878544,AD,CA
+11,94,Cardiomyopathy; dilated; 1DD,613172,C0878544,AD,CA
+11,95,Cardiomyopathy; dilated; 1HH,613881,C0878544,AD,CA
+11,96,?Cardiomyopathy; dilated; 1M,607482,C0878544,,CA
+11,97,Cardiomyopathy; dilated; 1MM,615396,C0878544,AD,CA
+11,98,Left ventricular noncompaction 10,615396,C0878544,AD,CA
+11,99,Cardiomyopathy; dilated; 1II,615184,C0878544,AD,CA
+11,100,Cardiomyopathy; dilated; 1O,608569,C0878544,AD,CA
+11,101,Cardiomyopathy; dilated; 1EE,613252,C0878544,,CA
+11,102,Left ventricular noncompaction 5,613426,C0878544,AD,CA
+11,103,Cardiomyopathy; dilated; 1S,613426,C0878544,AD,CA
+11,104,Cardiomyopathy; dilated; 1U,613694,C0878544,AD,CA
+11,105,Cardiomyopathy; dilated; 1R,613424,C0878544,AD,CA
+11,106,Left ventricular noncompaction 4,613424,C0878544,AD,CA
+11,107,Cardiomyopathy; dilated; 1Y,611878,C0878544,AD,CA
+11,108,Left ventricular noncompaction 9,611878,C0878544,AD,CA
+11,109,Cardiomyopathy; dilated; 1BB,612877,C0878544,,CA
+11,110,?Cardiomyopathy; dilated; 2A,611880,C0878544,AR,CA
+11,111,Cardiomyopathy; dilated; 1FF,613286,C0878544,,CA
+11,112,Cardiomyopathy; dilated; 3B,302045,C0878544,XL,CA
+12,113,Pulmonary hypertension; primary; 4,615344,C0443147,AD,PH
+12,114,Pulmonary hypertension; primary; fenfluramine or dexfenfluramine-associated,178600,C0443147,AD,PH
+12,115,Pulmonary hypertension; familial primary; 1; with or without HHT,178600,C0443147,AD,PH
+12,116,Pulmonary hypertension; primary; 3,615343,C0443147,AD,PH
+12,117,Pulmonary hypertension; primary; 2,615342,C0443147,AD,PH
+12,118,Pulmonary hypertension; primary; autosomal recessive,265400,C0443147,AR,PH
+13,119,Cystic fibrosis - Bronchiectasis with or without elevated sweat chloride 1,211400,C1857437,AD; cystic fibrosis,CF
+13,120,Cystic fibrosis - Pancreatitis; hereditary,167800,C1857437],AD; cystic fibrosis,CF
+13,121,Cystic fibrosis - Congenital bilateral absence of vas deferens,277180,C1857438,AR; cystic fibrosis,CF
+13,122,Cystic fibrosis - Cystic fibrosis,219700,C1857437],AR; cystic fibrosis,CF
+14,123,Hemochromatosis; type 2A,602390,C0441748,AR,HC
+14,124,Hemochromatosis; type 4,606069,C1853733,AD,HC
+14,125,Hemochromatosis,235200,C0003873,AR,HC
+14,126,Hemochromatosis; type 3,604250,C0003873,AR,HC
+14,127,?Hemochromatosis; type 5,615517,C0003873,AD,HC
+14,128,Hemochromatosis; type 2B,613313,C0003873,AR,HC
+14,129,HFE hemochromatosis,235200,C0003873,AR,HC
+14,130,African iron overload,601195,C0003873,AD,HC
+15,131,Microvascular complications of diabetes 4,612628, C0011881,,mcD
+15,132,Microvascular complications of diabetes 7,612635, C0011881,,mcD
+15,133,Microvascular complications of diabetes 1,603933, C0011881,,mcD
+15,134,Microvascular complications of diabetes 6,612634, C0011881,,mcD
+15,135,Microvascular complications of diabetes 5,612633, C0011881,,mcD
+15,136,Microvascular complications of diabetes 2,612623, C0011881,,mcD
+15,137,Microvascular complications of diabetes 3,612624, C0011881,,mcD
+15,138,Diabetes mellitus,222100,C0011847,AR; insulin-dependent; type1,DT1
+16,139,Abdominal obesity-metabolic syndrome 4,618620,C2930930,AD,Aob
+16,140,Abdominal obesity-metabolic syndrome 1,605552,C2930930,AD,Aob
+16,141,,605552,C2930930,AD,Aob
+16,142,Abdominal obesity-metabolic syndrome,605572,C2930930,AD,Aob
+16,143,Abdominal obesity-metabolic syndrome 3,615812,C2930930,AD,Aob
+17,144,Alzheimer disease 3,607822,C0002395,AD,AZH3
+17,145,Alzheimer disease 1; familial,104300,C0002395,AD,AZH1
+17,146,Alzheimer disease 2,104310,C0002395,AD,AZH2
+17,147,Alzheimer disease-4,606889,C0002395,AD,AZH4
+17,148,Alzheimer disease-5,602096,C0002395,AD,AZH5
+17,149,Alzheimer disease 6,605526,C0002395,AD,AZH6
+17,150,Alzheimer disease-7,606187,C0002395,AD,AZH7
+17,151,Alzheimer disease 8,607116,C0002395,AD,AZH8
+17,152,Alzheimer disease 9,608907,C0002395,AD,AZH9
+17,153,Alzheimer disease 10,609636,C0002395,AD,AZH10
+17,154,Alzheimer disease 11,609790,C0002395,AD,AZH11
+17,155,Alzheimer disease 18,155903,C0002395,AD,AZH18
+18,156,Huntington disease,143100,C1840466,AD,HD
+19,157,Phenylketonuria,261600,C1849914,AR,PKU
+20,158,Sickle cell anemia,603903, C0019034,AR; this disease is related with some other phenotypes ,AF
+20,159,Anemia; hemolytic,266120,C0272118,AR,AH
+20,160,Iron-refractory iron deficiency anemia,206200,C0272118,AR,AI
+20,161,Dyserythropoietic anemia; congenital; type Ib,615631,C0272118,AR,AD
+20,162,Dyserythropoietic anemia; congenital; type Ia,224120,C0272118,AR,AD
+20,163,Dyserythropoietic anemia; congenital; type III,105600,C0272118,AD,AD
+20,164,Dyserythropoietic anemia; congenital; type IV,613673,C0272118,AD,AD
+20,165,Dyserythropoietic anemia; congenital; type II,224100,C0272118,AR,AD
+21,166,Parkinson disease 7; autosomal recessive early-onset,606324, C0030567,AR,PKS
+21,167,Kufor-Rakeb syndrome,606693, C0030567,AR,PKS
+21,168,Parkinson disease 6; early onset,605909, C0030567,AR,PKS
+21,169,Parkinson disease 10,606852, C0030567,,PKS
+21,170,Parkinson disease 19a; juvenile-onset,615528, C0030567,AR,PKS
+21,171,Parkinson disease 19b; early-onset,615528, C0030567,AR,PKS
+21,172,Parkinson disease; late-onset; susceptibility to,168600, C0030567,AD; Mu,PKS
+21,173,Parkinson disease 16,613164, C0030567,,PKS
+21,174,Parkinson disease 3,602404, C0030567,,PKS
+21,175,Parkinson disease 13,610297, C0030567,,PKS
+21,176,Parkinson disease 11,607688, C0030567,,PKS
+21,177,Parkinson disease 21,616361, C0030567,AD,PKS
+21,178,Parkinson disease 18,614251, C0030567,AD,PKS
+21,179,?Parkinson disease 5; susceptibility to,613643, C0030567,AD,PKS
+21,180,Parkinson disease 4,605543, C0030567,AD,PKS
+21,181,Parkinson disease 1,168601, C0030567,AD,PKS
+21,182,Parkinson disease; susceptibility to,168600, C0030567,AD; Mu,PKS
+21,183,Parkinson disease; juvenile; type 2,600116, C0030567,AR,PKS
+21,184,Parkinson disease; susceptibility to,168600, C0030567,AD; Mu,PKS
+21,185,Parkinson disease 22; autosomal dominant,616710, C0030567,AD,PKS
+21,186,Parkinson disease 8,607060, C0030567,AD,PKS
+21,187,Parkinson disease; late-onset; susceptibility to,168600, C0030567,AD; Mu,PKS
+21,188,Parkinson disease; susceptibility to,168600, C0030567,AD; Mu,PKS
+21,189,Parkinson disease 23; autosomal recessive; early onset,616840, C0030567,AR,PKS
+21,190,Parkinson disease 17,614203, C0030567,AD,PKS
+21,191,Parkinson disease; susceptibility to,168600, C0030567,AD; Mu,PKS
+21,192,Parkinson disease 20; early-onset,615530, C0030567,AR,PKS
+21,193,Parkinson disease 15; autosomal recessive,260300, C0030567,AR,PKS
+21,194,Parkinson disease 14; autosomal recessive,612953, C0030567,AR,PKS
+21,195,Parkinson disease 12,300557, C0030567,,PKS
+21,196,Parkinson disease; age of onset; modifier,168600, C0030567,AD; Mu,PKS
