@@ -1,0 +1,22 @@
+ID;NAME;Disease_OMIM;cuid;uri
+1;Phenylketonuria ;261600;C0031485;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0031485&type=properties
+2;Cystic Fibrosis;219700;C0010674;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0010674&type=properties
+3;Sickle-cell anemia;603903;C0002895;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0002895&type=properties
+4;Huntington's disease;143100;C0020179;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0020179&type=properties
+5;Myotonic dystrophy type 1;160900;C3250443;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C3250443&type=properties
+6;Neurofibromatosis, type 1;162200;C0027831;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0027831&type=properties
+7;Polycystic kidney disease 1 ;173900;C3149841;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C3149841&type=properties
+8;Tuberous Sclerosis;191100;C0041341;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0041341&type=properties
+9;Hemophilia A;306700;C0019069;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0019069&type=properties
+10;Muscular dystrophy, Duchenne type;310200;C0013264;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0013264&type=properties
+11;Hypophosphatemic rickets, X-Linked;307800;C3536983;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C3536983&type=properties
+12;Rett's Syndrome;312750;C0035372;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0035372&type=properties
+13;Alpha-1 antitrypsin deficiency;613490;C0221757;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0221757&type=properties
+14;TIMOTHY SYNDROME;601005;C1832916;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C1832916&type=properties
+15;Estrogen resistance ;615363;C3809250;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C3809250&type=properties
+16;FACTOR X DEFICIENCY ; 227600;C0015519;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0015519&type=properties
+17;HYPOGONADISM;146110;C0020619;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0020619&type=properties
+18;DONOHUE SYNDROME;246200;C0265344;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0265344&type=properties
+19;PANCREATIC LIPASE DEFICIENCY;614338;C0268240;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0268240&type=properties
+20;GAUCHER DISEASE, TYPE I;230800;C0017205;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0017205&type=properties
+21;Familial amyloid polyneuropathy;105210;C0206245;https://ncimeta.nci.nih.gov/ncimbrowser/pages/concept_details.jsf?dictionary=NCI%20Metathesaurus&code=C0206245&type=properties

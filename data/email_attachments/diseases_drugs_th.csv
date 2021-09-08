@@ -1,0 +1,3916 @@
+,Drug,Disease
+0,MEMANTINE,Alzheimer's disease
+10,IBUPROFEN,Alzheimer's disease
+11,QUINIDINE,Alzheimer's disease
+13,ACETAMINOPHEN,Alzheimer's disease
+18,METHYLPHENIDATE,Alzheimer's disease
+20,SIMVASTATIN,Alzheimer's disease
+21,NICOTINE,Alzheimer's disease
+28,CARVEDILOL,Alzheimer's disease
+30,DEXTROMETHORPHAN,Alzheimer's disease
+45,"ESTROGENS, CONJUGATED",Alzheimer's disease
+46,CELECOXIB,Alzheimer's disease
+48,MASITINIB,Alzheimer's disease
+49,ARIPIPRAZOLE,Alzheimer's disease
+51,TARENFLURBIL,Alzheimer's disease
+55,RISPERIDONE,Alzheimer's disease
+63,NAPROXEN,Alzheimer's disease
+64,CAFFEINE,Alzheimer's disease
+71,VALPROIC ACID,Alzheimer's disease
+73,INDOMETHACIN,Alzheimer's disease
+77,DOXYCYCLINE,Alzheimer's disease
+85,ROSIGLITAZONE,Alzheimer's disease
+91,ATORVASTATIN,Alzheimer's disease
+114,ERGOCALCIFEROL,Alzheimer's disease
+119,PREDNISONE,Alzheimer's disease
+129,LEVETIRACETAM,Alzheimer's disease
+132,ACITRETIN,Alzheimer's disease
+138,ESTRADIOL,Alzheimer's disease
+139,SARACATINIB,Alzheimer's disease
+140,MIFEPRISTONE,Alzheimer's disease
+143,RILUZOLE,Alzheimer's disease
+151,RG3487,Alzheimer's disease
+158,THALIDOMIDE,Alzheimer's disease
+159,SARGRAMOSTIM,Alzheimer's disease
+163,BEXAROTENE,Alzheimer's disease
+174,VARENICLINE,Alzheimer's disease
+187,ETANERCEPT,Alzheimer's disease
+205,LIRAGLUTIDE,Alzheimer's disease
+214,LITHIUM CARBONATE,Alzheimer's disease
+243,PIOGLITAZONE,Alzheimer's disease
+247,VENLAFAXINE,Alzheimer's disease
+248,MIDAZOLAM,Alzheimer's disease
+250,BREXANOLONE,Alzheimer's disease
+252,BUPROPION,Alzheimer's disease
+257,DASATINIB,Alzheimer's disease
+260,LORAZEPAM,Alzheimer's disease
+268,VORINOSTAT,Alzheimer's disease
+269,DEXMEDETOMIDINE,Alzheimer's disease
+271,OMEPRAZOLE,Alzheimer's disease
+284,WARFARIN,Alzheimer's disease
+293,ISOTRETINOIN,Alzheimer's disease
+296,BROMOCRIPTINE,Alzheimer's disease
+312,FILGRASTIM,Alzheimer's disease
+332,PANOBINOSTAT,primary myelofibrosis
+333,MYCOPHENOLATE MOFETIL,Beta-thalassemia major
+336,ACETAMINOPHEN,Sickle cell anemia
+338,FLUDARABINE PHOSPHATE,Beta-thalassemia major
+340,DEXAMETHASONE,hemolytic anemia
+341,KETAMINE,Sickle cell anemia
+343,SIROLIMUS,pure red-cell aplasia
+346,SILDENAFIL,Sickle cell anemia
+347,IBUPROFEN,Sickle cell anemia
+355,DEXTROMETHORPHAN,Sickle cell anemia
+358,CYCLOSPORINE,Beta-thalassemia major
+360,METHOTREXATE,Beta-thalassemia major
+361,RUXOLITINIB,Beta-thalassemia major
+374,RUXOLITINIB,primary myelofibrosis
+375,PREDNISONE,hemolytic anemia
+376,TACROLIMUS,Beta-thalassemia major
+378,SIROLIMUS,Paroxysmal nocturnal hemoglobinuria
+386,HYDROXYUREA,Sickle cell anemia
+388,OMEPRAZOLE,Congenital dyserythropoietic anemia type I
+400,PREDNISOLONE,hemolytic anemia
+405,TACROLIMUS,pure red-cell aplasia
+406,CYTARABINE,refractory anemia with ringed sideroblasts
+407,FLUDARABINE PHOSPHATE,Sickle cell anemia
+409,POMALIDOMIDE,primary myelofibrosis
+410,METHYLPHENIDATE,Sickle cell anemia
+412,FLUDARABINE PHOSPHATE,refractory anemia with ringed sideroblasts
+415,NAVITOCLAX,primary myelofibrosis
+417,ALDESLEUKIN,refractory anemia with ringed sideroblasts
+419,HYDROCORTISONE,refractory anemia with ringed sideroblasts
+434,RITUXIMAB,"Anemia, Hemolytic, Autoimmune"
+437,DEXAMETHASONE,Sickle cell anemia
+441,HYDROXYUREA,primary myelofibrosis
+447,DEXAMETHASONE,refractory anemia with ringed sideroblasts
+450,ETOPOSIDE,refractory anemia with ringed sideroblasts
+457,FILGRASTIM,refractory anemia with ringed sideroblasts
+458,PEGINTERFERON ALFA-2B,primary myelofibrosis
+468,PREDNISOLONE,"Anemia, Hemolytic, Autoimmune"
+470,ALEMTUZUMAB,Sickle cell anemia
+471,PREDNISOLONE,pure red-cell aplasia
+485,ERGOCALCIFEROL,Sickle cell anemia
+486,CYCLOSPORINE,pure red-cell aplasia
+492,MYCOPHENOLATE MOFETIL,pure red-cell aplasia
+494,METHOTREXATE,refractory anemia with ringed sideroblasts
+498,MYCOPHENOLATE MOFETIL,primary myelofibrosis
+499,FLUDARABINE PHOSPHATE,Beta-thalassemia
+500,FLUDARABINE PHOSPHATE,Fanconi anemia
+501,FLUDARABINE PHOSPHATE,primary myelofibrosis
+502,METFORMIN,Fanconi anemia
+504,ALEMTUZUMAB,Beta-thalassemia
+505,FLUDARABINE PHOSPHATE,Paroxysmal nocturnal hemoglobinuria
+506,MEMANTINE,Sickle cell anemia
+507,AMLODIPINE,Beta-thalassemia major
+512,FLUDARABINE PHOSPHATE,Congenital amegakaryocytic thrombocytopenia
+514,FILGRASTIM,Fanconi anemia
+516,RITUXIMAB,Sickle cell anemia
+518,MYCOPHENOLATE MOFETIL,Sickle cell anemia
+519,DIPYRIDAMOLE,Sickle cell anemia
+524,RITUXIMAB,hemolytic-uremic syndrome
+526,VORINOSTAT,Sickle cell anemia
+528,MYCOPHENOLATE MOFETIL,Paroxysmal nocturnal hemoglobinuria
+532,NITRIC OXIDE,Sickle cell anemia
+534,PHENYTOIN,Sickle cell anemia
+539,THALIDOMIDE,primary myelofibrosis
+540,SIROLIMUS,anemia (disease)
+544,FILGRASTIM,Sickle cell anemia
+551,LENALIDOMIDE,primary myelofibrosis
+553,AZACITIDINE,Beta-thalassemia
+565,SIROLIMUS,Beta-thalassemia
+582,TACROLIMUS,Sickle cell anemia
+588,TACROLIMUS,primary myelofibrosis
+590,PROPRANOLOL,Sickle cell anemia
+598,RIOCIGUAT,Sickle cell anemia
+601,SIROLIMUS,Fanconi anemia
+608,METHYLPREDNISOLONE,Fanconi anemia
+611,SIROLIMUS,Sickle cell anemia
+614,BORTEZOMIB,pure red-cell aplasia
+615,MYCOPHENOLATE MOFETIL,Fanconi anemia
+618,LEVETIRACETAM,Sickle cell anemia
+619,PREDNISONE,"Anemia, Hemolytic, Autoimmune"
+624,HYDROXYUREA,Hemoglobin SC Disease
+625,TIPIFARNIB,primary myelofibrosis
+630,ALEMTUZUMAB,"Anemia, Hemolytic, Autoimmune"
+632,HYDROXYUREA,Beta-thalassemia
+634,PREDNISONE,primary myelofibrosis
+637,METHOTREXATE,Sickle cell anemia
+644,ATORVASTATIN,Sickle cell anemia
+647,HYDROXYUREA,Beta-thalassemia intermedia
+655,TRETINOIN,anemia (disease)
+667,METHOTREXATE,primary myelofibrosis
+679,DEXAMETHASONE,pure red-cell aplasia
+682,METHOTREXATE,Congenital amegakaryocytic thrombocytopenia
+684,ZOLEDRONIC ACID,Beta-thalassemia
+687,MYCOPHENOLATE MOFETIL,Congenital amegakaryocytic thrombocytopenia
+707,ZOLEDRONIC ACID,primary myelofibrosis
+720,METHOTREXATE,Paroxysmal nocturnal hemoglobinuria
+725,METOPROLOL,Beta-thalassemia
+738,TACROLIMUS,Congenital amegakaryocytic thrombocytopenia
+740,AZACITIDINE,Beta-thalassemia major
+747,TACROLIMUS,Paroxysmal nocturnal hemoglobinuria
+757,SIMVASTATIN,Sickle cell anemia
+758,IMATINIB,primary myelofibrosis
+759,AMBRISENTAN,Sickle cell anemia
+760,VATALANIB,primary myelofibrosis
+761,CYCLOSPORINE,Fanconi anemia
+763,PANOBINOSTAT,Sickle cell anemia
+767,POMALIDOMIDE,Sickle cell anemia
+768,DECITABINE,Sickle cell anemia
+769,CHOLECALCIFEROL,Sickle cell anemia
+771,CYCLOSPORINE,Sickle cell anemia
+774,ALDESLEUKIN,"Anemia, Hemolytic, Autoimmune"
+777,ALEMTUZUMAB,Fanconi anemia
+781,TACROLIMUS,Beta-thalassemia
+783,CYCLOSPORINE,Beta-thalassemia
+785,ZOLEDRONIC ACID,Sickle cell anemia
+793,ASPIRIN,Sickle cell anemia
+794,MYCOPHENOLATE MOFETIL,Beta-thalassemia
+810,PREDNISONE,Fanconi anemia
+811,METHOTREXATE,Fanconi anemia
+817,DURVALUMAB,primary myelofibrosis
+818,ARSENIC TRIOXIDE,primary myelofibrosis
+820,METFORMIN,Sickle cell anemia
+822,FILGRASTIM,primary myelofibrosis
+825,IMATINIB,Sickle cell anemia
+858,ETANERCEPT,Fanconi anemia
+879,EPINEPHRINE,asthma
+881,THEOPHYLLINE,asthma
+883,CARBAMAZEPINE,asthma
+889,LAMOTRIGINE,asthma
+891,HYDROCORTISONE,asthma
+893,METHYLPREDNISOLONE,asthma
+902,PREDNISONE,asthma
+911,PREDNISOLONE,asthma
+912,EPHEDRINE,asthma
+913,PREDNISONE,Status Asthmaticus
+914,PHENYTOIN,asthma
+917,DEXAMETHASONE,asthma
+918,DEXAMETHASONE,Status Asthmaticus
+925,ASPIRIN,asthma
+928,OXCARBAZEPINE,asthma
+940,VALPROIC ACID,asthma
+941,NITRIC OXIDE,asthma
+955,PROPRANOLOL,asthma
+960,ERGOCALCIFEROL,asthma
+963,DEXTROMETHORPHAN,asthma
+967,CHOLECALCIFEROL,asthma
+993,CALCITRIOL,asthma
+1006,VARENICLINE,asthma
+1021,COLCHICINE,asthma
+1023,ROFLUMILAST,asthma
+1026,SIMVASTATIN,asthma
+1029,KETAMINE,Status Asthmaticus
+1036,MASITINIB,asthma
+1053,METHOTREXATE,asthma
+1061,ROFLUMILAST,allergic asthma
+1071,ASM-024,allergic asthma
+1072,ROSIGLITAZONE,asthma
+1074,ABATACEPT,atopic asthma
+1075,ASM-024,asthma
+1079,SECUKINUMAB,asthma
+1085,BOSENTAN,asthma
+1088,FINGOLIMOD,asthma
+1090,TACROLIMUS,asthma
+1118,IMATINIB,asthma
+1122,PIOGLITAZONE,asthma
+1133,ATORVASTATIN,asthma
+1137,AMBRISENTAN,asthma
+1146,ETANERCEPT,asthma
+1170,INDOMETHACIN,asthma
+1181,ROSUVASTATIN,asthma
+1184,RISPERIDONE,autism
+1187,ARIPIPRAZOLE,autism
+1189,TRICLOFOS,autism
+1201,DEXMEDETOMIDINE,autism
+1204,VALPROIC ACID,autism
+1214,MEMANTINE,autism
+1229,QUINIDINE,autism
+1232,ACAMPROSATE,autism
+1233,OLANZAPINE,autism
+1240,VASOPRESSIN,autism
+1244,CHOLECALCIFEROL,autism
+1245,MELATONIN,autism
+1248,CANNABIDIOL,autism
+1254,DEXTROMETHORPHAN,autism
+1255,LENALIDOMIDE,autism
+1296,DEXMEDETOMIDINE,pituitary cancer
+1299,VINCRISTINE,brain cancer
+1300,DOXORUBICIN,brain cancer
+1304,ETOPOSIDE,brain cancer
+1307,BEVACIZUMAB,gliosarcoma
+1308,METHOTREXATE,brain cancer
+1310,NIVOLUMAB,brain cancer
+1314,IRINOTECAN,brain cancer
+1315,DOVITINIB,gliosarcoma
+1316,CEDIRANIB,gliosarcoma
+1317,NINTEDANIB,gliosarcoma
+1318,DASATINIB,gliosarcoma
+1319,IMATINIB,gliosarcoma
+1320,SORAFENIB,gliosarcoma
+1322,SUNITINIB,gliosarcoma
+1323,NIVOLUMAB,pituitary adenocarcinoma (disease)
+1324,ETOPOSIDE,gliosarcoma
+1326,HYDROXYUREA,gliosarcoma
+1327,PANOBINOSTAT,diffuse intrinsic pontine glioma
+1328,PAZOPANIB,gliosarcoma
+1329,PEMBROLIZUMAB,gliosarcoma
+1330,VANDETANIB,gliosarcoma
+1331,DASATINIB,Pineoblastoma
+1332,VINORELBINE,diffuse intrinsic pontine glioma
+1335,DASATINIB,diffuse intrinsic pontine glioma
+1336,CETUXIMAB,brain cancer
+1339,LENALIDOMIDE,gliosarcoma
+1343,EVEROLIMUS,diffuse intrinsic pontine glioma
+1345,VORINOSTAT,gliosarcoma
+1347,TIPIFARNIB,childhood brain stem glioma
+1348,ERLOTINIB,gliosarcoma
+1350,PASIREOTIDE,ACTH-Producing Pituitary Gland Carcinoma
+1357,CILENGITIDE,gliosarcoma
+1358,SIROLIMUS,Pineoblastoma
+1364,DACOMITINIB,brain cancer
+1365,VELIPARIB,gliosarcoma
+1366,IRINOTECAN,brain glioma
+1372,MOTEXAFIN GADOLINIUM,childhood brain stem glioma
+1385,LITHIUM CARBONATE,brain cancer
+1387,ERLOTINIB,diffuse intrinsic pontine glioma
+1388,SIROLIMUS,gliosarcoma
+1393,ANLOTINIB,brainstem cancer
+1397,IPILIMUMAB,gliosarcoma
+1407,IRINOTECAN,Pineoblastoma
+1408,IRINOTECAN,gliosarcoma
+1412,CARMUSTINE,gliosarcoma
+1413,IPILIMUMAB,pituitary adenocarcinoma (disease)
+1422,SARGRAMOSTIM,gliosarcoma
+1423,DEXAMETHASONE,brain cancer
+1436,NIMOTUZUMAB,diffuse intrinsic pontine glioma
+1446,TIPIFARNIB,gliosarcoma
+1448,GEFITINIB,gliosarcoma
+1451,CAPECITABINE,brain cancer
+1455,BORTEZOMIB,gliosarcoma
+1459,BEVACIZUMAB,brain cancer
+1460,BEVACIZUMAB,diffuse intrinsic pontine glioma
+1475,CELECOXIB,brain cancer
+1476,AFLIBERCEPT,gliosarcoma
+1480,NIVOLUMAB,gliosarcoma
+1482,LAPATINIB,brain cancer
+1486,TEMSIROLIMUS,gliosarcoma
+1494,PANITUMUMAB,brain glioma
+1495,TOPOTECAN,gliosarcoma
+1498,LAPATINIB,gliosarcoma
+1520,BEVACIZUMAB,Pineoblastoma
+1535,NIMOTUZUMAB,childhood brain stem neoplasm
+1544,CARMUSTINE,brain cancer
+1546,IXABEPILONE,gliosarcoma
+1547,ACETAZOLAMIDE,brain glioma
+1548,AFATINIB,brain cancer
+1550,SELINEXOR,gliosarcoma
+1551,FLUDARABINE PHOSPHATE,Brain Stem Glioma
+1552,CABAZITAXEL,brain cancer
+1553,METFORMIN,gliosarcoma
+1554,VORINOSTAT,brain cancer
+1555,GEMCITABINE,brain cancer
+1557,FLUDARABINE PHOSPHATE,brain cancer
+1560,SARGRAMOSTIM,Brain Stem Glioma
+1561,VORINOSTAT,diffuse intrinsic pontine glioma
+1563,VANDETANIB,diffuse intrinsic pontine glioma
+1564,FLUDARABINE PHOSPHATE,gliosarcoma
+1568,IMIQUIMOD,diffuse intrinsic pontine glioma
+1569,CILENGITIDE,diffuse intrinsic pontine glioma
+1571,FLUDARABINE PHOSPHATE,diffuse intrinsic pontine glioma
+1572,FILGRASTIM,gliosarcoma
+1576,UCN-01,Olfactory Neuroblastoma
+1577,PACLITAXEL,gliosarcoma
+1581,ISOTRETINOIN,gliosarcoma
+1582,ATEZOLIZUMAB,gliosarcoma
+1583,CABOZANTINIB,gliosarcoma
+1584,ZOTIRACICLIB,gliosarcoma
+1587,LENALIDOMIDE,diffuse intrinsic pontine glioma
+1604,MEMANTINE,gliosarcoma
+1619,ROMIDEPSIN,gliosarcoma
+1622,IRINOTECAN,Olfactory Neuroblastoma
+1624,ARSENIC TRIOXIDE,gliosarcoma
+1625,RIBOCICLIB,diffuse intrinsic pontine glioma
+1627,NIVOLUMAB,diffuse intrinsic pontine glioma
+1634,ARSENIC TRIOXIDE,brain cancer
+1637,MYCOPHENOLATE MOFETIL,gliosarcoma
+1642,ABEMACICLIB,diffuse intrinsic pontine glioma
+1645,MOTEXAFIN GADOLINIUM,gliosarcoma
+1661,ERLOTINIB,brain cancer
+1681,ERLOTINIB,Brain Stem Glioma
+1684,PEMBROLIZUMAB,brain cancer
+1694,PEGFILGRASTIM,brain cancer
+1697,ALDESLEUKIN,gliosarcoma
+1711,TEMSIROLIMUS,diffuse intrinsic pontine glioma
+1717,AXITINIB,gliosarcoma
+1743,FILGRASTIM,brain cancer
+1762,IRINOTECAN,diffuse intrinsic pontine glioma
+1777,CRIZOTINIB,diffuse intrinsic pontine glioma
+1805,IMIQUIMOD,brain cancer
+1810,CEMIPLIMAB,diffuse intrinsic pontine glioma
+1824,PIOGLITAZONE,brain cancer
+1826,GEMCITABINE,diffuse intrinsic pontine glioma
+1838,PACLITAXEL,breast cancer
+1839,DOCETAXEL,breast cancer
+1840,ANASTROZOLE,breast carcinoma
+1843,DOCETAXEL,breast carcinoma
+1847,PACLITAXEL,breast carcinoma
+1848,VINORELBINE,breast cancer
+1849,PROPOFOL,female breast carcinoma
+1853,IXABEPILONE,breast carcinoma
+1858,ZOLEDRONIC ACID,breast cancer
+1860,ERIBULIN,breast cancer
+1864,LETROZOLE,breast carcinoma
+1865,GEMCITABINE,breast carcinoma
+1866,TRASTUZUMAB,breast carcinoma
+1867,FULVESTRANT,breast carcinoma
+1868,ANASTROZOLE,breast cancer
+1869,TRASTUZUMAB EMTANSINE,breast cancer
+1877,ERIBULIN,breast carcinoma
+1884,ROPIVACAINE,breast cancer
+1885,CAPECITABINE,breast carcinoma
+1886,FILGRASTIM,breast cancer
+1888,SEVOFLURANE,female breast carcinoma
+1889,LETROZOLE,breast cancer
+1901,FULVESTRANT,breast cancer
+1902,BEVACIZUMAB,breast cancer
+1903,ABEMACICLIB,breast cancer
+1908,KETAMINE,breast cancer
+1911,PERTUZUMAB,breast carcinoma
+1914,TRASTUZUMAB EMTANSINE,breast carcinoma
+1915,TRASTUZUMAB,breast cancer
+1917,TAMOXIFEN,breast cancer
+1918,ABEMACICLIB,breast carcinoma
+1919,EVEROLIMUS,breast cancer
+1923,DOXORUBICIN,breast cancer
+1935,CAPECITABINE,breast cancer
+1936,TAMOXIFEN,breast carcinoma in situ
+1942,IMATINIB,breast cancer
+1953,LAPATINIB,breast carcinoma
+1955,ROPIVACAINE,breast ductal carcinoma in situ
+1968,PALBOCICLIB,breast carcinoma
+1977,DEXMEDETOMIDINE,breast cancer
+1978,PEGFILGRASTIM,breast cancer
+1980,PALBOCICLIB,breast cancer
+1984,RIBOCICLIB,breast carcinoma
+1989,BEVACIZUMAB,breast carcinoma
+1990,EVEROLIMUS,breast carcinoma
+2008,NERATINIB,breast carcinoma
+2010,TALAZOPARIB,breast carcinoma
+2027,ANASTROZOLE,breast carcinoma in situ
+2050,METHOTREXATE,breast carcinoma
+2052,LETROZOLE,breast carcinoma in situ
+2054,PERTUZUMAB,breast cancer
+2083,GEMCITABINE,breast cancer
+2085,METFORMIN,breast cancer
+2086,TAMOXIFEN,breast adenocarcinoma
+2089,DOCETAXEL,inflammatory breast carcinoma
+2090,TAMOXIFEN,male breast carcinoma
+2092,DOXORUBICIN,breast adenocarcinoma
+2095,FLUOROURACIL,breast cancer
+2096,DOCETAXEL,breast adenocarcinoma
+2099,PACLITAXEL,breast adenocarcinoma
+2100,CYTARABINE,breast cancer
+2102,PACLITAXEL,triple-negative breast cancer
+2103,NIRAPARIB,Hereditary breast and ovarian cancer syndrome
+2105,OLAPARIB,breast cancer
+2106,IXABEPILONE,breast cancer
+2110,LAPATINIB,breast cancer
+2112,ENTINOSTAT,breast adenocarcinoma
+2114,CELECOXIB,breast cancer
+2118,DOXORUBICIN,inflammatory breast carcinoma
+2123,ATEZOLIZUMAB,breast cancer
+2125,ALDESLEUKIN,breast cancer
+2126,NERATINIB,breast cancer
+2127,VINFLUNINE,breast cancer
+2131,PACLITAXEL,inflammatory breast carcinoma
+2134,RIBOCICLIB,breast cancer
+2137,IPATASERTIB,triple-negative breast cancer
+2142,OCTREOTIDE,breast cancer
+2143,ERIBULIN,breast adenocarcinoma
+2145,TRASTUZUMAB,breast adenocarcinoma
+2146,SORAFENIB,breast cancer
+2147,TASELISIB,breast cancer
+2152,BUPARLISIB,breast cancer
+2155,FULVESTRANT,invasive breast ductal carcinoma
+2160,LIDOCAINE,breast cancer
+2165,PERTUZUMAB,breast adenocarcinoma
+2169,METHOTREXATE,breast cancer
+2170,ENTINOSTAT,breast cancer
+2180,GEMCITABINE,triple-negative breast cancer
+2181,CAPIVASERTIB,breast cancer
+2182,PACLITAXEL,invasive breast ductal carcinoma
+2191,MARIMASTAT,breast cancer
+2196,DENOSUMAB,breast cancer
+2202,DOXORUBICIN,triple-negative breast cancer
+2210,TRASTUZUMAB,male breast carcinoma
+2212,ASPIRIN,breast cancer
+2218,RIVOCERANIB,breast cancer
+2221,FILGRASTIM,triple-negative breast cancer
+2223,CHOLECALCIFEROL,breast cancer
+2225,VELIPARIB,breast cancer
+2226,PEMBROLIZUMAB,breast cancer
+2232,"ESTROGENS, CONJUGATED",breast cancer
+2239,CYCLOSPORINE,breast cancer
+2242,METOPROLOL,breast cancer
+2246,TAMOXIFEN,breast carcinoma
+2254,TRASTUZUMAB,inflammatory breast carcinoma
+2263,PACLITAXEL,male breast carcinoma
+2266,LETROZOLE,breast ductal carcinoma in situ
+2268,ANASTROZOLE,invasive breast ductal carcinoma
+2270,RAMUCIRUMAB,breast cancer
+2271,DOXORUBICIN,breast carcinoma
+2285,MELATONIN,breast cancer
+2291,SARGRAMOSTIM,breast cancer
+2294,PEMBROLIZUMAB,breast carcinoma in situ
+2299,ATEZOLIZUMAB,triple-negative breast cancer
+2300,ERGOCALCIFEROL,breast cancer
+2312,TRASTUZUMAB,breast ductal carcinoma in situ
+2313,FULVESTRANT,invasive lobular carcinoma
+2317,INTERFERON GAMMA-1B,breast cancer
+2330,IRINOTECAN,breast cancer
+2335,CARMUSTINE,breast cancer
+2337,BEVACIZUMAB,breast adenocarcinoma
+2343,PERTUZUMAB,inflammatory breast carcinoma
+2356,FLUOROURACIL,inflammatory breast carcinoma
+2369,LETROZOLE,Hereditary breast and ovarian cancer syndrome
+2374,ANASTROZOLE,breast adenocarcinoma
+2375,PEGFILGRASTIM,triple-negative breast cancer
+2377,GEFITINIB,breast cancer
+2383,ATEZOLIZUMAB,invasive breast ductal carcinoma
+2386,IPATASERTIB,breast cancer
+2387,ATORVASTATIN,breast cancer
+2390,TAMOXIFEN,breast ductal carcinoma in situ
+2392,LAPATINIB,male breast carcinoma
+2400,ESTRADIOL,breast cancer
+2401,ETOPOSIDE,breast cancer
+2403,TAMOXIFEN,inflammatory breast carcinoma
+2404,ANASTROZOLE,breast ductal carcinoma in situ
+2415,NIVOLUMAB,breast cancer
+2418,LETROZOLE,breast adenocarcinoma
+2421,ATEZOLIZUMAB,breast adenocarcinoma
+2437,ANASTROZOLE,invasive lobular carcinoma
+2453,PREDNISONE,breast cancer
+2468,VORINOSTAT,breast cancer
+2469,CARVEDILOL,breast cancer
+2470,METFORMIN,breast carcinoma
+2471,CABAZITAXEL,breast cancer
+2472,DOCETAXEL,triple-negative breast cancer
+2475,MIRVETUXIMAB SORAVTANSINE,breast carcinoma
+2476,PEMETREXED,breast cancer
+2477,SELUMETINIB,breast cancer
+2478,PICTILISIB,breast cancer
+2479,RUCAPARIB,breast cancer
+2480,ARSENIC TRIOXIDE,breast cancer
+2481,ESTRADIOL,breast carcinoma
+2482,ANLOTINIB,breast cancer
+2483,DOVITINIB,breast cancer
+2484,PAZOPANIB,male breast carcinoma
+2485,LUCITANIB,breast cancer
+2486,TALAZOPARIB,breast cancer
+2488,NINTEDANIB,breast cancer
+2489,FLUDARABINE PHOSPHATE,breast cancer
+2491,BMS-690514,breast cancer
+2494,UPROSERTIB,breast carcinoma
+2495,VINORELBINE,triple-negative breast cancer
+2497,DASATINIB,breast cancer
+2498,VENLAFAXINE,breast cancer
+2499,PACLITAXEL POLIGLUMEX,breast cancer
+2500,PAZOPANIB,breast cancer
+2501,SUNITINIB,breast cancer
+2502,CIXUTUMUMAB,breast carcinoma
+2504,GEDATOLISIB,breast cancer
+2508,SUNITINIB,male breast carcinoma
+2509,SEVOFLURANE,breast cancer
+2510,SAGOPILONE,breast cancer
+2513,VANDETANIB,breast cancer
+2514,PEGFILGRASTIM,breast carcinoma
+2517,DOCETAXEL,Hereditary breast and ovarian cancer syndrome
+2518,CABOZANTINIB,breast cancer
+2524,ESTRADIOL,Hereditary breast and ovarian cancer syndrome
+2525,METFORMIN,triple-negative breast cancer
+2526,ERIBULIN,Hereditary breast and ovarian cancer syndrome
+2528,ERLOTINIB,breast carcinoma
+2530,ERIBULIN,male breast carcinoma
+2531,PACLITAXEL,breast ductal adenocarcinoma
+2535,OLAPARIB,breast carcinoma
+2536,PEMBROLIZUMAB,breast carcinoma
+2537,SAPITINIB,breast cancer
+2540,AFATINIB,breast cancer
+2542,TAMOXIFEN,Hereditary breast and ovarian cancer syndrome
+2543,RUCAPARIB,Hereditary breast and ovarian cancer syndrome
+2544,FORETINIB,breast cancer
+2550,RUXOLITINIB,breast cancer
+2557,DACTOLISIB,breast cancer
+2563,ERIBULIN,triple-negative breast cancer
+2567,PANOBINOSTAT,breast cancer
+2568,COPANLISIB,breast cancer
+2570,GANETESPIB,breast cancer
+2574,PACLITAXEL,Hereditary breast and ovarian cancer syndrome
+2579,LAPATINIB,breast ductal adenocarcinoma
+2582,ENTINOSTAT,male breast carcinoma
+2586,CEDIRANIB,breast carcinoma
+2587,GEMCITABINE,male breast carcinoma
+2591,IXABEPILONE,male breast carcinoma
+2592,OMEPRAZOLE,breast carcinoma
+2593,DURVALUMAB,breast cancer
+2595,DEXAMETHASONE,breast cancer
+2596,PROPRANOLOL,breast cancer
+2603,CEDIRANIB,male breast carcinoma
+2613,TANESPIMYCIN,breast cancer
+2614,NALTREXONE,breast cancer
+2615,ENMD-981693,breast cancer
+2616,SORAFENIB,male breast carcinoma
+2619,ENTRECTINIB,invasive lobular carcinoma
+2620,APITOLISIB,breast cancer
+2621,ERIBULIN,inflammatory breast carcinoma
+2623,BOSUTINIB,breast cancer
+2627,TRASTUZUMAB EMTANSINE,breast adenocarcinoma
+2629,ENTINOSTAT,triple-negative breast cancer
+2630,IMATINIB,male breast carcinoma
+2632,THALIDOMIDE,breast cancer
+2634,SUNITINIB,inflammatory breast carcinoma
+2637,LINSITINIB,breast cancer
+2643,SAMOTOLISIB,breast cancer
+2644,IPILIMUMAB,breast cancer
+2647,CARMUSTINE,breast carcinoma
+2649,POZIOTINIB,breast cancer
+2651,VELIPARIB,Hereditary breast and ovarian cancer syndrome
+2653,SIMVASTATIN,breast carcinoma
+2655,DENOSUMAB,breast carcinoma
+2660,FILGRASTIM,inflammatory breast carcinoma
+2664,DOCETAXEL,breast ductal carcinoma in situ
+2667,ERLOTINIB,breast cancer
+2675,PEMBROLIZUMAB,Hereditary breast and ovarian cancer syndrome
+2676,PASIREOTIDE,breast cancer
+2687,ADAVOSERTIB,breast cancer
+2692,EPINEPHRINE,breast cancer
+2693,AVELUMAB,breast cancer
+2697,MK-2206,breast carcinoma
+2700,HYDROXYCHLOROQUINE,breast cancer
+2706,CAFFEINE,breast carcinoma
+2708,TIVOZANIB,breast cancer
+2710,PANITUMUMAB,breast cancer
+2713,TALAZOPARIB,Hereditary breast and ovarian cancer syndrome
+2720,MK-2206,breast cancer
+2722,MIDAZOLAM,breast cancer
+2725,LENVATINIB,salivary duct carcinoma
+2730,BEVACIZUMAB,male breast carcinoma
+2731,CHOLECALCIFEROL,Hereditary breast and ovarian cancer syndrome
+2736,DIGOXIN,breast cancer
+2738,TREMELIMUMAB,breast carcinoma
+2753,ROSUVASTATIN,breast cancer
+2755,VINORELBINE,male breast carcinoma
+2763,FULVESTRANT,breast ductal carcinoma in situ
+2770,SIMVASTATIN,breast cancer
+2780,ROMIDEPSIN,male breast carcinoma
+2786,VISTUSERTIB,breast cancer
+2809,SIROLIMUS,breast cancer
+2810,DEXAMETHASONE,breast carcinoma
+2815,PEMBROLIZUMAB,inflammatory breast carcinoma
+2817,LINIFANIB,breast cancer
+2819,CAPECITABINE,triple-negative breast cancer
+2820,TIPIFARNIB,breast cancer
+2821,MOTESANIB,breast cancer
+2828,TALAZOPARIB,triple-negative breast cancer
+2832,ACETAMINOPHEN,breast cancer
+2835,DENOSUMAB,inflammatory breast carcinoma
+2836,VELIPARIB,triple-negative breast cancer
+2837,RIVOCERANIB,triple-negative breast cancer
+2838,COBIMETINIB,breast cancer
+2839,DECITABINE,breast adenocarcinoma
+2843,MIFEPRISTONE,breast cancer
+2855,COBIMETINIB,inflammatory breast carcinoma
+2863,VORINOSTAT,male breast carcinoma
+2869,ATEZOLIZUMAB,inflammatory breast carcinoma
+2876,ALDESLEUKIN,inflammatory breast carcinoma
+2878,DURVALUMAB,breast carcinoma
+2889,SARGRAMOSTIM,breast carcinoma
+2903,ALDESLEUKIN,male breast carcinoma
+2907,ATROPINE,breast cancer
+2913,RUXOLITINIB,inflammatory breast carcinoma
+2917,CETUXIMAB,breast cancer
+2918,TRASTUZUMAB,salivary duct carcinoma
+2924,BINIMETINIB,breast carcinoma
+2937,RETASPIMYCIN,breast carcinoma
+2944,PEGFILGRASTIM,male breast carcinoma
+2948,PANITUMUMAB,breast carcinoma
+2954,SARACATINIB,male breast carcinoma
+2959,BORTEZOMIB,breast cancer
+2960,TALAZOPARIB,breast adenocarcinoma
+2965,CEDIRANIB,breast cancer
+2969,NIRAPARIB,breast cancer
+2974,ATEZOLIZUMAB,breast carcinoma
+2980,ERLOTINIB,triple-negative breast cancer
+2989,PEMBROLIZUMAB,triple-negative breast cancer
+2998,PEMETREXED,male breast carcinoma
+3009,IPILIMUMAB,breast carcinoma
+3015,CIXUTUMUMAB,breast cancer
+3016,AZACITIDINE,male breast carcinoma
+3018,SARGRAMOSTIM,male breast carcinoma
+3025,NAPROXEN,breast cancer
+3026,SARGRAMOSTIM,breast adenocarcinoma
+3034,LIOTHYRONINE,breast cancer
+3041,BEVACIZUMAB,triple-negative breast cancer
+3053,BORTEZOMIB,breast carcinoma
+3055,BEXAROTENE,breast cancer
+3069,BECATECARIN,male breast carcinoma
+3071,FAMITINIB,triple-negative breast cancer
+3087,AZD-4547,breast cancer
+3090,DOXORUBICIN,breast ductal carcinoma in situ
+3110,TEMSIROLIMUS,breast carcinoma
+3113,TRASTUZUMAB,Invasive Breast Carcinoma
+3121,ANASTROZOLE,triple-negative breast cancer
+3126,CEMIPLIMAB,breast cancer
+3148,GEFITINIB,male breast carcinoma
+3151,DIPHENHYDRAMINE,breast cancer
+3155,ZOLEDRONIC ACID,breast ductal carcinoma in situ
+3168,FULVESTRANT,female breast carcinoma
+3180,AFLIBERCEPT,breast cancer
+3183,TIPIFARNIB,inflammatory breast carcinoma
+3185,CALCITRIOL,breast cancer
+3189,LENVATINIB,breast cancer
+3193,SELINEXOR,breast cancer
+3200,SARGRAMOSTIM,inflammatory breast carcinoma
+3203,LETROZOLE,inflammatory breast carcinoma
+3210,PREDNISOLONE,breast cancer
+3216,PEMBROLIZUMAB,salivary duct carcinoma
+3227,CELECOXIB,breast carcinoma
+3254,PALBOCICLIB,female breast carcinoma
+3268,PEMBROLIZUMAB,male breast carcinoma
+3272,AVELUMAB,breast carcinoma
+3282,VALPROIC ACID,breast cancer
+3286,METHYLPREDNISOLONE,breast cancer
+3299,DOXORUBICIN,male breast carcinoma
+3312,TOPOTECAN,breast cancer
+3322,NIVOLUMAB,breast carcinoma
+3342,CAPECITABINE,inflammatory breast carcinoma
+3349,NIMOTUZUMAB,breast cancer
+3350,DURVALUMAB,luminal B breast carcinoma
+3354,ANASTROZOLE,male breast carcinoma
+3374,LETROZOLE,invasive lobular carcinoma
+3382,IMIQUIMOD,breast cancer
+3390,FILGRASTIM,male breast carcinoma
+3395,SARGRAMOSTIM,breast ductal carcinoma in situ
+3401,NIVOLUMAB,inflammatory breast carcinoma
+3405,IPILIMUMAB,inflammatory breast carcinoma
+3410,TRASTUZUMAB,breast ductal adenocarcinoma
+3420,EPACADOSTAT,Hereditary breast and ovarian cancer syndrome
+3421,DOXORUBICIN,Hereditary breast and ovarian cancer syndrome
+3467,PEMBROLIZUMAB,breast adenocarcinoma
+3483,TREMELIMUMAB,breast cancer
+3485,ATORVASTATIN,inflammatory breast carcinoma
+3495,ANASTROZOLE,female breast carcinoma
+3501,PERTUZUMAB,Invasive Breast Carcinoma
+3504,CAPECITABINE,male breast carcinoma
+3515,METFORMIN,breast carcinoma in situ
+3517,DECITABINE,breast cancer
+3518,INDIBULIN,breast cancer
+3519,INTERFERON ALFA-2B,breast cancer
+3521,CUDC-101,breast cancer
+3522,ROMIDEPSIN,breast adenocarcinoma
+3524,RILUZOLE,breast cancer
+3525,MIRVETUXIMAB SORAVTANSINE,breast cancer
+3526,COPANLISIB,breast carcinoma
+3529,UCN-01,breast cancer
+3531,SELUMETINIB,triple-negative breast cancer
+3532,ALITRETINOIN,breast cancer
+3533,GEMCITABINE,breast adenocarcinoma
+3534,BEXAROTENE,breast carcinoma
+3536,GEMCITABINE,Hereditary breast and ovarian cancer syndrome
+3537,TASELISIB,breast carcinoma
+3540,NIVOLUMAB,triple-negative breast cancer
+3543,LETROZOLE,invasive breast ductal carcinoma
+3544,NIRAPARIB,breast carcinoma
+3546,DINACICLIB,male breast carcinoma
+3547,ALVOCIDIB,breast cancer
+3548,PILARALISIB,breast cancer
+3553,ROMIDEPSIN,inflammatory breast carcinoma
+3554,AZACITIDINE,breast cancer
+3556,DURVALUMAB,triple-negative breast cancer
+3557,UCN-01,triple-negative breast cancer
+3560,BELINOSTAT,breast adenocarcinoma
+3563,INTERFERON ALFA-2B,breast carcinoma in situ
+3564,EVEROLIMUS,male breast carcinoma
+3570,ALVOCIDIB,male breast carcinoma
+3571,VOXTALISIB,breast cancer
+3577,ROMIDEPSIN,triple-negative breast cancer
+3578,OLAPARIB,Hereditary breast and ovarian cancer syndrome
+3579,EVEROLIMUS,triple-negative breast cancer
+3585,PACLITAXEL,luminal B breast carcinoma
+3587,PACLITAXEL,breast carcinoma in situ
+3588,NIVOLUMAB,breast adenocarcinoma
+3589,COPANLISIB,breast adenocarcinoma
+3590,RUXOLITINIB,breast carcinoma
+3604,INFIGRATINIB,breast cancer
+3606,LIDOCAINE,breast carcinoma
+3607,VISTUSERTIB,Hereditary breast and ovarian cancer syndrome
+3613,VATALANIB,breast cancer
+3615,DENILEUKIN DIFTITOX,male breast carcinoma
+3618,VELIPARIB,male breast carcinoma
+3619,NERATINIB,inflammatory breast carcinoma
+3622,FINGOLIMOD,breast carcinoma
+3624,ENTINOSTAT,breast carcinoma
+3625,BINIMETINIB,breast cancer
+3626,BOSUTINIB,breast carcinoma
+3627,DOCETAXEL,male breast carcinoma
+3628,VISTUSERTIB,triple-negative breast cancer
+3630,PEXIDARTINIB,breast cancer
+3634,BEXAROTENE,breast ductal carcinoma in situ
+3635,ORANTINIB,breast cancer
+3642,BIRABRESIB,breast cancer
+3647,MIFEPRISTONE,male breast carcinoma
+3648,TEMSIROLIMUS,breast cancer
+3650,TIPIFARNIB,breast carcinoma
+3653,AMLODIPINE,breast cancer
+3655,CIXUTUMUMAB,male breast carcinoma
+3670,PIMASERTIB,breast cancer
+3671,NICOTINE,breast cancer
+3672,PASIREOTIDE,breast ductal carcinoma in situ
+3691,OLAPARIB,inflammatory breast carcinoma
+3693,CILENGITIDE,male breast carcinoma
+3695,MK-2206,male breast carcinoma
+3701,GEDATOLISIB,triple-negative breast cancer
+3708,ROGARATINIB,breast cancer
+3725,DINACICLIB,breast cancer
+3727,FRUQUINTINIB,breast cancer
+3728,CRIZOTINIB,breast cancer
+3738,BEXAROTENE,Atypical Lobular Breast Hyperplasia
+3742,TIPIFARNIB,male breast carcinoma
+3743,SEMAXANIB,breast cancer
+3768,ABEMACICLIB,breast adenocarcinoma
+3772,CAPIVASERTIB,Hereditary breast and ovarian cancer syndrome
+3778,OMEPRAZOLE,breast cancer
+3792,RITUXIMAB,breast adenocarcinoma
+3807,FULVESTRANT,breast adenocarcinoma
+3813,CHOLECALCIFEROL,breast ductal carcinoma in situ
+3818,TOCILIZUMAB,breast cancer
+3828,DOXORUBICIN,breast carcinoma in situ
+3830,VELIPARIB,breast carcinoma
+3841,LETROZOLE,lobular breast carcinoma
+3844,FULVESTRANT,Hereditary breast and ovarian cancer syndrome
+3852,PALBOCICLIB,Hereditary breast and ovarian cancer syndrome
+3855,BINIMETINIB,breast adenocarcinoma
+3876,ADAVOSERTIB,triple-negative breast cancer
+3882,NIRAPARIB,HER2 negative breast carcinoma
+3887,RETASPIMYCIN,breast cancer
+3889,IPATASERTIB,breast carcinoma
+3911,FULVESTRANT,breast ductal adenocarcinoma
+3916,IPILIMUMAB,breast adenocarcinoma
+3927,ABEMACICLIB,HER2 negative breast carcinoma
+3941,BEVACIZUMAB,inflammatory breast carcinoma
+3947,ROSIGLITAZONE,breast cancer
+3954,INDOMETHACIN,breast cancer
+3969,SARGRAMOSTIM,triple-negative breast cancer
+3976,GANETESPIB,male breast carcinoma
+3991,PALBOCICLIB,breast ductal adenocarcinoma
+4004,ERDAFITINIB,breast cancer
+4018,IRINOTECAN,triple-negative breast cancer
+4019,TEMSIROLIMUS,male breast carcinoma
+4061,ERGOCALCIFEROL,invasive breast ductal carcinoma
+4065,PERTUZUMAB,male breast carcinoma
+4089,CELECOXIB,breast carcinoma in situ
+4104,ME-344,breast carcinoma
+4107,IBUPROFEN,breast cancer
+4108,DICLOFENAC,breast cancer
+4110,PEMBROLIZUMAB,breast ductal carcinoma in situ
+4130,MIFEPRISTONE,breast ductal carcinoma in situ
+4167,SOTALOL,atrial fibrillation
+4168,METFORMIN,atrial fibrillation
+4169,DESFLURANE,sudden cardiac arrest
+4170,DIGOXIN,atrial fibrillation
+4173,ADENOSINE,paroxysmal tachycardia
+4176,WARFARIN,atrial fibrillation
+4177,DRONEDARONE,atrial fibrillation
+4180,PROCAINAMIDE,cardiac arrhythmia
+4181,VERAPAMIL,atrial fibrillation
+4182,SEVOFLURANE,sudden cardiac arrest
+4183,PROPAFENONE,ventricular tachycardia
+4187,VERNAKALANT,atrial fibrillation
+4191,MORICIZINE,cardiac arrhythmia
+4193,CARVEDILOL,atrial fibrillation
+4194,EPINEPHRINE,sudden cardiac arrest
+4196,PROPOFOL,atrial fibrillation
+4197,PROPAFENONE,atrial fibrillation
+4198,EPINEPHRINE,cardiac arrhythmia
+4199,VERNAKALANT,cardiac arrhythmia
+4201,DEXMEDETOMIDINE,atrial fibrillation
+4204,DRONEDARONE,cardiac arrhythmia
+4209,ROPIVACAINE,atrial fibrillation
+4212,QUINIDINE,cardiac arrhythmia
+4221,QUINIDINE,atrial fibrillation
+4224,PROPAFENONE,cardiac arrhythmia
+4225,NIFEDIPINE,atrial fibrillation
+4238,VASOPRESSIN,cardiac arrest
+4246,AMLODIPINE,atrial fibrillation
+4252,DILTIAZEM,atrial fibrillation
+4268,MEPIVACAINE,cardiac arrhythmia
+4269,PREDNISONE,atrial fibrillation
+4271,MEXILETINE,cardiac arrhythmia
+4302,ADENOSINE,Supraventricular tachycardia
+4318,LIDOCAINE,cardiac arrhythmia
+4322,ASPIRIN,atrial fibrillation
+4327,DILTIAZEM,atrial flutter
+4334,PROCAINAMIDE,atrial fibrillation
+4337,SOTALOL,cardiac arrhythmia
+4340,DISOPYRAMIDE,cardiac arrhythmia
+4355,METOPROLOL,atrial fibrillation
+4363,ROSUVASTATIN,atrial fibrillation
+4409,PROPRANOLOL,atrial fibrillation
+4411,SOTALOL,ventricular tachycardia
+4416,CLONAZEPAM,cardiac arrest
+4421,METOPROLOL,cardiac arrhythmia
+4430,EPINEPHRINE,cardiac arrest
+4432,VERAPAMIL,Paroxysmal supraventricular tachycardia
+4445,RANOLAZINE,ventricular ectopy
+4501,ASPIRIN,ventricular tachycardia
+4530,LIRAGLUTIDE,atrial fibrillation
+4571,METOPROLOL,atrial flutter
+4582,DEXAMETHASONE,atrial fibrillation
+4617,ATORVASTATIN,cardiac arrhythmia
+4634,TEDISAMIL,atrial flutter
+4635,DISOPYRAMIDE,atrial fibrillation
+4638,TEDISAMIL,atrial fibrillation
+4639,CAFFEINE,atrial fibrillation
+4640,VERNAKALANT,atrial flutter
+4642,PROPAFENONE,ventricular fibrillation
+4644,LIDOCAINE,cardiac arrest
+4646,PROPAFENONE,sudden cardiac arrest
+4647,DRONEDARONE,atrial flutter
+4648,CYCLOSPORINE,cardiac arrest
+4652,MEXILETINE,sudden cardiac arrest
+4656,SOTALOL,ventricular fibrillation
+4675,PROCAINAMIDE,sudden cardiac arrest
+4677,COLCHICINE,atrial fibrillation
+4680,QUINIDINE,sudden cardiac arrest
+4682,COLCHICINE,cardiac arrhythmia
+4687,ADENOSINE,atrial fibrillation
+4688,PROPRANOLOL,ventricular fibrillation
+4694,MORICIZINE,atrial fibrillation
+4715,ATORVASTATIN,atrial fibrillation
+4721,PROCAINAMIDE,ventricular fibrillation
+4729,QUINIDINE,ventricular fibrillation
+4731,SOTALOL,sudden cardiac arrest
+4739,MEXILETINE,ventricular fibrillation
+4753,WARFARIN,atrial flutter
+4759,DIGOXIN,Supraventricular tachycardia
+4783,PROPRANOLOL,sudden cardiac arrest
+4826,RANOLAZINE,atrial fibrillation
+4870,PROPRANOLOL,Supraventricular tachycardia
+4880,HYDROCORTISONE,cardiac arrest
+4904,METHYLPREDNISOLONE,cardiac arrest
+4922,EPINEPHRINE,ventricular fibrillation
+4923,NITRIC OXIDE,sudden cardiac arrest
+4925,VASOPRESSIN,sudden cardiac arrest
+4926,ROCURONIUM,cardiac arrest
+4929,EPINEPHRINE,ventricular tachycardia
+4931,THEOPHYLLINE,cardiac arrest
+4934,AZD1305,atrial flutter
+4940,AZD1305,atrial fibrillation
+4945,METOPROLOL,sudden cardiac arrest
+4955,SIMVASTATIN,atrial fibrillation
+4966,ATROPINE,cardiac arrest
+4968,HYDROCORTISONE,atrial fibrillation
+4975,MELATONIN,atrial fibrillation
+4979,METOPROLOL,ventricular tachycardia
+4994,ERGOCALCIFEROL,sudden cardiac arrest
+5004,METHYLPREDNISOLONE,sudden cardiac arrest
+5008,METOPROLOL,ventricular fibrillation
+5010,LIOTHYRONINE,atrial fibrillation
+5011,ACETAMINOPHEN,cardiac arrhythmia
+5021,TEDISAMIL,cardiac arrhythmia
+5048,NITRIC OXIDE,cardiac arrest
+5064,MIDAZOLAM,Crohn's disease
+5066,DOXYCYCLINE,Crohn's colitis
+5069,PREDNISONE,Crohn's disease
+5070,INFLIXIMAB,Crohn's disease
+5071,ERGOCALCIFEROL,Crohn's disease
+5072,CHOLECALCIFEROL,Crohn's disease
+5074,PREDNISOLONE,Crohn's disease
+5076,HYDROCORTISONE,Crohn's disease
+5077,MESALAMINE,Crohn's disease
+5078,CAFFEINE,Crohn's disease
+5079,METHOTREXATE,Crohn's disease
+5081,METHYLPREDNISOLONE,Crohn's disease
+5084,DEXAMETHASONE,Crohn's disease
+5088,NATALIZUMAB,Crohn's disease
+5090,DEXTROMETHORPHAN,Crohn's disease
+5097,USTEKINUMAB,Crohn's disease
+5098,SIROLIMUS,Crohn's disease
+5103,OMEPRAZOLE,Crohn's disease
+5106,CELECOXIB,Crohn's disease
+5110,THALIDOMIDE,Crohn's disease
+5117,UPADACITINIB,Crohn's disease
+5118,SARGRAMOSTIM,Crohn's disease
+5121,ABATACEPT,Crohn's disease
+5129,AMISELIMOD,Crohn's disease
+5130,DOXYCYCLINE,Crohn's disease
+5131,TACROLIMUS,Crohn's disease
+5132,FLUDARABINE PHOSPHATE,Crohn's disease
+5134,LENALIDOMIDE,Crohn's disease
+5136,TOFACITINIB,Crohn's disease
+5137,HYDROXYCHLOROQUINE,Crohn's disease
+5140,BUPROPION,Crohn's disease
+5141,PF-06651600,Crohn's disease
+5153,ALDESLEUKIN,Crohn's disease
+5154,ALEMTUZUMAB,Crohn's disease
+5157,SECUKINUMAB,Crohn's disease
+5164,NALTREXONE,Crohn's disease
+5179,ATORVASTATIN,Crohn's disease
+5180,RANOLAZINE,Crohn's disease
+5182,MYCOPHENOLATE MOFETIL,Crohn's disease
+5190,FILGRASTIM,Crohn's disease
+5210,VERAPAMIL,Crohn's disease
+5211,ACETAMINOPHEN,Crohn's disease
+5213,ROSUVASTATIN,Crohn's disease
+5214,DIPHENHYDRAMINE,Crohn's disease
+5217,PIOGLITAZONE,Crohn's disease
+5218,VORINOSTAT,Crohn's disease
+5220,CANNABIDIOL,Crohn's disease
+5227,WARFARIN,Crohn's disease
+5229,CALCITRIOL,Crohn's disease
+5231,RITUXIMAB,Crohn's disease
+5232,DENOSUMAB,Crohn's disease
+5234,PENTOXIFYLLINE,Crohn's disease
+5259,METFORMIN,type II diabetes mellitus
+5272,METFORMIN,diabetes mellitus
+5281,PIOGLITAZONE,type II diabetes mellitus
+5300,METFORMIN,gestational diabetes
+5303,DIPYRIDAMOLE,diabetes mellitus
+5315,METFORMIN,type I diabetes mellitus
+5316,LIRAGLUTIDE,type II diabetes mellitus
+5338,METFORMIN,prediabetes syndrome
+5340,PIOGLITAZONE,diabetes mellitus
+5354,PENTOXIFYLLINE,type II diabetes mellitus
+5369,ACETAMINOPHEN,type II diabetes mellitus
+5371,CHOLECALCIFEROL,type I diabetes mellitus
+5379,ASPIRIN,type II diabetes mellitus
+5385,ROSIGLITAZONE,type II diabetes mellitus
+5392,BOSENTAN,type II diabetes mellitus
+5420,ASPIRIN,type I diabetes mellitus
+5422,PRAMLINTIDE,type I diabetes mellitus
+5453,ATORVASTATIN,diabetes mellitus
+5458,SIMVASTATIN,type II diabetes mellitus
+5466,LIDOCAINE,diabetes mellitus
+5487,ROSIGLITAZONE,diabetes mellitus
+5512,ASPIRIN,diabetes mellitus
+5518,DEXMEDETOMIDINE,diabetes mellitus
+5529,BROMOCRIPTINE,type II diabetes mellitus
+5541,NICOTINE,type II diabetes mellitus
+5573,CYCLOSPORINE,diabetes mellitus
+5590,ROSUVASTATIN,type II diabetes mellitus
+5599,ROPIVACAINE,diabetes mellitus
+5600,LIRAGLUTIDE,type I diabetes mellitus
+5608,TACROLIMUS,diabetes mellitus
+5615,PRAMLINTIDE,type II diabetes mellitus
+5638,HYDROXYCHLOROQUINE,prediabetes syndrome
+5639,PIOGLITAZONE,type I diabetes mellitus
+5648,LIRAGLUTIDE,prediabetes syndrome
+5653,SIROLIMUS,type I diabetes mellitus
+5662,ATORVASTATIN,type II diabetes mellitus
+5663,ERGOCALCIFEROL,type II diabetes mellitus
+5665,MYCOPHENOLATE MOFETIL,type I diabetes mellitus
+5666,ERGOCALCIFEROL,diabetes mellitus
+5710,PRAMLINTIDE,diabetes mellitus
+5715,LIRAGLUTIDE,diabetes mellitus
+5725,ROSUVASTATIN,diabetes mellitus
+5729,WARFARIN,diabetes mellitus
+5730,ALEMTUZUMAB,diabetes mellitus
+5769,CHOLECALCIFEROL,diabetes mellitus
+5782,AMLODIPINE,type II diabetes mellitus
+5785,DEXAMETHASONE,diabetes mellitus
+5791,ERGOCALCIFEROL,gestational diabetes
+5800,ROSIGLITAZONE,type I diabetes mellitus
+5807,LIRAGLUTIDE,gestational diabetes
+5811,CYCLOSPORINE,type II diabetes mellitus
+5819,RITUXIMAB,type I diabetes mellitus
+5828,TACROLIMUS,type II diabetes mellitus
+5831,CARVEDILOL,type II diabetes mellitus
+5837,TOPIRAMATE,type II diabetes mellitus
+5840,CHOLECALCIFEROL,type II diabetes mellitus
+5844,RANOLAZINE,type II diabetes mellitus
+5845,DILTIAZEM,type II diabetes mellitus
+5857,ETANERCEPT,type I diabetes mellitus
+5881,VERAPAMIL,type I diabetes mellitus
+5898,TACROLIMUS,type I diabetes mellitus
+5915,ATORVASTATIN,type I diabetes mellitus
+5918,OMEPRAZOLE,type I diabetes mellitus
+5925,SIMVASTATIN,diabetes mellitus
+5928,CYCLOSPORINE,type I diabetes mellitus
+5935,AMLODIPINE,diabetes mellitus
+5939,ERGOCALCIFEROL,type I diabetes mellitus
+5958,ROSUVASTATIN,type I diabetes mellitus
+5963,"ESTROGENS, CONJUGATED",diabetes mellitus
+5975,CHOLECALCIFEROL,gestational diabetes
+5992,METOPROLOL,type II diabetes mellitus
+6000,DENOSUMAB,diabetes mellitus
+6015,SILDENAFIL,diabetes mellitus
+6019,PROPRANOLOL,type I diabetes mellitus
+6020,TOPIRAMATE,diabetes mellitus
+6021,ETOPOSIDE,Stiff-Person syndrome
+6023,ALDESLEUKIN,type I diabetes mellitus
+6024,CYTARABINE,Stiff-Person syndrome
+6028,ABATACEPT,type I diabetes mellitus
+6044,DEXTROMETHORPHAN,type II diabetes mellitus
+6045,IMATINIB,type I diabetes mellitus
+6046,USTEKINUMAB,type I diabetes mellitus
+6047,ACETAMINOPHEN,type I diabetes mellitus
+6061,AMANTADINE,type II diabetes mellitus
+6066,ROFLUMILAST,type II diabetes mellitus
+6072,FILGRASTIM,type I diabetes mellitus
+6081,CALCITRIOL,type I diabetes mellitus
+6082,HYDROXYCHLOROQUINE,type II diabetes mellitus
+6091,HYDROXYCHLOROQUINE,type I diabetes mellitus
+6100,ALEMTUZUMAB,type I diabetes mellitus
+6101,PREDNISONE,Stiff-Person syndrome
+6103,APABETALONE,diabetes mellitus
+6107,IBUPROFEN,type I diabetes mellitus
+6119,ERGOCALCIFEROL,latent autoimmune diabetes in adults
+6129,SIMVASTATIN,prediabetes syndrome
+6130,TOCILIZUMAB,type I diabetes mellitus
+6135,CARMUSTINE,Stiff-Person syndrome
+6146,SECUKINUMAB,type I diabetes mellitus
+6152,NALOXONE,type I diabetes mellitus
+6153,PREDNISOLONE,type II diabetes mellitus
+6161,LIRAGLUTIDE,MODY
+6173,RITUXIMAB,Stiff-Person syndrome
+6182,SIMVASTATIN,type I diabetes mellitus
+6185,ROSIGLITAZONE,prediabetes syndrome
+6193,CHOLECALCIFEROL,prediabetes syndrome
+6196,BROMOCRIPTINE,type I diabetes mellitus
+6199,INFLIXIMAB,type I diabetes mellitus
+6201,MELATONIN,prediabetes syndrome
+6213,PEGFILGRASTIM,type I diabetes mellitus
+6222,EMRICASAN,diabetes mellitus
+6223,CAFFEINE,type II diabetes mellitus
+6225,BUPROPION,type II diabetes mellitus
+6226,MIDAZOLAM,type II diabetes mellitus
+6228,CALCITRIOL,prediabetes syndrome
+6229,DIGOXIN,diabetes mellitus
+6231,HYDROCORTISONE,type I diabetes mellitus
+6232,DIGOXIN,type II diabetes mellitus
+6234,ATROPINE,prediabetes syndrome
+6238,WARFARIN,type II diabetes mellitus
+6243,OMEPRAZOLE,type II diabetes mellitus
+6253,MIFEPRISTONE,diabetes mellitus
+6254,VERAPAMIL,type II diabetes mellitus
+6257,ALPRAZOLAM,type I diabetes mellitus
+6260,BOSENTAN,diabetes mellitus
+6278,ESTRADIOL,type II diabetes mellitus
+6281,METHYLPREDNISOLONE,Stiff-Person syndrome
+6282,ESTRADIOL,type I diabetes mellitus
+6292,PROPRANOLOL,type II diabetes mellitus
+6314,OMEPRAZOLE,diabetes mellitus
+6319,FILGRASTIM,Stiff-Person syndrome
+6324,EPINEPHRINE,diabetes mellitus
+6327,MELATONIN,diabetes mellitus
+6330,PREDNISONE,type II diabetes mellitus
+6339,ERLOSAMIDE,epilepsy
+6340,TOPIRAMATE,epilepsy
+6342,OXCARBAZEPINE,epilepsy
+6343,LAMOTRIGINE,epilepsy
+6344,ERLOSAMIDE,partial epilepsy
+6346,CARBAMAZEPINE,epilepsy
+6348,CLOBAZAM,epilepsy
+6352,ZONISAMIDE,epilepsy
+6354,LAMOTRIGINE,epilepsy with generalized tonic-clonic seizures
+6356,PHENYTOIN,epilepsy
+6374,CLONAZEPAM,epilepsy
+6376,FOSPHENYTOIN,epilepsy
+6382,LEVETIRACETAM,epilepsy
+6386,CARBAMAZEPINE,partial epilepsy
+6391,LAMOTRIGINE,Lennox-Gastaut syndrome
+6402,VALPROIC ACID,epilepsy
+6425,PRIMIDONE,epilepsy
+6429,DIAZEPAM,epilepsy
+6439,PERAMPANEL,epilepsy
+6441,RUFINAMIDE,Lennox-Gastaut syndrome
+6450,RUFINAMIDE,epilepsy
+6453,ESLICARBAZEPINE ACETATE,epilepsy
+6462,METHYLPREDNISOLONE,Churg-Strauss syndrome
+6463,RILUZOLE,Fragile X syndrome
+6468,MIDAZOLAM,epilepsy
+6469,LAMOTRIGINE,partial epilepsy
+6471,PREDNISONE,Granulomatosis with Polyangiitis
+6475,PREDNISONE,Churg-Strauss syndrome
+6481,VALPROIC ACID,complex partial epilepsy
+6482,MELATONIN,Lennox-Gastaut syndrome
+6486,METHOTREXATE,Churg-Strauss syndrome
+6491,LEVETIRACETAM,partial epilepsy
+6503,RITUXIMAB,Granulomatosis with Polyangiitis
+6510,CHOLECALCIFEROL,epilepsy
+6515,CARBAMAZEPINE,Rolandic epilepsy
+6524,LEVETIRACETAM,Rolandic epilepsy
+6525,MYCOPHENOLATE MOFETIL,Churg-Strauss syndrome
+6526,DEXAMETHASONE,Japanese encephalitis
+6530,PREDNISOLONE,epilepsy
+6545,VALPROIC ACID,reflex epilepsy
+6559,RITUXIMAB,epilepsy
+6587,CANNABIDIOL,epilepsy
+6640,FENFLURAMINE,Dravet syndrome
+6651,METHYLPREDNISOLONE,Granulomatosis with Polyangiitis
+6676,MELATONIN,epilepsy
+6684,CANNABIDIOL,Lennox-Gastaut syndrome
+6686,METHYLPREDNISOLONE,Japanese encephalitis
+6705,CANNABIDIOL,Dravet syndrome
+6717,GANAXOLONE,status epilepticus
+6718,TOPIRAMATE,partial epilepsy
+6719,SODIUM DICHLOROACETATE,Pyruvate dehydrogenase deficiency
+6720,LAMOTRIGINE,Childhood absence epilepsy
+6724,DIAZEPAM,status epilepticus
+6725,ESLICARBAZEPINE ACETATE,partial epilepsy
+6726,CLONAZEPAM,status epilepticus
+6727,CENOBAMATE,partial epilepsy
+6729,CENOBAMATE,epilepsy
+6730,OXCARBAZEPINE,partial epilepsy
+6732,LORAZEPAM,status epilepticus
+6733,TOPIRAMATE,epilepsy with generalized tonic-clonic seizures
+6736,ZONISAMIDE,complex partial epilepsy
+6738,FOSPHENYTOIN,status epilepticus
+6741,PROPOFOL,status epilepticus
+6742,PERAMPANEL,Lennox-Gastaut syndrome
+6746,ESLICARBAZEPINE ACETATE,complex partial epilepsy
+6748,CLOBAZAM,Dravet syndrome
+6750,PREDNISOLONE,West syndrome
+6753,CLOBAZAM,Lennox-Gastaut syndrome
+6756,TOPIRAMATE,Lennox-Gastaut syndrome
+6758,LORAZEPAM,epilepsia partialis continua
+6765,METHOTREXATE,Granulomatosis with Polyangiitis
+6766,ERLOSAMIDE,status epilepticus
+6770,CLONAZEPAM,epilepsia partialis continua
+6783,INFLIXIMAB,Behcet's syndrome
+6790,NALOXONE,epilepsy
+6801,CANNABIDIOL,Rett syndrome
+6802,DIAZEPAM,complex partial epilepsy
+6819,LEVETIRACETAM,status epilepticus
+6821,FENFLURAMINE,reflex epilepsy
+6822,CLOBAZAM,epilepsia partialis continua
+6843,KETAMINE,status epilepticus
+6860,BREXANOLONE,status epilepticus
+6871,LEVETIRACETAM,epilepsy with generalized tonic-clonic seizures
+6889,CLONAZEPAM,epilepsy with generalized tonic-clonic seizures
+6893,MYCOPHENOLATE MOFETIL,Granulomatosis with Polyangiitis
+6897,CANNABIDIOL,West syndrome
+6940,VALPROIC ACID,status epilepticus
+6953,APREMILAST,Behcet's syndrome
+6975,VALPROIC ACID,Childhood absence epilepsy
+6984,DEXTROMETHORPHAN,Rett syndrome
+6990,RISPERIDONE,Rett syndrome
+6996,PREDNISOLONE,Churg-Strauss syndrome
+6998,PERAMPANEL,epilepsy with generalized tonic-clonic seizures
+7008,SECUKINUMAB,Behcet's syndrome
+7017,CANNABIDIOL,developmental and epileptic encephalopathy
+7079,ABATACEPT,Granulomatosis with Polyangiitis
+7103,CYCLOSPORINE,Behcet's syndrome
+7146,VERAPAMIL,Dravet syndrome
+7148,METFORMIN,Fragile X syndrome
+7151,DIAZEPAM,Landau-Kleffner syndrome
+7155,ACAMPROSATE,Fragile X syndrome
+7156,CARVEDILOL,epilepsy
+7160,SELURAMPANEL,epilepsy
+7162,GANAXOLONE,epilepsy
+7167,PENTOXIFYLLINE,Behcet's syndrome
+7169,ALDESLEUKIN,Behcet's syndrome
+7170,GANAXOLONE,complex partial epilepsy
+7172,ACETAZOLAMIDE,status epilepticus
+7173,HYDROXYCHLOROQUINE,Zellweger syndrome
+7174,NIFEDIPINE,partial epilepsy
+7175,ISOTRETINOIN,Klinefelter's syndrome
+7178,GANAXOLONE,West syndrome
+7184,GANAXOLONE,partial epilepsy
+7185,ALPRAZOLAM,epilepsy
+7190,PREDNISOLONE,Granulomatosis with Polyangiitis
+7196,GANAXOLONE,Fragile X syndrome
+7202,GABOXADOL,Fragile X syndrome
+7203,SELURAMPANEL,reflex epilepsy
+7206,GABOXADOL,Angelman syndrome
+7208,LORAZEPAM,epilepsy
+7213,RITUXIMAB,Behcet's syndrome
+7214,CARBAMAZEPINE,reflex epilepsy
+7225,LORAZEPAM,reflex epilepsy
+7230,KETAMINE,Rett syndrome
+7234,PF-06372865,reflex epilepsy
+7237,EVEROLIMUS,epilepsy
+7242,CALCITRIOL,Klinefelter's syndrome
+7244,RITUXIMAB,Japanese encephalitis
+7258,KETAMINE,epilepsy
+7262,ETANERCEPT,Granulomatosis with Polyangiitis
+7276,FENFLURAMINE,epilepsy
+7282,MYCOPHENOLATE MOFETIL,Juvenile neuronal ceroid lipofuscinosis
+7283,IBUPROFEN,partial epilepsy
+7310,BORTEZOMIB,Japanese encephalitis
+7316,ACETAZOLAMIDE,Landau-Kleffner syndrome
+7322,INFLIXIMAB,Granulomatosis with Polyangiitis
+7337,COLCHICINE,Behcet's syndrome
+7359,FENFLURAMINE,developmental and epileptic encephalopathy
+7365,CANNABIDIOL,Childhood absence epilepsy
+7377,TOCILIZUMAB,Behcet's syndrome
+7393,ARIPIPRAZOLE,Fragile X syndrome
+7413,USTEKINUMAB,Behcet's syndrome
+7436,LEVETIRACETAM,reflex epilepsy
+7440,CANNABIDIOL,Fragile X syndrome
+7472,METHYLPREDNISOLONE,developmental and epileptic encephalopathy
+7477,RITUXIMAB,Churg-Strauss syndrome
+7480,SIROLIMUS,Sturge-Weber syndrome
+7521,PIOGLITAZONE,Adrenomyeloneuropathy
+7529,METHYLPREDNISOLONE,Gangliosidosis
+7530,CELECOXIB,Wilson disease
+7531,DIGOXIN,epilepsy
+7532,SIMVASTATIN,epilepsy
+7534,FLUMAZENIL,Fragile X syndrome
+7535,DEXMEDETOMIDINE,epilepsy
+7538,APABETALONE,Fabry disease
+7539,THALIDOMIDE,epilepsy
+7540,PREDNISONE,Gangliosidosis
+7543,SIROLIMUS,Gaucher disease type 2
+7544,FINGOLIMOD,Rett syndrome
+7546,CANNABIDIOL,Sturge-Weber syndrome
+7549,WARFARIN,epilepsy
+7556,BUPROPION,Wilson disease
+7560,METHYLPREDNISOLONE,Gaucher disease type 2
+7563,PREDNISONE,Gaucher disease type 2
+7568,CHOLECALCIFEROL,X-linked adrenoleukodystrophy
+7570,ATORVASTATIN,epilepsy
+7571,SIROLIMUS,Gangliosidosis
+7574,RITUXIMAB,Gangliosidosis
+7576,ABATACEPT,Behcet's syndrome
+7578,REGORAFENIB,metastatic colorectal cancer
+7579,BEVACIZUMAB,colorectal carcinoma
+7580,LIDOCAINE,colorectal carcinoma
+7581,FLUOROURACIL,malignant colon neoplasm
+7582,CAPECITABINE,colorectal carcinoma
+7584,IRINOTECAN,metastatic colorectal cancer
+7585,FLUOROURACIL,colorectal carcinoma
+7588,CETUXIMAB,metastatic colorectal cancer
+7592,INDOMETHACIN,colorectal carcinoma
+7601,CELECOXIB,colorectal carcinoma
+7606,IRINOTECAN,colorectal carcinoma
+7607,PANITUMUMAB,colorectal adenocarcinoma
+7608,AFLIBERCEPT,colorectal adenocarcinoma
+7609,CETUXIMAB,colorectal adenocarcinoma
+7620,BEVACIZUMAB,colorectal adenocarcinoma
+7623,FLUOROURACIL,metastatic colorectal cancer
+7626,METFORMIN,colorectal carcinoma
+7627,PANITUMUMAB,metastatic colorectal cancer
+7628,AFLIBERCEPT,metastatic colorectal cancer
+7629,CAPECITABINE,rectum cancer
+7630,CETUXIMAB,colorectal carcinoma
+7632,SORAFENIB,metastatic colorectal cancer
+7633,ASPIRIN,Lynch syndrome
+7634,VATALANIB,rectum cancer
+7635,REGORAFENIB,malignant colon neoplasm
+7637,CAPECITABINE,malignant colon neoplasm
+7638,SEMAXANIB,colorectal carcinoma
+7639,DEXAMETHASONE,colorectal carcinoma
+7640,IPILIMUMAB,metastatic colorectal cancer
+7641,ASPIRIN,colorectal carcinoma
+7643,CAPECITABINE,metastatic colorectal cancer
+7646,BEVACIZUMAB,metastatic colorectal cancer
+7647,CEDIRANIB,metastatic colorectal cancer
+7658,CAPECITABINE,rectal carcinoma
+7659,SUNITINIB,metastatic colorectal cancer
+7662,OLAPARIB,metastatic colorectal cancer
+7665,BEVACIZUMAB,malignant colon neoplasm
+7667,ASPIRIN,malignant colon neoplasm
+7670,RIVOCERANIB,colorectal cancer
+7672,PANITUMUMAB,colorectal carcinoma
+7673,VINCRISTINE,colorectal carcinoma
+7676,PANITUMUMAB,malignant colon neoplasm
+7677,BEVACIZUMAB,rectum cancer
+7679,CETUXIMAB,malignant colon neoplasm
+7682,IRINOTECAN,malignant colon neoplasm
+7683,FLUOROURACIL,rectum cancer
+7684,ERLOTINIB,colorectal carcinoma
+7685,IRINOTECAN,colorectal cancer
+7686,MASITINIB,metastatic colorectal cancer
+7687,FLUOROURACIL,colon adenocarcinoma
+7688,FRUQUINTINIB,metastatic colorectal cancer
+7695,REGORAFENIB,colorectal carcinoma
+7699,IRINOTECAN,colon mucinous adenocarcinoma
+7700,IRINOTECAN,colorectal adenocarcinoma
+7701,BEVACIZUMAB,colon mucinous adenocarcinoma
+7702,FAMITINIB,colorectal adenocarcinoma
+7705,NIVOLUMAB,metastatic colorectal cancer
+7706,FLUOROURACIL,small intestine carcinoma
+7708,PEMBROLIZUMAB,colorectal carcinoma
+7712,FLUOROURACIL,anal carcinoma
+7718,FLUOROURACIL,Lynch syndrome
+7721,FLUOROURACIL,anus cancer
+7729,CELECOXIB,malignant colon neoplasm
+7733,RAMUCIRUMAB,colorectal carcinoma
+7735,CAPECITABINE,colorectal adenocarcinoma
+7736,FAMITINIB,metastatic colorectal cancer
+7738,IRINOTECAN,rectum cancer
+7739,CAPECITABINE,colon adenocarcinoma
+7740,FLUOROURACIL,colon mucinous adenocarcinoma
+7741,FLUOROURACIL,colorectal adenocarcinoma
+7742,COBIMETINIB,colorectal carcinoma
+7746,BINIMETINIB,metastatic colorectal cancer
+7759,CETUXIMAB,rectum cancer
+7760,AVELUMAB,malignant colon neoplasm
+7762,DOXORUBICIN,colorectal carcinoma
+7770,ATEZOLIZUMAB,colorectal carcinoma
+7772,ETOPOSIDE,colorectal cancer
+7779,FRUQUINTINIB,colorectal carcinoma
+7780,SIMVASTATIN,colorectal carcinoma
+7782,CHOLECALCIFEROL,colorectal adenocarcinoma
+7797,CELECOXIB,rectum cancer
+7799,FLUOROURACIL,rectal carcinoma
+7800,BEVACIZUMAB,Lynch syndrome
+7803,ROSUVASTATIN,colorectal carcinoma
+7804,CYCLOSPORINE,colorectal carcinoma
+7817,IRINOTECAN,rectal carcinoma
+7820,BEVACIZUMAB,colon adenocarcinoma
+7823,ERLOTINIB,metastatic colorectal cancer
+7828,CAPECITABINE,colorectal cancer
+7876,REGORAFENIB,rectum cancer
+7877,METFORMIN,rectum cancer
+7880,PACLITAXEL,colorectal carcinoma
+7881,GEMCITABINE,rectum cancer
+7883,METFORMIN,malignant colon neoplasm
+7886,ENMD-981693,colorectal carcinoma
+7887,CABAZITAXEL,colorectal carcinoma
+7888,GEMCITABINE,metastatic colorectal cancer
+7889,GEMCITABINE,colorectal carcinoma
+7891,ATEZOLIZUMAB,metastatic colorectal cancer
+7894,METFORMIN,colorectal adenocarcinoma
+7897,TRASTUZUMAB EMTANSINE,metastatic colorectal cancer
+7899,DASATINIB,malignant colon neoplasm
+7900,IMATINIB,malignant colon neoplasm
+7903,OMEPRAZOLE,colorectal carcinoma
+7904,LAPATINIB,metastatic colorectal cancer
+7905,VORINOSTAT,colorectal adenocarcinoma
+7906,REGORAFENIB,colon adenocarcinoma
+7909,PEGFILGRASTIM,malignant colon neoplasm
+7912,CEDIRANIB,colorectal carcinoma
+7913,REGORAFENIB,colorectal adenocarcinoma
+7914,METFORMIN,metastatic colorectal cancer
+7917,VANDETANIB,colorectal carcinoma
+7918,LINIFANIB,malignant colon neoplasm
+7921,THALIDOMIDE,colorectal adenocarcinoma
+7922,VELIPARIB,metastatic colorectal cancer
+7925,SELUMETINIB,colorectal carcinoma
+7926,GEMCITABINE,colorectal adenocarcinoma
+7929,IPILIMUMAB,Anal Squamous Cell Carcinoma
+7930,PACLITAXEL,Anal Squamous Cell Carcinoma
+7931,DOXYCYCLINE,colorectal carcinoma
+7932,MK-2206,rectum cancer
+7934,NINTEDANIB,colorectal carcinoma
+7935,THALIDOMIDE,colorectal carcinoma
+7937,AFLIBERCEPT,colorectal carcinoma
+7939,THALIDOMIDE,appendix carcinoma
+7940,GEMCITABINE,colorectal cancer
+7941,BRIVANIB,colorectal adenocarcinoma
+7945,FRUQUINTINIB,colorectal adenocarcinoma
+7947,PEMETREXED,rectum cancer
+7948,NINTEDANIB,appendix cancer
+7950,IXABEPILONE,colorectal carcinoma
+7963,SARGRAMOSTIM,rectum cancer
+7964,ROMIDEPSIN,colorectal carcinoma
+7965,AFATINIB,metastatic colorectal cancer
+7966,SORAFENIB,rectum cancer
+7968,AZACITIDINE,malignant colon neoplasm
+7981,GEDATOLISIB,metastatic colorectal cancer
+7984,ANLOTINIB,metastatic colorectal cancer
+7987,EVEROLIMUS,colorectal carcinoma
+7988,PEMBROLIZUMAB,metastatic colorectal cancer
+7993,LINIFANIB,rectum cancer
+7995,DURVALUMAB,rectum cancer
+7999,COBIMETINIB,small intestinal adenocarcinoma
+8000,EVEROLIMUS,colorectal adenocarcinoma
+8003,MESALAMINE,colorectal carcinoma
+8005,IPILIMUMAB,malignant colon neoplasm
+8007,AFLIBERCEPT,rectum cancer
+8009,ATEZOLIZUMAB,rectum cancer
+8012,FLUOROURACIL,Anal Squamous Cell Carcinoma
+8015,RUXOLITINIB,colorectal carcinoma
+8016,ANLOTINIB,colorectal carcinoma
+8021,SARACATINIB,rectum cancer
+8022,PEMETREXED,colorectal carcinoma
+8023,DOCETAXEL,metastatic colorectal cancer
+8026,AZACITIDINE,metastatic colorectal cancer
+8029,NIVOLUMAB,colorectal carcinoma
+8030,PANOBINOSTAT,colorectal carcinoma
+8034,SAPITINIB,colorectal adenocarcinoma
+8042,NIVOLUMAB,colorectal adenocarcinoma
+8043,PACLITAXEL,small intestinal adenocarcinoma
+8044,ENTINOSTAT,rectum cancer
+8047,VINORELBINE,malignant colon neoplasm
+8049,PACLITAXEL,colorectal adenocarcinoma
+8053,TOPOTECAN,malignant colon neoplasm
+8054,VELIPARIB,colorectal carcinoma
+8066,TRASTUZUMAB,metastatic colorectal cancer
+8067,LENALIDOMIDE,colorectal carcinoma
+8073,PEMBROLIZUMAB,colorectal adenocarcinoma
+8075,SORAFENIB,malignant colon neoplasm
+8076,AVELUMAB,rectum cancer
+8084,OLAPARIB,colorectal carcinoma
+8085,IPILIMUMAB,colon carcinoma
+8089,BEVACIZUMAB,colorectal cancer
+8091,VORINOSTAT,colorectal carcinoma
+8094,IPILIMUMAB,colorectal carcinoma
+8098,DASATINIB,rectum cancer
+8099,ERLOTINIB,colorectal adenocarcinoma
+8101,LINIFANIB,colorectal adenocarcinoma
+8103,TIPIFARNIB,colorectal carcinoma
+8104,AVELUMAB,colorectal adenocarcinoma
+8111,CAPECITABINE,anus cancer
+8113,BECATECARIN,colorectal carcinoma
+8116,GEMCITABINE,malignant colon neoplasm
+8120,ENTINOSTAT,malignant colon neoplasm
+8122,NERATINIB,metastatic colorectal cancer
+8130,AXITINIB,colorectal carcinoma
+8131,GANETESPIB,malignant colon neoplasm
+8134,TIVOZANIB,colorectal carcinoma
+8135,PEGFILGRASTIM,colorectal carcinoma
+8136,SARACATINIB,colorectal adenocarcinoma
+8139,REGORAFENIB,colorectal cancer
+8148,DURVALUMAB,colorectal carcinoma
+8151,VELIPARIB,rectum cancer
+8153,GEFITINIB,colorectal carcinoma
+8155,MK-2206,malignant colon neoplasm
+8156,DURVALUMAB,anal carcinoma
+8158,ASPIRIN,rectum cancer
+8168,XL-999,colorectal carcinoma
+8169,CHOLECALCIFEROL,malignant colon neoplasm
+8170,CIXUTUMUMAB,colorectal carcinoma
+8171,PEMETREXED,metastatic colorectal cancer
+8172,DOCETAXEL,colorectal cancer
+8175,CELECOXIB,metastatic colorectal cancer
+8188,IMATINIB,rectum cancer
+8189,SIMVASTATIN,rectum cancer
+8192,COBIMETINIB,metastatic colorectal cancer
+8193,TEMSIROLIMUS,metastatic colorectal cancer
+8194,SIMVASTATIN,metastatic colorectal cancer
+8199,CIXUTUMUMAB,rectum cancer
+8200,GANETESPIB,rectum cancer
+8202,HYDROXYCHLOROQUINE,colorectal carcinoma
+8205,THALIDOMIDE,malignant colon neoplasm
+8206,VORINOSTAT,malignant colon neoplasm
+8209,CETUXIMAB,anus cancer
+8213,NIMOTUZUMAB,colorectal carcinoma
+8214,BORTEZOMIB,colorectal carcinoma
+8224,FRUQUINTINIB,rectum cancer
+8225,RIVOCERANIB,colorectal carcinoma
+8231,TRASTUZUMAB,colorectal carcinoma
+8234,ANLOTINIB,rectum cancer
+8260,CAPECITABINE,ampulla of Vater adenocarcinoma
+8268,TREMELIMUMAB,metastatic colorectal cancer
+8279,IPILIMUMAB,rectum cancer
+8281,AFLIBERCEPT,malignant colon neoplasm
+8283,PALBOCICLIB,colon carcinoma
+8289,RAMUCIRUMAB,rectum cancer
+8290,DOXYCYCLINE,colorectal adenocarcinoma
+8294,ROSUVASTATIN,rectum cancer
+8305,PERTUZUMAB,metastatic colorectal cancer
+8309,CETUXIMAB,colorectal cancer
+8314,VORINOSTAT,rectum cancer
+8315,RIVOCERANIB,malignant colon neoplasm
+8323,RIVOCERANIB,metastatic colorectal cancer
+8333,SARGRAMOSTIM,metastatic colorectal cancer
+8336,SARGRAMOSTIM,small intestine cancer
+8339,MESALAMINE,Lynch syndrome
+8354,CABOZANTINIB,colorectal carcinoma
+8364,METHOTREXATE,colorectal carcinoma
+8367,AZACITIDINE,rectum cancer
+8371,PANITUMUMAB,rectum cancer
+8373,SARACATINIB,malignant colon neoplasm
+8381,DOCETAXEL,anal carcinoma
+8382,COBIMETINIB,Appendix Adenocarcinoma
+8386,CELECOXIB,colorectal adenocarcinoma
+8387,BEVACIZUMAB,rectal carcinoma
+8393,FLUOROURACIL,small intestinal adenocarcinoma
+8395,PEMBROLIZUMAB,anus cancer
+8426,SARGRAMOSTIM,malignant colon neoplasm
+8457,NIVOLUMAB,malignant colon neoplasm
+8458,AVELUMAB,metastatic colorectal cancer
+8459,INTERFERON GAMMA-1B,colorectal carcinoma
+8490,FLUOROURACIL,colorectal cancer
+8497,IRINOTECAN,small intestinal adenocarcinoma
+8502,PEMBROLIZUMAB,malignant colon neoplasm
+8509,PEMBROLIZUMAB,small intestinal adenocarcinoma
+8512,CARMUSTINE,colorectal carcinoma
+8516,SAPITINIB,metastatic colorectal cancer
+8527,RAMUCIRUMAB,malignant colon neoplasm
+8538,ATEZOLIZUMAB,small intestinal adenocarcinoma
+8548,NIMOTUZUMAB,rectum cancer
+8571,ALDESLEUKIN,metastatic colorectal cancer
+8576,ERGOCALCIFEROL,metastatic colorectal cancer
+8593,ERLOTINIB,rectum cancer
+8600,SARGRAMOSTIM,colorectal carcinoma
+8605,ATEZOLIZUMAB,Appendix Adenocarcinoma
+8612,SELUMETINIB,metastatic colorectal cancer
+8615,CETUXIMAB,colon carcinoma
+8616,CAPECITABINE,small intestine carcinoma
+8623,METHOTREXATE,colorectal cancer
+8630,ATEZOLIZUMAB,anus cancer
+8633,GEFITINIB,metastatic colorectal cancer
+8635,CHOLECALCIFEROL,rectum cancer
+8650,NIMOTUZUMAB,colorectal cancer
+8658,EVEROLIMUS,metastatic colorectal cancer
+8668,LAPATINIB,colorectal carcinoma
+8673,PEGFILGRASTIM,rectum cancer
+8674,DEXAMETHASONE,colorectal adenocarcinoma
+8682,PERTUZUMAB,colorectal carcinoma
+8688,CELECOXIB,colon carcinoma
+8700,DEXAMETHASONE,metastatic colorectal cancer
+8701,NIVOLUMAB,Anal Squamous Cell Carcinoma
+8703,DURVALUMAB,metastatic colorectal cancer
+8708,NIVOLUMAB,rectum cancer
+8731,RAMUCIRUMAB,small intestinal adenocarcinoma
+8741,NIRAPARIB,colorectal adenocarcinoma
+8743,FILGRASTIM,colorectal carcinoma
+8744,AVELUMAB,colorectal carcinoma
+8762,IRINOTECAN,small intestine carcinoma
+8769,CHOLECALCIFEROL,colorectal carcinoma
+8771,CIXUTUMUMAB,malignant colon neoplasm
+8776,DURVALUMAB,colorectal cancer
+8784,PEMBROLIZUMAB,rectum cancer
+8792,ERLOTINIB,malignant colon neoplasm
+8793,NIVOLUMAB,colon carcinoma
+8794,PEGFILGRASTIM,metastatic colorectal cancer
+8795,LAPATINIB,gastric intestinal type adenocarcinoma
+8802,METHOTREXATE,metastatic colorectal cancer
+8821,CAPECITABINE,Anal Squamous Cell Carcinoma
+8831,DOXORUBICIN,metastatic colorectal cancer
+8835,PANITUMUMAB,colorectal cancer
+8843,BEVACIZUMAB,ampulla of Vater adenocarcinoma
+8850,CELECOXIB,rectal carcinoma
+8852,TREMELIMUMAB,colorectal carcinoma
+8857,PEMBROLIZUMAB,anal carcinoma
+8861,DEXAMETHASONE,rectum cancer
+8886,CYCLOSPORINE,small intestine cancer
+8887,PANOBINOSTAT,malignant colon neoplasm
+8888,VOXTALISIB,colorectal carcinoma
+8889,ORANTINIB,colorectal carcinoma
+8890,VANDETANIB,colorectal adenocarcinoma
+8891,PACLITAXEL,rectum cancer
+8892,PANOBINOSTAT,rectum cancer
+8893,SELUMETINIB,rectum cancer
+8894,SORAFENIB,rectal carcinoma
+8895,UCN-01,appendix carcinoma
+8897,SUNITINIB,colorectal carcinoma
+8899,DOCETAXEL,colorectal carcinoma
+8900,ZOTIRACICLIB,rectum cancer
+8901,PROPOFOL,colorectal carcinoma
+8902,PIMASERTIB,metastatic colorectal cancer
+8904,DIPHENHYDRAMINE,rectum cancer
+8907,UCN-01,small intestine lymphoma
+8908,LINSITINIB,metastatic colorectal cancer
+8913,DASATINIB,small intestine lymphoma
+8914,DASATINIB,colorectal carcinoma
+8917,IRINOTECAN,anus cancer
+8918,PACLITAXEL,small intestine cancer
+8919,IRINOTECAN,small intestine cancer
+8921,TANESPIMYCIN,colorectal carcinoma
+8922,PEMETREXED,colorectal adenocarcinoma
+8924,DASATINIB,metastatic colorectal cancer
+8925,BINIMETINIB,rectum cancer
+8926,BUPARLISIB,metastatic colorectal cancer
+8929,PAZOPANIB,colorectal adenocarcinoma
+8930,SORAFENIB,colorectal carcinoma
+8931,LAPATINIB,colorectal adenocarcinoma
+8932,FILGRASTIM,small intestine cancer
+8933,TOPOTECAN,small intestine cancer
+8934,NITRIC OXIDE,colorectal carcinoma
+8935,THALIDOMIDE,metastatic colorectal cancer
+8936,PACLITAXEL POLIGLUMEX,colorectal cancer
+8939,TREMELIMUMAB,colorectal adenocarcinoma
+8944,BUPARLISIB,colorectal carcinoma
+8947,BINIMETINIB,malignant colon neoplasm
+8952,MOTESANIB,malignant colon neoplasm
+8953,PACLITAXEL,anus cancer
+8954,SELUMETINIB,colon carcinoma
+8955,SEVOFLURANE,colorectal carcinoma
+8956,OCTREOTIDE,small intestinal neuroendocrine tumor G1
+8959,BECATECARIN,small intestine cancer
+8961,ETARACIZUMAB,colorectal carcinoma
+8963,ENTINOSTAT,colorectal carcinoma
+8964,IMATINIB,colorectal adenocarcinoma
+8966,UCN-01,anus cancer
+8967,ALVOCIDIB,small intestine cancer
+8968,TIVOZANIB,metastatic colorectal cancer
+8970,DACOMITINIB,colorectal carcinoma
+8972,EPACADOSTAT,rectum cancer
+8973,TANESPIMYCIN,small intestine lymphoma
+8974,SORAFENIB,colorectal adenocarcinoma
+8978,DS-7423,colorectal carcinoma
+8980,BRIVANIB,colorectal carcinoma
+8981,NINTEDANIB,colon adenocarcinoma
+8982,BRIVANIB,metastatic colorectal cancer
+8995,ATORVASTATIN,colorectal adenocarcinoma
+8997,COPANLISIB,malignant colon neoplasm
+8998,VORINOSTAT,small intestine cancer
+9000,TEMSIROLIMUS,malignant colon neoplasm
+9002,SELUMETINIB,colorectal adenocarcinoma
+9004,MIDOSTAURIN,rectum cancer
+9016,BINIMETINIB,colorectal carcinoma
+9018,MOTESANIB,rectum cancer
+9028,METHYLPREDNISOLONE,small intestine cancer
+9029,CILENGITIDE,small intestine cancer
+9030,LENVATINIB,rectum cancer
+9033,NERATINIB,colorectal carcinoma
+9036,PIMASERTIB,colorectal carcinoma
+9038,NINTEDANIB,rectal carcinoma
+9057,ALDESLEUKIN,small intestine cancer
+9062,TRASTUZUMAB,anus cancer
+9066,SELINEXOR,rectum cancer
+9074,ABEMACICLIB,colorectal carcinoma
+9080,IMATINIB,colorectal cancer
+9086,SEMAXANIB,rectum cancer
+9091,PERTUZUMAB,rectum cancer
+9093,VORINOSTAT,anus cancer
+9094,ETOPOSIDE,small intestine cancer
+9098,PACLITAXEL,metastatic colorectal cancer
+9101,VANDETANIB,rectum cancer
+9107,FULVESTRANT,colorectal carcinoma
+9109,DURVALUMAB,colorectal adenocarcinoma
+9119,CEDIRANIB,rectum cancer
+9126,FLUOROURACIL,gastric intestinal type adenocarcinoma
+9129,IMATINIB,colorectal carcinoma
+9143,BORTEZOMIB,small intestine cancer
+9158,EPACADOSTAT,metastatic colorectal cancer
+9160,DOCETAXEL,malignant colon neoplasm
+9184,TEMSIROLIMUS,colorectal adenocarcinoma
+9188,PERTUZUMAB,colorectal adenocarcinoma
+9191,LENALIDOMIDE,malignant colon neoplasm
+9199,AZACITIDINE,colorectal carcinoma
+9215,IMATINIB,small intestine cancer
+9219,SEMAXANIB,colorectal adenocarcinoma
+9223,ALDESLEUKIN,colorectal carcinoma
+9227,LINSITINIB,colorectal carcinoma
+9238,SELUMETINIB,malignant colon neoplasm
+9250,CRIZOTINIB,colorectal carcinoma
+9264,TOPOTECAN,rectum cancer
+9270,CYCLOSPORINE,colorectal adenocarcinoma
+9271,TRASTUZUMAB,appendix carcinoma
+9272,IRINOTECAN,small intestine lymphoma
+9284,SEMAXANIB,malignant colon neoplasm
+9307,LENALIDOMIDE,rectum cancer
+9322,RIVOCERANIB,colorectal adenocarcinoma
+9323,IMIQUIMOD,colorectal carcinoma
+9361,ARSENIC TRIOXIDE,colorectal carcinoma
+9362,ADAVOSERTIB,metastatic colorectal cancer
+9363,DECITABINE,colorectal carcinoma
+9371,PERTUZUMAB,malignant colon neoplasm
+9425,IRINOTECAN,appendix carcinoma
+9442,VALPROIC ACID,colorectal carcinoma
+9445,IPILIMUMAB,colorectal adenocarcinoma
+9453,NAPROXEN,Lynch syndrome
+9469,TACROLIMUS,small intestine cancer
+9484,SIROLIMUS,rectum cancer
+9496,EVEROLIMUS,malignant colon neoplasm
+9511,SIROLIMUS,metastatic colorectal cancer
+9512,ERGOCALCIFEROL,colorectal carcinoma
+9553,TRASTUZUMAB,small intestine carcinoma
+9570,TOCILIZUMAB,colorectal carcinoma
+9573,PEMETREXED,non-small cell lung carcinoma
+9575,DOCETAXEL,non-small cell lung carcinoma
+9576,GEFITINIB,non-small cell lung carcinoma
+9577,PACLITAXEL,non-small cell lung carcinoma
+9579,ERLOTINIB,non-small cell lung carcinoma
+9581,VINORELBINE,non-small cell lung carcinoma
+9584,GEMCITABINE,non-small cell lung carcinoma
+9587,BEVACIZUMAB,non-small cell lung carcinoma
+9589,DACOMITINIB,non-small cell lung carcinoma
+9592,ANLOTINIB,non-small cell lung carcinoma
+9593,ERLOTINIB,lung adenocarcinoma
+9595,VINBLASTINE,non-small cell lung carcinoma
+9596,ROPIVACAINE,lung cancer
+9598,ATEZOLIZUMAB,non-small cell lung carcinoma
+9600,DURVALUMAB,non-small cell lung carcinoma
+9603,PEMETREXED,lung adenocarcinoma
+9605,AFATINIB,non-small cell lung carcinoma
+9612,LIDOCAINE,lung cancer
+9616,PROPOFOL,lung cancer
+9627,THALIDOMIDE,non-small cell lung carcinoma
+9628,DOCETAXEL,squamous cell lung carcinoma
+9633,ANLOTINIB,small cell lung carcinoma
+9641,ENTRECTINIB,non-small cell lung carcinoma
+9659,CRIZOTINIB,non-small cell lung carcinoma
+9663,DEXAMETHASONE,lung cancer
+9669,DEXMEDETOMIDINE,lung cancer
+9670,RIVOCERANIB,squamous cell lung carcinoma
+9672,PEGFILGRASTIM,non-small cell lung carcinoma
+9673,PEMBROLIZUMAB,non-small cell lung carcinoma
+9687,MIDAZOLAM,lung cancer
+9689,NIVOLUMAB,non-small cell lung carcinoma
+9690,DEXAMETHASONE,non-small cell lung carcinoma
+9694,ETOPOSIDE,small cell lung carcinoma
+9703,IPILIMUMAB,lung cancer
+9704,RAMUCIRUMAB,non-small cell lung carcinoma
+9706,RIVOCERANIB,non-small cell lung carcinoma
+9712,AFATINIB,squamous cell lung carcinoma
+9716,IRINOTECAN,small cell lung carcinoma
+9717,ERLOTINIB,lung cancer
+9740,NIVOLUMAB,lung cancer
+9749,FILGRASTIM,lung cancer
+9750,VANDETANIB,non-small cell lung carcinoma
+9751,PACLITAXEL,lung cancer
+9754,DOCETAXEL,lung cancer
+9755,VINORELBINE,lung cancer
+9756,PEMETREXED,lung cancer
+9757,GEMCITABINE,lung cancer
+9760,VINBLASTINE,lung cancer
+9762,ETOPOSIDE,squamous cell lung carcinoma
+9763,ETOPOSIDE,lung cancer
+9765,VINCRISTINE,lung cancer
+9767,OLAPARIB,small cell lung carcinoma
+9769,EPINEPHRINE,non-small cell lung carcinoma
+9770,SUNITINIB,non-small cell lung carcinoma
+9771,PACLITAXEL POLIGLUMEX,non-small cell lung carcinoma
+9774,SORAFENIB,non-small cell lung carcinoma
+9777,MOTESANIB,non-small cell lung carcinoma
+9778,AVELUMAB,non-small cell lung carcinoma
+9779,PACLITAXEL POLIGLUMEX,lung cancer
+9780,FAMITINIB,non-small cell lung carcinoma
+9783,ABEMACICLIB,non-small cell lung carcinoma
+9787,VINORELBINE,lung carcinoma
+9789,VINORELBINE,adenosquamous lung carcinoma
+9793,GEFITINIB,squamous cell lung carcinoma
+9801,VINCRISTINE,small cell lung carcinoma
+9808,PACLITAXEL,adenosquamous lung carcinoma
+9809,GEMCITABINE,squamous cell lung carcinoma
+9814,PACLITAXEL,lung adenocarcinoma
+9816,GEFITINIB,bronchoalveolar adenocarcinoma
+9817,ETOPOSIDE,non-small cell lung carcinoma
+9822,CEDIRANIB,lung cancer
+9827,OBATOCLAX,small cell lung carcinoma
+9829,GEFITINIB,lung cancer
+9830,ZOLEDRONIC ACID,non-small cell lung carcinoma
+9842,BEXAROTENE,non-small cell lung carcinoma
+9844,PEMBROLIZUMAB,squamous cell lung carcinoma
+9848,VINORELBINE,lung adenocarcinoma
+9849,TACEDINALINE,lung cancer
+9851,VELIPARIB,non-small cell lung carcinoma
+9854,PEMETREXED,squamous cell lung carcinoma
+9856,MARIMASTAT,lung cancer
+9859,PACLITAXEL,squamous cell lung carcinoma
+9861,BEVACIZUMAB,lung cancer
+9862,CEMIPLIMAB,non-small cell lung carcinoma
+9867,PACLITAXEL,large cell lung carcinoma
+9869,NINTEDANIB,non-small cell lung carcinoma
+9872,TREMELIMUMAB,non-small cell lung carcinoma
+9876,DURVALUMAB,small cell lung carcinoma
+9878,PEGFILGRASTIM,lung cancer
+9881,DOCETAXEL,lung adenocarcinoma
+9893,THALIDOMIDE,lung cancer
+9894,TOPOTECAN,non-small cell lung carcinoma
+9895,PLINABULIN,non-small cell lung carcinoma
+9896,ERIBULIN,non-small cell lung carcinoma
+9900,TOPOTECAN,small cell lung carcinoma
+9906,TOPOTECAN,lung cancer
+9909,CABOZANTINIB,non-small cell lung carcinoma
+9910,NIVOLUMAB,squamous cell lung carcinoma
+9914,IRINOTECAN,lung cancer
+9915,EPACADOSTAT,lung cancer
+9923,BUPROPION,lung cancer
+9925,CETUXIMAB,lung cancer
+9932,IPILIMUMAB,lung adenocarcinoma
+9946,VORINOSTAT,lung cancer
+9950,DOXORUBICIN,lung cancer
+9969,CETUXIMAB,non-small cell lung carcinoma
+9970,DACOMITINIB,lung cancer
+9973,NIRAPARIB,non-small cell lung carcinoma
+9978,ZOLEDRONIC ACID,lung cancer
+9989,CELECOXIB,non-small cell lung carcinoma
+9990,IPILIMUMAB,non-small cell lung carcinoma
+9992,NICOTINE,lung cancer
+9993,RIVOCERANIB,small cell lung carcinoma
+9995,ISOTRETINOIN,lung cancer
+10001,MELATONIN,non-small cell lung carcinoma
+10007,PEMETREXED,small cell lung carcinoma
+10012,AFLIBERCEPT,non-small cell lung carcinoma
+10013,NIVOLUMAB,lung adenocarcinoma
+10016,LENVATINIB,non-small cell lung carcinoma
+10029,DENOSUMAB,lung cancer
+10037,CELECOXIB,lung cancer
+10047,DOXORUBICIN,small cell lung carcinoma
+10056,IPILIMUMAB,small cell lung carcinoma
+10061,PEMBROLIZUMAB,lung cancer
+10068,SELUMETINIB,non-small cell lung carcinoma
+10069,FRUQUINTINIB,non-small cell lung carcinoma
+10071,BEVACIZUMAB,lung adenocarcinoma
+10073,ERLOTINIB,large cell lung carcinoma
+10079,PEMBROLIZUMAB,small cell lung carcinoma
+10081,ETOPOSIDE,lung adenocarcinoma
+10082,NIRAPARIB,small cell lung carcinoma
+10091,TRETINOIN,non-small cell lung carcinoma
+10098,OLAPARIB,non-small cell lung carcinoma
+10102,ATEZOLIZUMAB,small cell lung carcinoma
+10113,IPILIMUMAB,squamous cell lung carcinoma
+10116,ASPIRIN,non-small cell lung carcinoma
+10142,TREMELIMUMAB,small cell lung carcinoma
+10149,GANETESPIB,lung adenocarcinoma
+10157,FILGRASTIM,non-small cell lung carcinoma
+10158,CAPECITABINE,non-small cell lung carcinoma
+10163,GEFITINIB,adenosquamous lung carcinoma
+10169,DEXAMETHASONE,small cell lung carcinoma
+10170,CRIZOTINIB,lung adenocarcinoma
+10173,VARENICLINE,lung carcinoma
+10195,GEFITINIB,lung adenocarcinoma
+10198,INFLIXIMAB,lung cancer
+10213,PEMBROLIZUMAB,lung adenocarcinoma
+10216,GEMCITABINE,lung adenocarcinoma
+10217,METFORMIN,lung cancer
+10218,CABAZITAXEL,non-small cell lung carcinoma
+10219,PAZOPANIB,small cell lung carcinoma
+10220,VANDETANIB,lung cancer
+10221,PACLITAXEL,bronchoalveolar adenocarcinoma
+10222,AFATINIB,small cell lung carcinoma
+10223,SORAFENIB,lung cancer
+10224,CM-082,non-small cell lung carcinoma
+10225,METFORMIN,non-small cell lung carcinoma
+10228,TEMSIROLIMUS,non-small cell lung carcinoma
+10231,ENTINOSTAT,non-small cell lung carcinoma
+10232,DASATINIB,non-small cell lung carcinoma
+10233,DURVALUMAB,lung adenocarcinoma
+10234,GEMCITABINE,small cell lung carcinoma
+10235,POZIOTINIB,lung adenocarcinoma
+10236,TRETINOIN,lung cancer
+10238,TALAZOPARIB,squamous cell lung carcinoma
+10240,TRASTUZUMAB EMTANSINE,non-small cell lung carcinoma
+10242,PACLITAXEL,small cell lung carcinoma
+10244,PAZOPANIB,non-small cell lung carcinoma
+10245,DOCETAXEL,small cell lung carcinoma
+10247,SORAFENIB,small cell lung carcinoma
+10248,METFORMIN,large cell lung carcinoma
+10250,RAMUCIRUMAB,squamous cell lung carcinoma
+10252,ANLOTINIB,lung cancer
+10253,METFORMIN,adenosquamous lung carcinoma
+10256,MK-2206,large cell lung carcinoma
+10258,RONICICLIB,small cell lung carcinoma
+10260,SAGOPILONE,small cell lung carcinoma
+10262,HYDROXYCHLOROQUINE,non-small cell lung carcinoma
+10264,METFORMIN,lung adenocarcinoma
+10265,METFORMIN,small cell lung carcinoma
+10267,PEMETREXED,large cell lung carcinoma
+10270,CETUXIMAB,adenosquamous lung carcinoma
+10274,SAMOTOLISIB,non-small cell lung carcinoma
+10275,TREMELIMUMAB,pulmonary neuroendocrine tumor
+10277,NIVOLUMAB,small cell lung carcinoma
+10278,CEDIRANIB,non-small cell lung carcinoma
+10280,ARSENIC TRIOXIDE,lung cancer
+10282,IMATINIB,non-small cell lung carcinoma
+10288,POZIOTINIB,non-small cell lung carcinoma
+10292,BMS-690514,non-small cell lung carcinoma
+10294,SAGOPILONE,non-small cell lung carcinoma
+10295,LENVATINIB,lung adenocarcinoma
+10301,ROMIDEPSIN,small cell lung carcinoma
+10303,VATALANIB,non-small cell lung carcinoma
+10304,SUNITINIB,small cell lung carcinoma
+10305,PAZOPANIB,lung cancer
+10311,AZD-4547,non-small cell lung carcinoma
+10314,TASELISIB,squamous cell lung carcinoma
+10316,AZD-4547,squamous cell lung carcinoma
+10320,MOTEXAFIN GADOLINIUM,lung cancer
+10322,DASATINIB,lung cancer
+10324,BECATECARIN,lung cancer
+10325,COBIMETINIB,non-small cell lung carcinoma
+10341,VINFLUNINE,non-small cell lung carcinoma
+10347,VORINOSTAT,non-small cell lung carcinoma
+10349,IMATINIB,lung cancer
+10351,AZACITIDINE,non-small cell lung carcinoma
+10354,LINIFANIB,non-small cell lung carcinoma
+10356,SUNITINIB,lung cancer
+10358,VANDETANIB,small cell lung carcinoma
+10359,PICTILISIB,non-small cell lung carcinoma
+10361,PEGFILGRASTIM,lung adenocarcinoma
+10364,VINFLUNINE,lung cancer
+10365,CABAZITAXEL,small cell lung carcinoma
+10371,BEVACIZUMAB,large cell lung carcinoma
+10372,XL-999,non-small cell lung carcinoma
+10374,IMIQUIMOD,non-small cell lung carcinoma
+10377,ERDAFITINIB,non-small cell lung carcinoma
+10397,CEDIRANIB,small cell lung carcinoma
+10398,DASATINIB,squamous cell lung carcinoma
+10405,METFORMIN,bronchoalveolar adenocarcinoma
+10407,PENTOXIFYLLINE,non-small cell lung carcinoma
+10416,ALDESLEUKIN,lung cancer
+10423,DOVITINIB,non-small cell lung carcinoma
+10425,TIPIFARNIB,lung cancer
+10426,SIMVASTATIN,small cell lung carcinoma
+10429,FULVESTRANT,lung cancer
+10430,PIOGLITAZONE,squamous cell lung carcinoma
+10433,ERDAFITINIB,squamous cell lung carcinoma
+10438,TELISOTUZUMAB VEDOTIN,squamous cell lung carcinoma
+10439,PASIREOTIDE,small cell lung carcinoma
+10441,NINTEDANIB,lung cancer
+10447,NINTEDANIB,small cell lung carcinoma
+10454,DURVALUMAB,squamous cell lung carcinoma
+10456,ERLOTINIB,squamous cell lung carcinoma
+10458,PALBOCICLIB,non-small cell lung carcinoma
+10461,EVEROLIMUS,non-small cell lung carcinoma
+10462,IXABEPILONE,lung cancer
+10468,CIXUTUMUMAB,lung adenocarcinoma
+10473,MK-2206,bronchoalveolar adenocarcinoma
+10475,ERLOTINIB,adenosquamous lung carcinoma
+10477,BUPARLISIB,non-small cell lung carcinoma
+10483,TRASTUZUMAB,lung cancer
+10490,BINIMETINIB,non-small cell lung carcinoma
+10493,LINSITINIB,non-small cell lung carcinoma
+10498,IXABEPILONE,non-small cell lung carcinoma
+10501,ADAVOSERTIB,small cell lung carcinoma
+10502,ROMIDEPSIN,non-small cell lung carcinoma
+10511,IPATASERTIB,non-small cell lung carcinoma
+10515,CAPIVASERTIB,non-small cell lung carcinoma
+10518,PIOGLITAZONE,lung cancer
+10520,DIGOXIN,non-small cell lung carcinoma
+10524,PASIREOTIDE,lung carcinoma
+10527,VELIPARIB,small cell lung carcinoma
+10536,UCN-01,small cell lung carcinoma
+10538,GEMCITABINE,large cell lung carcinoma
+10541,BORTEZOMIB,non-small cell lung carcinoma
+10543,TRASTUZUMAB,non-small cell lung carcinoma
+10552,VINORELBINE,large cell lung carcinoma
+10553,MK-2206,lung cancer
+10554,KETAMINE,lung cancer
+10562,SIMVASTATIN,lung cancer
+10563,VINFLUNINE,small cell lung carcinoma
+10575,TREMELIMUMAB,lung cancer
+10581,LENALIDOMIDE,non-small cell lung carcinoma
+10593,NIMOTUZUMAB,non-small cell lung carcinoma
+10598,DOCETAXEL,adenosquamous lung carcinoma
+10608,NERATINIB,non-small cell lung carcinoma
+10611,TREMELIMUMAB,squamous cell lung carcinoma
+10622,DASATINIB,small cell lung carcinoma
+10624,DIPHENHYDRAMINE,non-small cell lung carcinoma
+10627,DOXYCYCLINE,non-small cell lung carcinoma
+10659,CIXUTUMUMAB,non-small cell lung carcinoma
+10660,GEFITINIB,small cell lung carcinoma
+10661,TELISOTUZUMAB VEDOTIN,non-small cell lung carcinoma
+10671,BEVACIZUMAB,small cell lung carcinoma
+10673,PANITUMUMAB,lung cancer
+10674,GANETESPIB,non-small cell lung carcinoma
+10690,NINTEDANIB,squamous cell lung carcinoma
+10706,PANITUMUMAB,non-small cell lung carcinoma
+10713,LUCITANIB,non-small cell lung carcinoma
+10721,DURVALUMAB,lung cancer
+10732,BEVACIZUMAB,lung carcinoid tumor
+10739,VISTUSERTIB,non-small cell lung carcinoma
+10756,LUCITANIB,small cell lung carcinoma
+10760,TIPIFARNIB,non-small cell lung carcinoma
+10762,EVEROLIMUS,small cell lung carcinoma
+10768,AFATINIB,lung cancer
+10770,SELUMETINIB,lung cancer
+10774,LINSITINIB,small cell lung carcinoma
+10778,ACETAMINOPHEN,non-small cell lung carcinoma
+10780,SARACATINIB,non-small cell lung carcinoma
+10782,VALPROIC ACID,small cell lung carcinoma
+10789,CM-082,small cell lung carcinoma
+10810,ROGARATINIB,non-small cell lung carcinoma
+10822,AXITINIB,non-small cell lung carcinoma
+10825,HYDROXYCHLOROQUINE,small cell lung carcinoma
+10828,IMATINIB,small cell lung carcinoma
+10838,TALAZOPARIB,small cell lung carcinoma
+10841,ERLOTINIB,bronchoalveolar adenocarcinoma
+10844,SELINEXOR,small cell lung carcinoma
+10846,LAPATINIB,non-small cell lung carcinoma
+10847,MOTEXAFIN GADOLINIUM,non-small cell lung carcinoma
+10852,PEGFILGRASTIM,small cell lung carcinoma
+10857,TALAZOPARIB,non-small cell lung carcinoma
+10863,PIOGLITAZONE,non-small cell lung carcinoma
+10880,VISTUSERTIB,small cell lung carcinoma
+10882,ADAVOSERTIB,non-small cell lung carcinoma
+10887,BORTEZOMIB,bronchoalveolar adenocarcinoma
+10908,BEXAROTENE,lung cancer
+10911,RIVOCERANIB,lung cancer
+10920,RETASPIMYCIN,non-small cell lung carcinoma
+10927,CIXUTUMUMAB,small cell lung carcinoma
+10928,FRUQUINTINIB,lung cancer
+10930,MOCETINOSTAT,non-small cell lung carcinoma
+10932,PALBOCICLIB,squamous cell lung carcinoma
+10952,GEFITINIB,lung carcinoma
+10954,SAPITINIB,non-small cell lung carcinoma
+10970,CAPECITABINE,lung cancer
+10982,MUPARFOSTAT,non-small cell lung carcinoma
+10983,MUPARFOSTAT,lung cancer
+10993,DURVALUMAB,large cell lung carcinoma
+11009,NIMOTUZUMAB,lung cancer
+11016,FULVESTRANT,non-small cell lung carcinoma
+11029,PERTUZUMAB,non-small cell lung carcinoma
+11031,RUXOLITINIB,non-small cell lung carcinoma
+11034,BORTEZOMIB,lung cancer
+11039,MK-2206,adenosquamous lung carcinoma
+11040,TRETINOIN,small cell lung carcinoma
+11050,IRINOTECAN,non-small cell lung carcinoma
+11051,SIMVASTATIN,non-small cell lung carcinoma
+11058,NIVOLUMAB,large cell lung carcinoma
+11076,CILENGITIDE,non-small cell lung carcinoma
+11077,FILGRASTIM,small cell lung carcinoma
+11079,BECATECARIN,small cell lung carcinoma
+11081,DOXORUBICIN,non-small cell lung carcinoma
+11104,SARGRAMOSTIM,non-small cell lung carcinoma
+11128,RIBOCICLIB,pulmonary neuroendocrine tumor
+11130,FLUOROURACIL,non-small cell lung carcinoma
+11143,DECITABINE,non-small cell lung carcinoma
+11144,PEGFILGRASTIM,adenosquamous lung carcinoma
+11146,AFLIBERCEPT,small cell lung carcinoma
+11157,EPACADOSTAT,small cell lung carcinoma
+11161,PREDNISONE,non-small cell lung carcinoma
+11171,BEVACIZUMAB,adenosquamous lung carcinoma
+11182,DENOSUMAB,non-small cell lung carcinoma
+11199,GANETESPIB,small cell lung carcinoma
+11204,ADAVOSERTIB,lung cancer
+11228,AVELUMAB,small cell lung carcinoma
+11244,ABEMACICLIB,lung cancer
+11246,PREDNISONE,lung cancer
+11255,DEXAMETHASONE,squamous cell lung carcinoma
+11266,RETASPIMYCIN,lung cancer
+11282,PEMETREXED,bronchoalveolar adenocarcinoma
+11286,MIFEPRISTONE,non-small cell lung carcinoma
+11323,METHYLPREDNISOLONE,non-small cell lung carcinoma
+11351,EVEROLIMUS,lung carcinoma
+11402,SILDENAFIL,non-small cell lung carcinoma
+11411,ARSENIC TRIOXIDE,small cell lung carcinoma
+11482,ATEZOLIZUMAB,lung cancer
+11518,RIVOCERANIB,lung adenocarcinoma
+11542,TEMSIROLIMUS,small cell lung carcinoma
+11579,BORTEZOMIB,lung adenocarcinoma
+11593,CETUXIMAB,lung adenocarcinoma
+11604,TEMSIROLIMUS,lung carcinoid tumor
+11605,RIVOCERANIB,lung carcinoma
+11607,CIXUTUMUMAB,lung cancer
+11635,CIXUTUMUMAB,large cell lung carcinoma
+11637,DURVALUMAB,pulmonary neuroendocrine tumor
+11638,PILARALISIB,non-small cell lung carcinoma
+11639,PLINABULIN,small cell lung carcinoma
+11640,BELINOSTAT,non-small cell lung carcinoma
+11641,ACETAZOLAMIDE,small cell lung carcinoma
+11643,TOSEDOSTAT,non-small cell lung carcinoma
+11644,MIDAZOLAM,non-small cell lung carcinoma
+11646,RONICICLIB,non-small cell lung carcinoma
+11648,ROMIDEPSIN,lung cancer
+11649,MOCETINOSTAT,lung cancer
+11651,ROSUVASTATIN,non-small cell lung carcinoma
+11654,VELIPARIB,squamous cell lung carcinoma
+11656,ENMD-981693,non-small cell lung carcinoma
+11657,RIBOCICLIB,non-small cell lung carcinoma
+11660,PANOBINOSTAT,non-small cell lung carcinoma
+11665,MOTESANIB,lung cancer
+11666,CANNABIDIOL,lung cancer
+11674,NINTEDANIB,lung adenocarcinoma
+11677,EPACADOSTAT,non-small cell lung carcinoma
+11679,FLUDARABINE PHOSPHATE,lung cancer
+11680,GEDATOLISIB,non-small cell lung carcinoma
+11682,THEOPHYLLINE,non-small cell lung carcinoma
+11683,PANOBINOSTAT,lung cancer
+11688,VINORELBINE,small cell lung carcinoma
+11689,UCN-01,non-small cell lung carcinoma
+11693,NAVITOCLAX,small cell lung carcinoma
+11694,VOXTALISIB,non-small cell lung carcinoma
+11695,OBATOCLAX,lung cancer
+11699,ERGOCALCIFEROL,lung cancer
+11701,FLUDARABINE PHOSPHATE,squamous cell lung carcinoma
+11704,FORETINIB,lung cancer
+11705,BUPARLISIB,lung cancer
+11707,RUXOLITINIB,lung cancer
+11709,TIVOZANIB,non-small cell lung carcinoma
+11715,BINIMETINIB,lung cancer
+11717,BIRABRESIB,non-small cell lung carcinoma
+11731,REGORAFENIB,small cell lung carcinoma
+11733,CALCITRIOL,non-small cell lung carcinoma
+11739,SARGRAMOSTIM,lung cancer
+11741,SIROLIMUS,small cell lung carcinoma
+11750,SIROLIMUS,non-small cell lung carcinoma
+11752,PEMETREXED,adenosquamous lung carcinoma
+11760,VARENICLINE,lung cancer
+11765,RUCAPARIB,non-small cell lung carcinoma
+11770,NIRAPARIB,lung cancer
+11771,BUPROPION,non-small cell lung carcinoma
+11786,ORANTINIB,lung cancer
+11793,NAVITOCLAX,non-small cell lung carcinoma
+11794,CUDC-101,non-small cell lung carcinoma
+11799,SIROLIMUS,lung adenocarcinoma
+11808,CRIZOTINIB,lung cancer
+11810,SELUMETINIB,squamous cell lung carcinoma
+11811,SIROLIMUS,lung cancer
+11815,EVEROLIMUS,pulmonary neuroendocrine tumor
+11824,LITHIUM CARBONATE,small cell lung carcinoma
+11829,RUCAPARIB,small cell lung carcinoma
+11831,BUPARLISIB,small cell lung carcinoma
+11838,POMALIDOMIDE,small cell lung carcinoma
+11846,VORINOSTAT,small cell lung carcinoma
+11849,TOCILIZUMAB,non-small cell lung carcinoma
+11853,DURVALUMAB,lung carcinoma
+11860,ETOPOSIDE,adenosquamous lung carcinoma
+11866,BOSUTINIB,non-small cell lung carcinoma
+11884,PALBOCICLIB,lung cancer
+11897,MK-2206,non-small cell lung carcinoma
+11906,EVEROLIMUS,lung cancer
+11910,SELINEXOR,non-small cell lung carcinoma
+11916,PIMASERTIB,non-small cell lung carcinoma
+11923,VALPROIC ACID,lung cancer
+11928,SIROLIMUS,squamous cell lung carcinoma
+11931,DIPHENHYDRAMINE,lung cancer
+11941,LETROZOLE,non-small cell lung carcinoma
+11946,TANESPIMYCIN,lung cancer
+11967,TEMSIROLIMUS,lung cancer
+11984,ARSENIC TRIOXIDE,non-small cell lung carcinoma
+12034,HYDROXYCHLOROQUINE,lung cancer
+12042,HYDROXYUREA,lung cancer
+12049,VALPROIC ACID,non-small cell lung carcinoma
+12051,GANETESPIB,lung cancer
+12113,SELINEXOR,squamous cell lung carcinoma
+12142,VISTUSERTIB,squamous cell lung carcinoma
+12143,ALDESLEUKIN,non-small cell lung carcinoma
+12146,ASPIRIN,lung adenocarcinoma
+12151,METFORMIN,systemic lupus erythematosus
+12155,DEXAMETHASONE,systemic lupus erythematosus
+12159,LENALIDOMIDE,cutaneous lupus erythematosus
+12161,HYDROXYCHLOROQUINE,systemic lupus erythematosus
+12163,"ESTROGENS, CONJUGATED",systemic lupus erythematosus
+12167,ATORVASTATIN,systemic lupus erythematosus
+12175,SIMVASTATIN,systemic lupus erythematosus
+12178,THALIDOMIDE,systemic lupus erythematosus
+12185,HYDROXYCHLOROQUINE,cutaneous lupus erythematosus
+12195,THALIDOMIDE,cutaneous lupus erythematosus
+12197,PIOGLITAZONE,systemic lupus erythematosus
+12210,PREDNISONE,systemic lupus erythematosus
+12232,PREDNISOLONE,systemic lupus erythematosus
+12237,METHYLPREDNISOLONE,systemic lupus erythematosus
+12238,MYCOPHENOLATE MOFETIL,systemic lupus erythematosus
+12240,RITUXIMAB,systemic lupus erythematosus
+12241,DIPHENHYDRAMINE,systemic lupus erythematosus
+12243,ACETAMINOPHEN,systemic lupus erythematosus
+12246,USTEKINUMAB,systemic lupus erythematosus
+12253,METHOTREXATE,systemic lupus erythematosus
+12258,ETANERCEPT,lupus erythematosus
+12259,ABATACEPT,systemic lupus erythematosus
+12260,RONTALIZUMAB,systemic lupus erythematosus
+12261,THALIDOMIDE,lupus erythematosus
+12262,SIFALIMUMAB,systemic lupus erythematosus
+12263,ALITRETINOIN,cutaneous lupus erythematosus
+12264,SIROLIMUS,systemic lupus erythematosus
+12265,FILGRASTIM,systemic lupus erythematosus
+12273,CYTARABINE,systemic lupus erythematosus
+12275,FLUDARABINE PHOSPHATE,systemic lupus erythematosus
+12276,FULVESTRANT,systemic lupus erythematosus
+12277,UPADACITINIB,systemic lupus erythematosus
+12280,ASPIRIN,systemic lupus erythematosus
+12286,MEMANTINE,systemic lupus erythematosus
+12299,ETANERCEPT,cutaneous lupus erythematosus
+12301,BRENTUXIMAB VEDOTIN,systemic lupus erythematosus
+12306,CHOLECALCIFEROL,systemic lupus erythematosus
+12309,ALDESLEUKIN,systemic lupus erythematosus
+12324,CALCITRIOL,systemic lupus erythematosus
+12329,ERGOCALCIFEROL,cutaneous lupus erythematosus
+12339,SECUKINUMAB,lupus erythematosus
+12354,TACROLIMUS,cutaneous lupus erythematosus
+12369,ARSENIC TRIOXIDE,systemic lupus erythematosus
+12385,SIFALIMUMAB,lupus erythematosus
+12397,TOFACITINIB,systemic lupus erythematosus
+12401,ROSUVASTATIN,systemic lupus erythematosus
+12402,APREMILAST,lupus erythematosus
+12405,AMISELIMOD,systemic lupus erythematosus
+12418,TOFACITINIB,cutaneous lupus erythematosus
+12430,DALFAMPRIDINE,multiple sclerosis
+12431,PREDNISONE,multiple sclerosis
+12432,FINGOLIMOD,multiple sclerosis
+12437,METHYLPREDNISOLONE,multiple sclerosis
+12438,LEVETIRACETAM,multiple sclerosis
+12439,FINGOLIMOD,relapsing-remitting multiple sclerosis
+12444,DEXAMETHASONE,multiple sclerosis
+12445,DALFAMPRIDINE,primary progressive multiple sclerosis
+12452,LIDOCAINE,multiple sclerosis
+12461,DALFAMPRIDINE,secondary progressive multiple sclerosis
+12463,ACETAMINOPHEN,relapsing-remitting multiple sclerosis
+12478,MEMANTINE,multiple sclerosis
+12479,PREDNISONE,neuromyelitis optica
+12491,CHOLECALCIFEROL,multiple sclerosis
+12494,MYCOPHENOLATE MOFETIL,neuromyelitis optica
+12498,IBUPROFEN,relapsing-remitting multiple sclerosis
+12509,ALEMTUZUMAB,relapsing-remitting multiple sclerosis
+12513,METHYLPREDNISOLONE,relapsing-remitting multiple sclerosis
+12514,NATALIZUMAB,multiple sclerosis
+12525,DOXYCYCLINE,multiple sclerosis
+12539,PREDNISONE,relapsing-remitting multiple sclerosis
+12544,PREDNISOLONE,multiple sclerosis
+12552,NATALIZUMAB,relapsing-remitting multiple sclerosis
+12561,SIMVASTATIN,multiple sclerosis
+12565,RITUXIMAB,neuromyelitis optica
+12572,ALEMTUZUMAB,multiple sclerosis
+12594,METHOTREXATE,relapsing-remitting multiple sclerosis
+12613,ACETAMINOPHEN,multiple sclerosis
+12620,RITUXIMAB,multiple sclerosis
+12633,ASPIRIN,relapsing-remitting multiple sclerosis
+12657,METHOTREXATE,multiple sclerosis
+12677,AMIFAMPRIDINE,multiple sclerosis
+12678,AMANTADINE,multiple sclerosis
+12679,DALFAMPRIDINE,relapsing-remitting multiple sclerosis
+12684,MIDAZOLAM,relapsing-remitting multiple sclerosis
+12685,WARFARIN,relapsing-remitting multiple sclerosis
+12687,CAFFEINE,relapsing-remitting multiple sclerosis
+12688,FINGOLIMOD,primary progressive multiple sclerosis
+12692,ERGOCALCIFEROL,multiple sclerosis
+12712,QUINIDINE,multiple sclerosis
+12715,NAPROXEN,multiple sclerosis
+12737,METHYLPHENIDATE,multiple sclerosis
+12738,DEXTROMETHORPHAN,multiple sclerosis
+12744,SIMVASTATIN,relapsing-remitting multiple sclerosis
+12746,MASITINIB,chronic progressive multiple sclerosis
+12753,METHYLPREDNISOLONE,chronic progressive multiple sclerosis
+12754,DEXTROMETHORPHAN,relapsing-remitting multiple sclerosis
+12756,IBUPROFEN,multiple sclerosis
+12763,RITUXIMAB,relapsing-remitting multiple sclerosis
+12768,SIMVASTATIN,secondary progressive multiple sclerosis
+12777,NALTREXONE,multiple sclerosis
+12809,CHOLECALCIFEROL,relapsing-remitting multiple sclerosis
+12816,OMEPRAZOLE,relapsing-remitting multiple sclerosis
+12821,ESTRADIOL,multiple sclerosis
+12824,NATALIZUMAB,secondary progressive multiple sclerosis
+12827,FILGRASTIM,relapsing-remitting multiple sclerosis
+12841,TOPIRAMATE,multiple sclerosis
+12843,SECUKINUMAB,multiple sclerosis
+12844,RILUZOLE,multiple sclerosis
+12846,SELURAMPANEL,multiple sclerosis
+12847,ATORVASTATIN,multiple sclerosis
+12848,NERISPIRDINE,multiple sclerosis
+12852,ATORVASTATIN,relapsing-remitting multiple sclerosis
+12862,LAMOTRIGINE,secondary progressive multiple sclerosis
+12866,FLUDARABINE PHOSPHATE,multiple sclerosis
+12870,RILUZOLE,secondary progressive multiple sclerosis
+12874,ETOPOSIDE,relapsing-remitting multiple sclerosis
+12875,OXCARBAZEPINE,multiple sclerosis
+12878,AMISELIMOD,relapsing-remitting multiple sclerosis
+12880,CYTARABINE,neuromyelitis optica
+12882,MYCOPHENOLATE MOFETIL,multiple sclerosis
+12884,METHYLPREDNISOLONE,neuromyelitis optica
+12886,CYTARABINE,relapsing-remitting multiple sclerosis
+12888,ACETAZOLAMIDE,multiple sclerosis
+12906,IMATINIB,multiple sclerosis
+12910,MELATONIN,relapsing-remitting multiple sclerosis
+12932,LAMOTRIGINE,relapsing-remitting multiple sclerosis
+12937,MASITINIB,multiple sclerosis
+12938,ABATACEPT,multiple sclerosis
+12941,BORTEZOMIB,neuromyelitis optica
+12957,HYDROXYCHLOROQUINE,chronic progressive multiple sclerosis
+12970,ETOPOSIDE,neuromyelitis optica
+12979,TACROLIMUS,multiple sclerosis
+13002,ABATACEPT,relapsing-remitting multiple sclerosis
+13015,RITUXIMAB,secondary progressive multiple sclerosis
+13018,FILGRASTIM,neuromyelitis optica
+13020,NATALIZUMAB,primary progressive multiple sclerosis
+13035,HYDROXYUREA,multiple sclerosis
+13048,TOCILIZUMAB,neuromyelitis optica
+13051,USTEKINUMAB,multiple sclerosis
+13059,CARMUSTINE,neuromyelitis optica
+13066,RITUXIMAB,chronic progressive multiple sclerosis
+13102,CARMUSTINE,relapsing-remitting multiple sclerosis
+13124,TEMSIROLIMUS,relapsing-remitting multiple sclerosis
+13126,SECUKINUMAB,relapsing-remitting multiple sclerosis
+13127,METFORMIN,multiple sclerosis
+13134,FILGRASTIM,multiple sclerosis
+13137,FINGOLIMOD,chronic progressive multiple sclerosis
+13146,LIOTHYRONINE,multiple sclerosis
+13150,LITHIUM CARBONATE,multiple sclerosis
+13160,SIROLIMUS,relapsing-remitting multiple sclerosis
+13162,LIOTHYRONINE,relapsing-remitting multiple sclerosis
+13164,PIOGLITAZONE,multiple sclerosis
+13165,MELATONIN,multiple sclerosis
+13168,RITUXIMAB,primary progressive multiple sclerosis
+13170,PIOGLITAZONE,relapsing-remitting multiple sclerosis
+13171,METHYLPHENIDATE,chronic progressive multiple sclerosis
+13175,BEVACIZUMAB,neuromyelitis optica
+13179,METHYLPHENIDATE,relapsing-remitting multiple sclerosis
+13204,LIOTHYRONINE,chronic progressive multiple sclerosis
+13214,HYDROXYCHLOROQUINE,multiple sclerosis
+13248,FLUDARABINE PHOSPHATE,neuromyelitis optica
+13260,LIDOCAINE,obesity
+13261,METFORMIN,obesity
+13262,MIDAZOLAM,obesity
+13266,PROPOFOL,obesity
+13269,TOPIRAMATE,obesity
+13272,MIDAZOLAM,morbid obesity
+13274,DEXFENFLURAMINE,obesity
+13278,OCTREOTIDE,obesity
+13281,ROCURONIUM,morbid obesity
+13282,CARVEDILOL,obesity
+13283,DESFLURANE,obesity
+13285,PROPOFOL,morbid obesity
+13286,BUPROPION,obesity
+13297,EPHEDRINE,obesity
+13311,ERGOCALCIFEROL,obesity
+13313,ACETAMINOPHEN,obesity
+13315,ZONISAMIDE,obesity
+13333,ACETAMINOPHEN,morbid obesity
+13341,PENTOXIFYLLINE,obesity
+13344,LIRAGLUTIDE,obesity
+13357,ROCURONIUM,obesity
+13364,FENFLURAMINE,obesity
+13372,OCTREOTIDE,morbid obesity
+13381,"ESTROGENS, CONJUGATED",obesity
+13396,IBUPROFEN,obesity
+13445,DEXMEDETOMIDINE,obesity
+13451,CHOLECALCIFEROL,obesity
+13476,METOPROLOL,obesity
+13490,NALTREXONE,obesity
+13501,LETROZOLE,obesity
+13502,SIMVASTATIN,obesity
+13512,IBUPROFEN,morbid obesity
+13561,VALPROIC ACID,obesity
+13564,LIRAGLUTIDE,morbid obesity
+13586,SILDENAFIL,obesity
+13599,LIDOCAINE,morbid obesity
+13600,TOPIRAMATE,Prader-Willi syndrome
+13602,KETAMINE,morbid obesity
+13606,CAFFEINE,obesity
+13612,LAMOTRIGINE,obesity
+13621,ESTRADIOL,obesity
+13624,OCTREOTIDE,Prader-Willi syndrome
+13651,DEXMEDETOMIDINE,morbid obesity
+13688,ROSUVASTATIN,obesity
+13697,METFORMIN,Bardet-Biedl syndrome
+13698,THEOPHYLLINE,Pseudohypoparathyroidism type 1A
+13717,SEVOFLURANE,morbid obesity
+13721,NALOXONE,obesity
+13727,SEVOFLURANE,obesity
+13751,PRAMLINTIDE,obesity
+13800,THEOPHYLLINE,Albright hereditary osteodystrophy
+13802,CANNABIDIOL,Prader-Willi syndrome
+13880,PIOGLITAZONE,obesity
+13890,BROMOCRIPTINE,obesity
+13896,VALPROIC ACID,Rubinstein-Taybi syndrome
+13903,METOPROLOL,Prader-Willi syndrome
+13980,ROFLUMILAST,obesity
+13981,MEMANTINE,obesity
+14013,HYDROCORTISONE,obesity
+14018,CELECOXIB,obesity
+14019,PHENTOLAMINE,obesity
+14036,AMANTADINE,postencephalitic Parkinson disease
+14038,AMANTADINE,Parkinson's disease
+14039,DEXMEDETOMIDINE,Parkinson's disease
+14044,BROMOCRIPTINE,Parkinson's disease
+14047,AMANTADINE,secondary Parkinson disease
+14055,ZONISAMIDE,Parkinson's disease
+14061,MELATONIN,Parkinson's disease
+14062,PROPOFOL,Parkinson's disease
+14065,ATROPINE,Parkinson's disease
+14067,MEMANTINE,Parkinson's disease
+14073,ORPHENADRINE,Parkinson's disease
+14077,CYTARABINE,Parkinson's disease
+14093,CHOLECALCIFEROL,Parkinson's disease
+14104,VARENICLINE,Parkinson's disease
+14117,METHYLPHENIDATE,Parkinson's disease
+14125,NICOTINE,Parkinson's disease
+14129,LEVETIRACETAM,Parkinson's disease
+14203,PERAMPANEL,Parkinson's disease
+14204,CAFFEINE,Parkinson's disease
+14206,VENLAFAXINE,Parkinson's disease
+14224,NALOXONE,Parkinson's disease
+14234,SILDENAFIL,Parkinson's disease
+14238,TOPIRAMATE,Parkinson's disease
+14247,SIMVASTATIN,Parkinson's disease
+14260,CANNABIDIOL,Parkinson's disease
+14264,PIOGLITAZONE,Parkinson's disease
+14267,FILGRASTIM,Parkinson's disease
+14276,LIRAGLUTIDE,Parkinson's disease
+14277,DEXTROMETHORPHAN,Parkinson's disease
+14282,"ESTROGENS, CONJUGATED",Parkinson's disease
+14316,ACETAMINOPHEN,Parkinson's disease
+14318,SIROLIMUS,Parkinson's disease
+14319,FLUMAZENIL,Parkinson's disease
+14324,METHYLPREDNISOLONE,Parkinson's disease
+14325,ROSUVASTATIN,Parkinson's disease
+14327,LITHIUM CARBONATE,Parkinson's disease
+14328,MIDAZOLAM,Parkinson's disease
+14335,SARGRAMOSTIM,Parkinson's disease
+14338,WARFARIN,Parkinson's disease
+14346,PREDNISONE,Parkinson's disease
+14358,METFORMIN,prostate cancer
+14359,DEXAMETHASONE,prostate cancer
+14362,LIDOCAINE,prostate carcinoma
+14367,PREDNISOLONE,prostate cancer
+14368,ZOLEDRONIC ACID,prostate cancer
+14373,CABAZITAXEL,prostate cancer
+14374,ZOLEDRONIC ACID,prostate carcinoma
+14380,PREDNISONE,prostate cancer
+14384,FILGRASTIM,prostate cancer
+14387,ROPIVACAINE,prostate cancer
+14391,KETAMINE,prostate cancer
+14392,DOCETAXEL,prostate adenocarcinoma
+14396,MEPIVACAINE,prostate cancer
+14403,ABIRATERONE,prostate cancer
+14409,ASPIRIN,prostate cancer
+14419,DEXAMETHASONE,metastatic prostate cancer
+14422,PREDNISONE,metastatic prostate cancer
+14429,MIDAZOLAM,prostate cancer
+14446,PEGFILGRASTIM,prostate cancer
+14456,DIPHENHYDRAMINE,prostate cancer
+14545,DOCETAXEL,prostate cancer
+14546,VINBLASTINE,prostate cancer
+14547,PACLITAXEL,prostate cancer
+14548,ZOLEDRONIC ACID,prostate adenocarcinoma
+14555,DOCETAXEL,metastatic prostate cancer
+14559,CABAZITAXEL,prostate adenocarcinoma
+14561,ABIRATERONE,metastatic prostate cancer
+14562,LENALIDOMIDE,prostate cancer
+14564,RUCAPARIB,prostate adenocarcinoma
+14565,CAPIVASERTIB,prostate cancer
+14566,OLAPARIB,prostate cancer
+14568,CHOLECALCIFEROL,prostate adenocarcinoma
+14570,PREDNISONE,prostate adenocarcinoma
+14571,PREDNISONE,prostate carcinoma
+14575,DENOSUMAB,prostate cancer
+14577,ABIRATERONE,prostate adenocarcinoma
+14578,HYDROCORTISONE,prostate cancer
+14581,MASITINIB,prostate cancer
+14586,DOXORUBICIN,prostate cancer
+14588,SILDENAFIL,prostate cancer
+14592,CALCITRIOL,prostate cancer
+14597,TAMOXIFEN,prostate cancer
+14601,VENLAFAXINE,prostate adenocarcinoma
+14604,SUNITINIB,prostate adenocarcinoma
+14606,EVEROLIMUS,prostate cancer
+14610,ETOPOSIDE,prostate cancer
+14615,PREDNISOLONE,prostate carcinoma
+14621,DASATINIB,prostate adenocarcinoma
+14623,IPATASERTIB,metastatic prostate cancer
+14626,BEVACIZUMAB,prostate adenocarcinoma
+14635,ERGOCALCIFEROL,prostate cancer
+14636,PEMBROLIZUMAB,prostate cancer
+14638,IPILIMUMAB,prostate cancer
+14648,THALIDOMIDE,prostate cancer
+14656,NIVOLUMAB,prostate cancer
+14657,ROSIGLITAZONE,prostate adenocarcinoma
+14664,HYDROCORTISONE,prostate adenocarcinoma
+14674,ATEZOLIZUMAB,prostate adenocarcinoma
+14679,WARFARIN,prostate cancer
+14681,PEMBROLIZUMAB,prostate adenocarcinoma
+14685,RUCAPARIB,prostate cancer
+14688,ESTRADIOL,prostate cancer
+14689,NIRAPARIB,prostate cancer
+14694,PREDNISOLONE,prostate adenocarcinoma
+14702,ATORVASTATIN,metastatic prostate cancer
+14704,DEXAMETHASONE,prostate adenocarcinoma
+14707,OLAPARIB,prostate adenocarcinoma
+14717,METHYLPREDNISOLONE,prostate cancer
+14722,SARGRAMOSTIM,prostate cancer
+14725,ATORVASTATIN,prostate cancer
+14734,IXABEPILONE,prostate cancer
+14735,NIRAPARIB,prostate adenocarcinoma
+14736,PAZOPANIB,prostate adenocarcinoma
+14737,SORAFENIB,prostate cancer
+14738,ABEMACICLIB,prostate cancer
+14739,DASATINIB,prostate cancer
+14740,SARGRAMOSTIM,prostate adenocarcinoma
+14742,CILENGITIDE,prostate cancer
+14743,SUNITINIB,prostate cancer
+14744,METFORMIN,prostate adenocarcinoma
+14745,METFORMIN,prostate carcinoma
+14746,NIVOLUMAB,prostate adenocarcinoma
+14751,TALAZOPARIB,prostate cancer
+14753,VANDETANIB,prostate cancer
+14754,ALDESLEUKIN,prostate cancer
+14755,ERIBULIN,prostate cancer
+14757,METFORMIN,metastatic prostate cancer
+14759,VINORELBINE,prostate cancer
+14760,PAZOPANIB,prostate cancer
+14762,ABIRATERONE,prostate carcinoma
+14763,IXABEPILONE,prostate adenocarcinoma
+14765,SORAFENIB,metastatic prostate cancer
+14767,AZACITIDINE,prostate adenocarcinoma
+14768,ERIBULIN,prostate adenocarcinoma
+14769,IMATINIB,prostate cancer
+14771,CELECOXIB,prostate cancer
+14772,SORAFENIB,prostate adenocarcinoma
+14773,VINFLUNINE,prostate cancer
+14775,THALIDOMIDE,prostate adenocarcinoma
+14776,FULVESTRANT,prostate adenocarcinoma
+14780,SAGOPILONE,prostate cancer
+14781,ERLOTINIB,prostate cancer
+14785,VATALANIB,prostate cancer
+14786,ERDAFITINIB,metastatic prostate cancer
+14789,CAPECITABINE,prostate cancer
+14792,CABAZITAXEL,metastatic prostate cancer
+14796,OCTREOTIDE,prostate cancer
+14797,SAMOTOLISIB,prostate cancer
+14801,FULVESTRANT,prostate cancer
+14802,CEDIRANIB,prostate cancer
+14803,GEMCITABINE,prostate cancer
+14805,OLAPARIB,prostate carcinoma
+14806,CABOZANTINIB,prostate cancer
+14814,CABAZITAXEL,prostate carcinoma
+14815,PACLITAXEL,prostate adenocarcinoma
+14816,TRETINOIN,prostate adenocarcinoma
+14820,IPILIMUMAB,prostate adenocarcinoma
+14826,CARVEDILOL,prostate cancer
+14831,PACLITAXEL POLIGLUMEX,prostate adenocarcinoma
+14832,VANDETANIB,prostate carcinoma
+14836,NINTEDANIB,prostate adenocarcinoma
+14847,PACLITAXEL POLIGLUMEX,prostate cancer
+14848,AFATINIB,prostate adenocarcinoma
+14849,PANITUMUMAB,prostate cancer
+14857,COLCHICINE,prostate cancer
+14864,CIXUTUMUMAB,prostate cancer
+14869,BUPARLISIB,prostate cancer
+14870,SUNITINIB,metastatic prostate cancer
+14874,ISOTRETINOIN,prostate cancer
+14875,CABOZANTINIB,prostate adenocarcinoma
+14876,TANESPIMYCIN,prostate adenocarcinoma
+14882,CETUXIMAB,prostate cancer
+14886,AXITINIB,prostate cancer
+14887,HYDROXYCHLOROQUINE,prostate cancer
+14890,PASIREOTIDE,prostate cancer
+14893,PHENTOLAMINE,prostate cancer
+14897,ATORVASTATIN,prostate adenocarcinoma
+14905,ALVOCIDIB,prostate cancer
+14907,PAZOPANIB,prostate carcinoma
+14908,POMALIDOMIDE,prostate cancer
+14911,ADAVOSERTIB,prostate cancer
+14926,ATEZOLIZUMAB,metastatic prostate cancer
+14929,VORINOSTAT,prostate adenocarcinoma
+14931,RETASPIMYCIN,prostate adenocarcinoma
+14933,MK-2206,prostate carcinoma
+14938,SARACATINIB,prostate cancer
+14945,ASPIRIN,prostate adenocarcinoma
+14947,TARENFLURBIL,prostate cancer
+14949,TEMSIROLIMUS,prostate cancer
+14959,LAPATINIB,prostate cancer
+14962,INTERFERON ALFA-2B,prostate adenocarcinoma
+14967,ETARACIZUMAB,prostate cancer
+14969,BORTEZOMIB,prostate carcinoma
+14981,CYTARABINE,prostate cancer
+14990,PALBOCICLIB,prostate cancer
+14991,DOVITINIB,prostate cancer
+14995,IMATINIB,prostate adenocarcinoma
+14997,BORTEZOMIB,prostate cancer
+15002,DOCETAXEL,prostate carcinoma
+15003,PANOBINOSTAT,prostate cancer
+15005,TRASTUZUMAB,prostate cancer
+15018,PERTUZUMAB,prostate cancer
+15025,GEFITINIB,prostate cancer
+15029,VENLAFAXINE,prostate cancer
+15036,DIGOXIN,prostate cancer
+15037,"ESTROGENS, CONJUGATED",prostate cancer
+15038,VORINOSTAT,prostate cancer
+15043,CEDIRANIB,prostate adenocarcinoma
+15048,INTERFERON ALFA-2B,prostate cancer
+15052,TREMELIMUMAB,prostate cancer
+15057,ASPIRIN,prostate carcinoma
+15059,DURVALUMAB,prostate cancer
+15068,TIPIFARNIB,prostate cancer
+15073,ROMIDEPSIN,prostate cancer
+15085,CHOLECALCIFEROL,prostate cancer
+15086,LESTAURTINIB,prostate cancer
+15111,FILGRASTIM,metastatic prostate cancer
+15131,SEMAXANIB,prostate cancer
+15133,NAVITOCLAX,prostate cancer
+15141,SIMVASTATIN,prostate carcinoma
+15160,CARMUSTINE,prostate cancer
+15169,PEMETREXED,prostate cancer
+15179,MUPARFOSTAT,prostate cancer
+15187,ROCURONIUM,prostate cancer
+15192,TIVOZANIB,prostate cancer
+15193,CAPIVASERTIB,prostate adenocarcinoma
+15200,BEVACIZUMAB,prostate cancer
+15201,BEVACIZUMAB,metastatic prostate cancer
+15214,TALAZOPARIB,metastatic prostate cancer
+15219,INDOMETHACIN,prostate adenocarcinoma
+15241,METHYLPHENIDATE,prostate cancer
+15251,ARSENIC TRIOXIDE,prostate cancer
+15256,PEXIDARTINIB,prostate cancer
+15267,ESTRADIOL,prostate carcinoma
+15274,AVELUMAB,prostate cancer
+15278,SIROLIMUS,prostate cancer
+15302,ERDAFITINIB,prostate adenocarcinoma
+15304,ATEZOLIZUMAB,prostate cancer
+15311,RUXOLITINIB,prostate cancer
+15319,PROPRANOLOL,prostate carcinoma
+15326,NAPROXEN,prostate adenocarcinoma
+15332,CIXUTUMUMAB,prostate adenocarcinoma
+15336,TACROLIMUS,prostate cancer
+15337,IPATASERTIB,prostate cancer
+15340,"ESTROGENS, CONJUGATED",prostate carcinoma
+15351,AZACITIDINE,prostate cancer
+15359,LENALIDOMIDE,metastatic prostate cancer
+15360,IPILIMUMAB,metastatic prostate cancer
+15361,SARGRAMOSTIM,prostate carcinoma
+15362,OMEPRAZOLE,prostate cancer
+15365,ALDESLEUKIN,prostate adenocarcinoma
+15371,VELIPARIB,prostate carcinoma
+15372,METHYLPHENIDATE,prostate carcinoma
+15381,CEMIPLIMAB,prostate cancer
+15383,GANETESPIB,prostate adenocarcinoma
+15420,TREMELIMUMAB,prostate adenocarcinoma
+15435,MIFEPRISTONE,prostate adenocarcinoma
+15455,LINSITINIB,prostate adenocarcinoma
+15460,ERGOCALCIFEROL,prostate adenocarcinoma
+15470,NIVOLUMAB,metastatic prostate cancer
+15476,RAMUCIRUMAB,prostate cancer
+15490,CETUXIMAB,prostate adenocarcinoma
+15498,VALPROIC ACID,prostate cancer
+15500,PEMBROLIZUMAB,Prostate Small Cell Carcinoma
+15502,TOPOTECAN,prostate cancer
+15514,SELINEXOR,prostate cancer
+15523,AXITINIB,prostate adenocarcinoma
+15528,CALCITRIOL,prostate adenocarcinoma
+15538,CYCLOSPORINE,prostate cancer
+15548,OLAPARIB,metastatic prostate cancer
+15563,PIOGLITAZONE,prostate cancer
+15572,DURVALUMAB,prostate adenocarcinoma
+15579,METHYLPREDNISOLONE,metastatic prostate cancer
+15585,CELECOXIB,prostate adenocarcinoma
+15589,TOCILIZUMAB,prostate adenocarcinoma
+15603,PEMBROLIZUMAB,metastatic prostate cancer
+15618,PREDNISONE,Prostate Small Cell Carcinoma
+15638,DOXORUBICIN,prostate adenocarcinoma
+15663,ENTINOSTAT,prostate adenocarcinoma
+15664,DASATINIB,metastatic prostate cancer
+15667,UCN-01,prostate adenocarcinoma
+15668,DACTOLISIB,prostate cancer
+15669,AVELUMAB,metastatic prostate cancer
+15670,BIRABRESIB,prostate cancer
+15672,IMIQUIMOD,prostate adenocarcinoma
+15673,RIBOCICLIB,prostate cancer
+15674,RIBOCICLIB,metastatic prostate cancer
+15675,FLUDARABINE PHOSPHATE,prostate cancer
+15677,THEOPHYLLINE,prostate carcinoma
+15678,UCN-01,prostate cancer
+15679,APITOLISIB,prostate cancer
+15680,INDOMETHACIN,metastatic prostate cancer
+15683,PANOBINOSTAT,prostate adenocarcinoma
+15685,CAFFEINE,prostate cancer
+15687,MIFEPRISTONE,prostate cancer
+15689,SIROLIMUS,metastatic prostate cancer
+15691,PASIREOTIDE,prostate adenocarcinoma
+15694,ETANERCEPT,prostate cancer
+15698,INDOMETHACIN,prostate cancer
+15699,DECITABINE,metastatic prostate cancer
+15700,ROSUVASTATIN,prostate adenocarcinoma
+15701,DEXAMETHASONE,prostate carcinoma
+15703,VISTUSERTIB,prostate cancer
+15704,FLUDARABINE PHOSPHATE,metastatic prostate cancer
+15707,TEMSIROLIMUS,prostate adenocarcinoma
+15708,LENVATINIB,prostate cancer
+15712,TANESPIMYCIN,prostate cancer
+15715,PIOGLITAZONE,prostate adenocarcinoma
+15717,PEXIDARTINIB,prostate adenocarcinoma
+15721,IRINOTECAN,prostate cancer
+15723,LIOTHYRONINE,prostate cancer
+15725,BUPROPION,prostate cancer
+15727,GEFITINIB,metastatic prostate cancer
+15733,MIDAZOLAM,prostate adenocarcinoma
+15737,LENALIDOMIDE,prostate adenocarcinoma
+15744,ROSUVASTATIN,prostate cancer
+15758,INTERFERON GAMMA-1B,prostate cancer
+15767,ORANTINIB,prostate cancer
+15768,CRIZOTINIB,prostate cancer
+15774,VELIPARIB,prostate cancer
+15777,COPANLISIB,prostate cancer
+15792,DEXTROMETHORPHAN,prostate cancer
+15817,LITHIUM CARBONATE,prostate cancer
+15828,TALAZOPARIB,prostate adenocarcinoma
+15836,ZOLEDRONIC ACID,metastatic prostate cancer
+15841,NIRAPARIB,metastatic prostate cancer
+15856,IMIQUIMOD,prostate cancer
+15857,BORTEZOMIB,prostate adenocarcinoma
+15862,EPACADOSTAT,metastatic prostate cancer
+15891,DEXTROMETHORPHAN,prostate carcinoma
+15892,IPILIMUMAB,prostate carcinoma
+15900,CANNABIDIOL,prostate adenocarcinoma
+15922,RITUXIMAB,prostate cancer
+15925,HYDROXYCHLOROQUINE,prostate carcinoma
+15927,SIMVASTATIN,prostate cancer
+15934,ACITRETIN,psoriasis
+15936,ETANERCEPT,psoriasis
+15937,ACITRETIN,psoriasis vulgaris
+15940,APREMILAST,parapsoriasis
+15943,APREMILAST,psoriasis
+15944,DEXAMETHASONE,psoriasis
+15945,APREMILAST,psoriasis vulgaris
+15948,SECUKINUMAB,psoriasis vulgaris
+15957,INFLIXIMAB,psoriasis
+15958,METHOTREXATE,psoriasis
+15967,CALCITRIOL,psoriasis
+15968,ETANERCEPT,psoriasis vulgaris
+15970,SECUKINUMAB,psoriasis
+15974,USTEKINUMAB,psoriasis
+15981,CALCITRIOL,psoriasis vulgaris
+15990,ERGOCALCIFEROL,psoriasis
+15991,METHOTREXATE,psoriasis vulgaris
+15992,CYCLOSPORINE,psoriasis
+15998,PREDNISOLONE,psoriasis
+16012,PREDNISONE,psoriasis
+16014,METFORMIN,psoriasis
+16015,TOFACITINIB,psoriasis
+16019,ATORVASTATIN,psoriasis
+16021,ROFLUMILAST,psoriasis
+16025,TACROLIMUS,psoriasis
+16032,INFLIXIMAB,parapsoriasis
+16040,USTEKINUMAB,Generalized pustular psoriasis
+16044,HYDROCORTISONE,psoriasis vulgaris
+16086,SOTRASTAURIN,psoriasis
+16087,FLUDARABINE PHOSPHATE,psoriasis
+16093,MASITINIB,psoriasis
+16095,TOFACITINIB,psoriasis vulgaris
+16096,ETARACIZUMAB,psoriasis
+16097,THALIDOMIDE,psoriasis
+16104,PACLITAXEL,psoriasis
+16106,RUXOLITINIB,psoriasis
+16109,ALITRETINOIN,psoriasis
+16110,LESTAURTINIB,psoriasis
+16112,CHOLECALCIFEROL,psoriasis
+16115,AMISELIMOD,psoriasis
+16117,BEXAROTENE,psoriasis
+16122,ABATACEPT,psoriasis vulgaris
+16125,BEXAROTENE,parapsoriasis
+16131,ABATACEPT,psoriasis
+16135,ERLOTINIB,psoriasis
+16190,MYCOPHENOLATE MOFETIL,psoriasis
+16210,PIOGLITAZONE,psoriasis
+16216,MIDAZOLAM,psoriasis vulgaris
+16217,NALTREXONE,psoriasis
+16218,CAFFEINE,psoriasis
+16219,MIDAZOLAM,psoriasis
+16224,PAZOPANIB,psoriasis
+16232,WARFARIN,psoriasis
+16233,SIFALIMUMAB,psoriasis
+16237,METOPROLOL,psoriasis
+16241,OMEPRAZOLE,psoriasis
+16258,DEXTROMETHORPHAN,psoriasis
+16285,INTERFERON GAMMA-1B,psoriasis
+16288,ERGOCALCIFEROL,psoriasis vulgaris
+16289,DEXAMETHASONE,psoriasis vulgaris
+16291,BOSENTAN,pulmonary arterial hypertension
+16292,RANOLAZINE,pulmonary hypertension
+16294,SILDENAFIL,pulmonary hypertension
+16295,LIDOCAINE,pulmonary arterial hypertension
+16296,BOSENTAN,Eisenmenger syndrome
+16297,SILDENAFIL,pulmonary arterial hypertension
+16300,AMBRISENTAN,pulmonary arterial hypertension
+16303,RIOCIGUAT,Idiopathic and/or familial pulmonary arterial hypertension
+16304,RIOCIGUAT,pulmonary arterial hypertension
+16305,RIOCIGUAT,pulmonary hypertension
+16307,AMBRISENTAN,Idiopathic and/or familial pulmonary arterial hypertension
+16320,SILDENAFIL,Idiopathic and/or familial pulmonary arterial hypertension
+16323,BOSENTAN,pulmonary hypertension
+16343,BOSENTAN,Idiopathic and/or familial pulmonary arterial hypertension
+16345,NITRIC OXIDE,persistent fetal circulation syndrome
+16351,NITRIC OXIDE,pulmonary arterial hypertension
+16352,IMATINIB,pulmonary arterial hypertension
+16355,SILDENAFIL,persistent fetal circulation syndrome
+16356,BARDOXOLONE METHYL,pulmonary hypertension
+16360,NIFEDIPINE,pulmonary hypertension
+16366,AMBRISENTAN,pulmonary hypertension
+16368,SILDENAFIL,Eisenmenger syndrome
+16375,BOSENTAN,persistent fetal circulation syndrome
+16385,METFORMIN,pulmonary arterial hypertension
+16386,IMATINIB,pulmonary hypertension
+16388,ASPIRIN,pulmonary arterial hypertension
+16389,CARVEDILOL,pulmonary arterial hypertension
+16392,ACETAZOLAMIDE,pulmonary arterial hypertension
+16402,DEXMEDETOMIDINE,pulmonary hypertension
+16410,ANASTROZOLE,pulmonary arterial hypertension
+16417,BARDOXOLONE METHYL,pulmonary arterial hypertension
+16421,TOCILIZUMAB,pulmonary arterial hypertension
+16441,FULVESTRANT,pulmonary arterial hypertension
+16448,WARFARIN,pulmonary arterial hypertension
+16450,TACROLIMUS,pulmonary arterial hypertension
+16451,WARFARIN,pulmonary hypertension
+16459,PIOGLITAZONE,pulmonary arterial hypertension
+16460,NITRIC OXIDE,pulmonary hypertension
+16465,VASOPRESSIN,pulmonary hypertension
+16471,SIMVASTATIN,pulmonary arterial hypertension
+16477,ATORVASTATIN,pulmonary arterial hypertension
+16480,SILDENAFIL,Pulmonary arterial hypertension associated with portal hypertension
+16491,CARVEDILOL,pulmonary hypertension
+16492,SODIUM DICHLOROACETATE,pulmonary arterial hypertension
+16494,THEOPHYLLINE,pulmonary arterial hypertension
+16497,RANOLAZINE,pulmonary arterial hypertension
+16499,OLAPARIB,pulmonary arterial hypertension
+16502,SORAFENIB,pulmonary arterial hypertension
+16514,SIROLIMUS,pulmonary hypertension
+16515,SIMVASTATIN,pulmonary hypertension
+16519,SULFASALAZINE,pulmonary arterial hypertension
+16520,AMBRISENTAN,Pulmonary arterial hypertension associated with portal hypertension
+16522,IMATINIB,Pulmonary venoocclusive disease
+16538,BEVACIZUMAB,Pulmonary venoocclusive disease
+16547,APABETALONE,pulmonary arterial hypertension
+16549,HYDROXYUREA,pulmonary hypertension
+16553,METHOTREXATE,rheumatoid arthritis
+16554,INDOMETHACIN,ankylosing spondylitis
+16555,METHYLPREDNISOLONE,psoriatic arthritis
+16556,CELECOXIB,ankylosing spondylitis
+16557,IBUPROFEN,rheumatoid arthritis
+16558,SULFASALAZINE,rheumatoid arthritis
+16559,INFLIXIMAB,rheumatoid arthritis
+16560,ETANERCEPT,rheumatoid arthritis
+16561,PREDNISONE,rheumatoid arthritis
+16563,NAPROXEN,rheumatoid arthritis
+16564,HYDROXYCHLOROQUINE,rheumatoid arthritis
+16571,ABATACEPT,rheumatoid arthritis
+16573,ETANERCEPT,ankylosing spondylitis
+16574,PREDNISOLONE,rheumatoid arthritis
+16576,CELECOXIB,rheumatoid arthritis
+16577,RITUXIMAB,rheumatoid arthritis
+16578,METHYLPREDNISOLONE,rheumatoid arthritis
+16579,APREMILAST,psoriatic arthritis
+16584,DICLOFENAC,rheumatoid arthritis
+16585,TOFACITINIB,rheumatoid arthritis
+16587,TOCILIZUMAB,rheumatoid arthritis
+16591,SULFASALAZINE,ankylosing spondylitis
+16594,NALTREXONE,rheumatoid arthritis
+16595,USTEKINUMAB,psoriatic arthritis
+16596,INFLIXIMAB,psoriatic arthritis
+16597,METHOTREXATE,psoriatic arthritis
+16598,TOFACITINIB,ankylosing spondylitis
+16599,METHOTREXATE,ankylosing spondylitis
+16601,ACETAMINOPHEN,rheumatoid arthritis
+16608,UPADACITINIB,rheumatoid arthritis
+16610,LIDOCAINE,ankylosing spondylitis
+16611,CYCLOSPORINE,rheumatoid arthritis
+16615,TACROLIMUS,rheumatoid arthritis
+16621,NAPROXEN,ankylosing spondylitis
+16623,SECUKINUMAB,ankylosing spondylitis
+16625,INFLIXIMAB,ankylosing spondylitis
+16642,DENOSUMAB,rheumatoid arthritis
+16643,DICLOFENAC,ankylosing spondylitis
+16645,ETANERCEPT,psoriatic arthritis
+16651,DEXAMETHASONE,ankylosing spondylitis
+16654,HYDROXYCHLOROQUINE,ankylosing spondylitis
+16655,DEXAMETHASONE,rheumatoid arthritis
+16661,DEXAMETHASONE,psoriatic arthritis
+16663,DIPHENHYDRAMINE,rheumatoid arthritis
+16664,PREDNISOLONE,ankylosing spondylitis
+16672,SULFASALAZINE,psoriatic arthritis
+16678,PREDNISONE,psoriatic arthritis
+16679,OMEPRAZOLE,rheumatoid arthritis
+16680,ERGOCALCIFEROL,rheumatoid arthritis
+16688,PREDNISONE,ankylosing spondylitis
+16692,SIMVASTATIN,rheumatoid arthritis
+16699,ATORVASTATIN,rheumatoid arthritis
+16703,SECUKINUMAB,psoriatic arthritis
+16710,PREDNISOLONE,psoriatic arthritis
+16713,APREMILAST,ankylosing spondylitis
+16716,ABATACEPT,psoriatic arthritis
+16717,ZOLEDRONIC ACID,rheumatoid arthritis
+16718,USTEKINUMAB,ankylosing spondylitis
+16719,TOFACITINIB,psoriatic arthritis
+16728,SECUKINUMAB,rheumatoid arthritis
+16729,PIOGLITAZONE,rheumatoid arthritis
+16732,UPADACITINIB,psoriatic arthritis
+16733,UPADACITINIB,ankylosing spondylitis
+16738,OMEPRAZOLE,ankylosing spondylitis
+16762,TOCILIZUMAB,ankylosing spondylitis
+16767,DIPYRIDAMOLE,rheumatoid arthritis
+16768,METFORMIN,rheumatoid arthritis
+16773,BINIMETINIB,rheumatoid arthritis
+16777,MASITINIB,rheumatoid arthritis
+16778,ROSUVASTATIN,rheumatoid arthritis
+16785,APREMILAST,rheumatoid arthritis
+16788,FLUDARABINE PHOSPHATE,psoriatic arthritis
+16794,PACLITAXEL,rheumatoid arthritis
+16810,PF-06651600,rheumatoid arthritis
+16818,ROSIGLITAZONE,rheumatoid arthritis
+16831,ETARACIZUMAB,rheumatoid arthritis
+16837,IMATINIB,rheumatoid arthritis
+16840,THALIDOMIDE,ankylosing spondylitis
+16845,ABATACEPT,ankylosing spondylitis
+16904,RUXOLITINIB,rheumatoid arthritis
+16920,TEMSIROLIMUS,rheumatoid arthritis
+16921,NATALIZUMAB,rheumatoid arthritis
+16941,USTEKINUMAB,rheumatoid arthritis
+16942,CANNABIDIOL,psoriatic arthritis
+16954,RITUXIMAB,ankylosing spondylitis
+16957,METHYLPREDNISOLONE,ankylosing spondylitis
+16984,MIDAZOLAM,rheumatoid arthritis
+16988,FLUDARABINE PHOSPHATE,rheumatoid arthritis
+16989,DIGOXIN,rheumatoid arthritis
+16991,CAFFEINE,rheumatoid arthritis
+16992,MYCOPHENOLATE MOFETIL,rheumatoid arthritis
+17008,ALEMTUZUMAB,rheumatoid arthritis
+17009,PEXIDARTINIB,rheumatoid arthritis
+17028,WARFARIN,rheumatoid arthritis
+17033,SARGRAMOSTIM,rheumatoid arthritis
+17039,RITUXIMAB,psoriatic arthritis
+17044,AMISULPRIDE,schizophrenia
+17046,RISPERIDONE,schizophrenia
+17050,METFORMIN,schizophrenia
+17052,ARIPIPRAZOLE,schizophrenia
+17054,OLANZAPINE,schizophrenia
+17084,LITHIUM CARBONATE,schizophrenia
+17095,KETAMINE,schizophrenia
+17105,ACAMPROSATE,schizophrenia
+17113,LORAZEPAM,schizophrenia
+17140,LAMOTRIGINE,schizophrenia
+17158,PROPOFOL,schizophrenia
+17167,BUPROPION,schizophrenia
+17168,MEMANTINE,schizophrenia
+17179,VARENICLINE,schizophrenia
+17187,VALPROIC ACID,schizophrenia
+17197,NICOTINE,schizophrenia
+17224,MELATONIN,schizophrenia
+17252,SIMVASTATIN,schizophrenia
+17298,ROSIGLITAZONE,schizophrenia
+17307,TOCILIZUMAB,schizophrenia
+17318,CHOLECALCIFEROL,schizophrenia
+17319,SILDENAFIL,schizophrenia
+17329,CELECOXIB,schizophrenia
+17332,INFLIXIMAB,schizophrenia
+17338,OXCARBAZEPINE,schizophrenia
+17339,ALPRAZOLAM,schizophrenia
+17346,ERLOSAMIDE,schizophrenia
+17347,MIDAZOLAM,schizophrenia
+17350,ASPIRIN,schizophrenia
+17355,CLOBAZAM,schizophrenia
+17357,DIAZEPAM,schizophrenia
+17358,TOPIRAMATE,schizophrenia
+17362,CARBAMAZEPINE,schizophrenia
+17365,AMANTADINE,schizophrenia
+17366,PHENYTOIN,schizophrenia
+17377,ZONISAMIDE,schizophrenia
+17379,CLONAZEPAM,schizophrenia
+17387,BEXAROTENE,schizophrenia
+17412,LEVETIRACETAM,schizophrenia
+17469,VENLAFAXINE,schizophrenia
+17513,DIPHENHYDRAMINE,schizophrenia
+17569,FINGOLIMOD,schizophrenia
+17576,DAVUNETIDE,schizophrenia
+17581,DEXMEDETOMIDINE,schizophrenia
+17584,RG3487,schizophrenia
+17586,DEXTROMETHORPHAN,schizophrenia
+17589,CANNABIDIOL,schizophrenia
+17605,METHOTREXATE,schizophrenia
+17609,ESTRADIOL,schizophrenia
+17612,PREDNISOLONE,schizophrenia
+17667,PENTOXIFYLLINE,schizophrenia
+17673,ROFLUMILAST,schizophrenia
+17674,NALTREXONE,schizophrenia
+17684,NATALIZUMAB,schizophrenia
+17706,RITUXIMAB,schizophrenia
+17709,VORINOSTAT,schizophrenia
+17718,DOCETAXEL,squamous cell carcinoma
+17719,DENILEUKIN DIFTITOX,mycosis fungoides
+17720,GEMCITABINE,extranodal nasal NK/T cell lymphoma
+17721,ETOPOSIDE,extranodal nasal NK/T cell lymphoma
+17723,ROMIDEPSIN,Cutaneous T-cell lymphoma
+17724,DENILEUKIN DIFTITOX,Cutaneous T-cell lymphoma
+17727,ACITRETIN,squamous cell carcinoma
+17728,VINCRISTINE,adult T-cell leukemia/lymphoma
+17731,ALDESLEUKIN,metastatic melanoma
+17734,PEGINTERFERON ALFA-2B,melanoma
+17735,PACLITAXEL,head and neck squamous cell carcinoma
+17736,SARGRAMOSTIM,melanoma
+17746,SIROLIMUS,skin cancer
+17750,NIVOLUMAB,metastatic melanoma
+17753,HYDROXYUREA,melanoma
+17760,DENILEUKIN DIFTITOX,Sezary's disease
+17761,METHOTREXATE,mycosis fungoides
+17764,MYCOPHENOLATE MOFETIL,skin cancer
+17769,CYCLOSPORINE,skin cancer
+17770,PREDNISONE,mycosis fungoides
+17773,INTERFERON ALFA-2B,mycosis fungoides
+17774,VORINOSTAT,Cutaneous T-cell lymphoma
+17778,IMIQUIMOD,basal cell carcinoma
+17781,PEMBROLIZUMAB,head and neck squamous cell carcinoma
+17785,IPILIMUMAB,melanoma
+17787,IPILIMUMAB,metastatic melanoma
+17789,PREDNISOLONE,mycosis fungoides
+17792,BEXAROTENE,Cutaneous T-cell lymphoma
+17799,DEXAMETHASONE,mycosis fungoides
+17800,COBIMETINIB,metastatic melanoma
+17806,DOXORUBICIN,adult T-cell leukemia/lymphoma
+17810,DEXAMETHASONE,extranodal nasal NK/T cell lymphoma
+17814,TACROLIMUS,skin cancer
+17821,PREDNISONE,adult T-cell leukemia/lymphoma
+17824,CEMIPLIMAB,squamous cell carcinoma
+17827,PEMBROLIZUMAB,metastatic melanoma
+17843,BINIMETINIB,metastatic melanoma
+17847,INTERFERON ALFA-2B,melanoma
+17853,DOCETAXEL,head and neck squamous cell carcinoma
+17854,GEFITINIB,head and neck squamous cell carcinoma
+17855,PEGINTERFERON ALFA-2B,cutaneous melanoma
+17857,AFATINIB,head and neck squamous cell carcinoma
+17859,PACLITAXEL,melanoma
+17860,PACLITAXEL,cervical squamous cell carcinoma
+17861,PACLITAXEL,squamous cell carcinoma
+17863,AVELUMAB,head and neck squamous cell carcinoma
+17865,SORAFENIB,mucosal melanoma
+17867,ASPIRIN,squamous cell carcinoma
+17868,PACLITAXEL,esophageal squamous cell carcinoma
+17869,PACLITAXEL,mucosal melanoma
+17871,IMIQUIMOD,non-melanoma skin carcinoma
+17872,PACLITAXEL,endometrial adenosquamous carcinoma
+17878,CYTARABINE,melanoma
+17880,BRENTUXIMAB VEDOTIN,mycosis fungoides
+17881,SORAFENIB,cutaneous melanoma
+17883,THALIDOMIDE,extranodal nasal NK/T cell lymphoma
+17884,BINIMETINIB,cutaneous melanoma
+17886,BINIMETINIB,melanoma
+17887,PACLITAXEL,cutaneous melanoma
+17888,LENVATINIB,melanoma
+17890,LIDOCAINE,Extramammary Paget Disease
+17893,LENVATINIB,head and neck squamous cell carcinoma
+17896,FLUDARABINE PHOSPHATE,metastatic melanoma
+17897,METHOTREXATE,head and neck squamous cell carcinoma
+17898,FLUOROURACIL,head and neck squamous cell carcinoma
+17903,PACLITAXEL,squamous cell carcinoma of penis
+17906,LENALIDOMIDE,melanoma
+17910,SORAFENIB,melanoma
+17918,NIVOLUMAB,melanoma
+17919,MASITINIB,metastatic melanoma
+17920,PEMBROLIZUMAB,squamous cell carcinoma
+17925,FLUOROURACIL,esophageal squamous cell carcinoma
+17927,CETUXIMAB,head and neck squamous cell carcinoma
+17931,DOCETAXEL,esophageal squamous cell carcinoma
+17932,DOXORUBICIN,extranodal nasal NK/T cell lymphoma
+17933,TRETINOIN,squamous cell carcinoma
+17941,VINORELBINE,cervical squamous cell carcinoma
+17949,ALDESLEUKIN,cutaneous melanoma
+17950,TRETINOIN,basal cell carcinoma
+17952,GEMCITABINE,cervical squamous cell carcinoma
+17954,TREMELIMUMAB,head and neck squamous cell carcinoma
+17956,ERGOCALCIFEROL,cutaneous melanoma
+17958,INDOMETHACIN,oral squamous cell carcinoma
+17959,VINBLASTINE,cutaneous melanoma
+17964,ACETAMINOPHEN,non-melanoma skin carcinoma
+17968,FILGRASTIM,endometrial adenosquamous carcinoma
+17970,NALOXONE,mycosis fungoides
+17972,IMIQUIMOD,Extramammary Paget Disease
+17979,PACLITAXEL,metastatic melanoma
+17984,VINORELBINE,esophageal squamous cell carcinoma
+17985,FLUOROURACIL,pancreatic adenosquamous carcinoma
+17986,COBIMETINIB,melanoma
+17987,INTERFERON GAMMA-1B,melanoma
+17991,VINBLASTINE,melanoma
+17993,IRINOTECAN,pancreatic adenosquamous carcinoma
+17994,IRINOTECAN,esophageal squamous cell carcinoma
+17996,CHOLECALCIFEROL,melanoma
+17997,NIMOTUZUMAB,squamous cell carcinoma
+18004,DOXORUBICIN,endometrial adenosquamous carcinoma
+18006,EPACADOSTAT,melanoma
+18011,SARGRAMOSTIM,Uveal Melanoma
+18012,DURVALUMAB,head and neck squamous cell carcinoma
+18021,FLUOROURACIL,squamous cell carcinoma
+18025,CEMIPLIMAB,cutaneous squamous cell carcinoma
+18026,ERLOTINIB,head and neck squamous cell carcinoma
+18031,CETUXIMAB,oropharynx squamous cell carcinoma
+18034,MELATONIN,oral squamous cell carcinoma
+18037,FILGRASTIM,adult T-cell leukemia/lymphoma
+18039,ATEZOLIZUMAB,melanoma
+18041,INTERFERON ALFA-2B,cutaneous melanoma
+18045,PEMBROLIZUMAB,melanoma
+18046,DOXORUBICIN,Dermatofibrosarcoma protuberans
+18049,SELUMETINIB,Uveal Melanoma
+18052,ACETAMINOPHEN,Extramammary Paget Disease
+18058,NALOXONE,Sezary's disease
+18062,BEXAROTENE,mycosis fungoides
+18064,ALEMTUZUMAB,extranodal nasal NK/T cell lymphoma
+18072,ERLOTINIB,squamous cell carcinoma
+18073,CAPECITABINE,esophageal squamous cell carcinoma
+18074,AFLIBERCEPT,melanoma
+18085,CAPECITABINE,squamous cell carcinoma
+18087,PANITUMUMAB,squamous cell carcinoma
+18094,FILGRASTIM,cutaneous melanoma
+18096,SARGRAMOSTIM,cutaneous melanoma
+18097,NIVOLUMAB,head and neck squamous cell carcinoma
+18103,DURVALUMAB,esophageal squamous cell carcinoma
+18113,IMIQUIMOD,lentigo maligna melanoma
+18119,PEGFILGRASTIM,endometrial adenosquamous carcinoma
+18121,IPILIMUMAB,mucosal melanoma
+18124,IPILIMUMAB,cutaneous melanoma
+18130,CETUXIMAB,squamous cell carcinoma
+18131,NIVOLUMAB,cutaneous melanoma
+18144,METHOTREXATE,extranodal nasal NK/T cell lymphoma
+18158,PEMBROLIZUMAB,mucosal melanoma
+18161,ALDESLEUKIN,melanoma
+18181,METHOTREXATE,squamous cell carcinoma
+18191,NIMOTUZUMAB,esophageal squamous cell carcinoma
+18201,ATEZOLIZUMAB,esophageal squamous cell carcinoma
+18203,PEMBROLIZUMAB,cutaneous melanoma
+18221,ETOPOSIDE,adult T-cell leukemia/lymphoma
+18232,TREMELIMUMAB,melanoma
+18234,INTERFERON ALFA-2B,mucosal melanoma
+18243,ATEZOLIZUMAB,head and neck squamous cell carcinoma
+18244,TOPOTECAN,cervical squamous cell carcinoma
+18254,SARGRAMOSTIM,mucosal melanoma
+18259,EVEROLIMUS,skin cancer
+18273,FLUDARABINE PHOSPHATE,melanoma
+18274,METFORMIN,melanoma
+18275,METFORMIN,metastatic melanoma
+18277,FLUDARABINE PHOSPHATE,mycosis fungoides
+18279,CYTARABINE,adult T-cell leukemia/lymphoma
+18280,METFORMIN,esophageal squamous cell carcinoma
+18281,PAZOPANIB,melanoma
+18282,METFORMIN,squamous cell carcinoma
+18283,SUNITINIB,melanoma
+18285,SORAFENIB,laryngeal squamous cell carcinoma
+18286,RILUZOLE,cutaneous melanoma
+18287,DOCETAXEL,cervical squamous cell carcinoma
+18288,VANDETANIB,head and neck squamous cell carcinoma
+18289,IXABEPILONE,melanoma
+18290,HYDROXYCHLOROQUINE,cutaneous melanoma
+18291,GEMCITABINE,melanoma
+18292,VINORELBINE,metastatic melanoma
+18293,VANDETANIB,verrucous carcinoma
+18294,THALIDOMIDE,Ocular Melanoma
+18295,AZD-4547,squamous cell carcinoma
+18299,ENTINOSTAT,melanoma
+18301,IXABEPILONE,nasal cavity and paranasal sinus squamous cell carcinoma
+18302,DOCETAXEL,melanoma
+18303,SUNITINIB,Uveal Melanoma
+18304,UCN-01,melanoma
+18305,DASATINIB,cutaneous melanoma
+18309,PROPRANOLOL,melanoma
+18311,DASATINIB,head and neck squamous cell carcinoma
+18312,DOCETAXEL,oral squamous cell carcinoma
+18313,FLUDARABINE PHOSPHATE,cutaneous melanoma
+18314,GEMCITABINE,squamous cell carcinoma
+18315,ACETAMINOPHEN,cutaneous melanoma
+18317,IPILIMUMAB,basal cell carcinoma
+18320,AFATINIB,squamous cell carcinoma
+18321,RIVOCERANIB,esophageal squamous cell carcinoma
+18322,LAPATINIB,melanoma
+18328,OMEPRAZOLE,oral squamous cell carcinoma
+18331,DASATINIB,melanoma
+18332,BEVACIZUMAB,metastatic melanoma
+18333,METFORMIN,oral squamous cell carcinoma
+18334,REGORAFENIB,melanoma
+18336,DASATINIB,metastatic melanoma
+18338,ENTINOSTAT,Uveal Melanoma
+18340,FLUDARABINE PHOSPHATE,Uveal Melanoma
+18341,BRENTUXIMAB VEDOTIN,Sezary's disease
+18344,VINBLASTINE,metastatic melanoma
+18345,SORAFENIB,salivary gland squamous cell carcinoma
+18348,CILENGITIDE,melanoma
+18349,ACITRETIN,melanoma
+18352,METFORMIN,head and neck squamous cell carcinoma
+18353,ANLOTINIB,esophageal squamous cell carcinoma
+18360,CAPECITABINE,nasal cavity and paranasal sinus squamous cell carcinoma
+18362,CABOZANTINIB,melanoma
+18364,FLUDARABINE PHOSPHATE,adult T-cell leukemia/lymphoma
+18365,THALIDOMIDE,cutaneous melanoma
+18370,ROSIGLITAZONE,Sezary's disease
+18371,IXABEPILONE,verrucous carcinoma
+18373,DOCETAXEL,nasal cavity and paranasal sinus squamous cell carcinoma
+18376,VELIPARIB,metastatic melanoma
+18378,VORINOSTAT,Uveal Melanoma
+18379,PANOBINOSTAT,Cutaneous T-cell lymphoma
+18381,SORAFENIB,verrucous carcinoma
+18383,ALVOCIDIB,cutaneous melanoma
+18385,IXABEPILONE,endometrial adenosquamous carcinoma
+18386,BELINOSTAT,Cutaneous T-cell lymphoma
+18390,DOCETAXEL,laryngeal squamous cell carcinoma
+18396,OLAPARIB,head and neck squamous cell carcinoma
+18398,PEMBROLIZUMAB,oropharynx squamous cell carcinoma
+18401,DACOMITINIB,head and neck squamous cell carcinoma
+18402,IXABEPILONE,salivary gland squamous cell carcinoma
+18403,SODIUM DICHLOROACETATE,head and neck squamous cell carcinoma
+18406,TANESPIMYCIN,melanoma
+18407,INFIGRATINIB,oropharynx squamous cell carcinoma
+18408,PACLITAXEL,Ocular Melanoma
+18412,AXITINIB,melanoma
+18415,DOXYCYCLINE,Sezary's disease
+18416,VINCRISTINE,Uveal Melanoma
+18418,BUPARLISIB,melanoma
+18421,GEMCITABINE,Vulvar Squamous Cell Carcinoma
+18423,VISTUSERTIB,squamous cell carcinoma
+18425,VANDETANIB,lip and oral cavity squamous cell carcinoma
+18426,SARGRAMOSTIM,Ocular Melanoma
+18427,SUNITINIB,head and neck squamous cell carcinoma
+18429,TACROLIMUS,extranodal nasal NK/T cell lymphoma
+18430,ATEZOLIZUMAB,Sezary's disease
+18434,REGORAFENIB,cutaneous melanoma
+18435,TIPIFARNIB,melanoma
+18441,BELINOSTAT,adult T-cell leukemia/lymphoma
+18443,MK-2206,melanoma
+18447,BUPARLISIB,head and neck squamous cell carcinoma
+18452,RIVOCERANIB,melanoma
+18455,PACLITAXEL,cutaneous squamous cell carcinoma
+18456,SUNITINIB,Ocular Melanoma
+18457,VORINOSTAT,mycosis fungoides
+18460,CEDIRANIB,Ocular Melanoma
+18466,PACLITAXEL,human papillomavirus-related squamous cell carcinoma
+18472,SUNITINIB,acral lentiginous melanoma (disease)
+18474,GEMCITABINE,endometrial adenosquamous carcinoma
+18480,ATEZOLIZUMAB,skin squamous cell carcinoma
+18482,SORAFENIB,Uveal Melanoma
+18483,VALPROIC ACID,head and neck squamous cell carcinoma
+18485,ADAVOSERTIB,hypopharyngeal squamous cell carcinoma
+18489,LENALIDOMIDE,adult T-cell leukemia/lymphoma
+18500,SAGOPILONE,melanoma
+18507,LENALIDOMIDE,Cutaneous T-cell lymphoma
+18511,BORTEZOMIB,melanoma
+18515,COBIMETINIB,cutaneous melanoma
+18518,SUNITINIB,metastatic melanoma
+18519,CRIZOTINIB,Uveal Melanoma
+18522,FLUDARABINE PHOSPHATE,Sezary's disease
+18523,THALIDOMIDE,melanoma
+18525,NIRAPARIB,squamous cell carcinoma
+18526,CAPECITABINE,laryngeal squamous cell carcinoma
+18538,SUNITINIB,nasal cavity and paranasal sinus squamous cell carcinoma
+18547,NIVOLUMAB,cutaneous squamous cell carcinoma
+18548,PALBOCICLIB,melanoma
+18550,ROMIDEPSIN,melanoma
+18552,RAMUCIRUMAB,melanoma
+18556,PACLITAXEL,oropharynx squamous cell carcinoma
+18558,ALEMTUZUMAB,mycosis fungoides
+18559,PEMBROLIZUMAB,extranodal nasal NK/T cell lymphoma
+18562,PACLITAXEL,Uveal Melanoma
+18563,METHOTREXATE,adult T-cell leukemia/lymphoma
+18565,MYCOPHENOLATE MOFETIL,adult T-cell leukemia/lymphoma
+18569,IPILIMUMAB,Ocular Melanoma
+18573,NIVOLUMAB,Uveal Melanoma
+18577,SEMAXANIB,cutaneous melanoma
+18578,IPILIMUMAB,Uveal Melanoma
+18579,DINACICLIB,lentigo maligna melanoma
+18580,GEMCITABINE,adult T-cell leukemia/lymphoma
+18581,DOCETAXEL,metastatic melanoma
+18583,INTERFERON ALFA-2B,adult T-cell leukemia/lymphoma
+18589,PEMBROLIZUMAB,Sezary's disease
+18595,SUNITINIB,laryngeal squamous cell carcinoma
+18597,LAPATINIB,head and neck squamous cell carcinoma
+18602,CARMUSTINE,cutaneous melanoma
+18608,MYCOPHENOLATE MOFETIL,mycosis fungoides
+18609,IXABEPILONE,laryngeal squamous cell carcinoma
+18612,DEXAMETHASONE,human papillomavirus-related squamous cell carcinoma
+18614,SELUMETINIB,melanoma
+18616,GEFITINIB,skin cancer
+18619,FLUDARABINE PHOSPHATE,extranodal nasal NK/T cell lymphoma
+18622,BEVACIZUMAB,cutaneous melanoma
+18625,VINORELBINE,cutaneous melanoma
+18627,CEDIRANIB,acral lentiginous melanoma (disease)
+18632,DOXYCYCLINE,oral squamous cell carcinoma
+18637,CETUXIMAB,skin squamous cell carcinoma
+18642,PASIREOTIDE,Uveal Melanoma
+18645,ISOTRETINOIN,mycosis fungoides
+18646,MYCOPHENOLATE MOFETIL,Sezary's disease
+18651,AFLIBERCEPT,cutaneous melanoma
+18652,CABOZANTINIB,Uveal Melanoma
+18655,ALEMTUZUMAB,Sezary's disease
+18656,COBIMETINIB,skin squamous cell carcinoma
+18660,MK-2206,head and neck squamous cell carcinoma
+18662,UPROSERTIB,Uveal Melanoma
+18666,ERLOTINIB,skin cancer
+18668,AXITINIB,head and neck squamous cell carcinoma
+18673,IMATINIB,acral lentiginous melanoma (disease)
+18674,PAZOPANIB,squamous cell carcinoma of penis
+18685,TEMSIROLIMUS,melanoma
+18692,INTERFERON GAMMA-1B,mycosis fungoides
+18701,CETUXIMAB,verrucous carcinoma
+18702,TACROLIMUS,Sezary's disease
+18705,EVEROLIMUS,cutaneous melanoma
+18707,CARMUSTINE,melanoma
+18708,DIPHENHYDRAMINE,human papillomavirus-related squamous cell carcinoma
+18710,VORINOSTAT,Sezary's disease
+18712,VATALANIB,cutaneous melanoma
+18716,IMATINIB,Dermatofibrosarcoma protuberans
+18727,POZIOTINIB,esophageal squamous cell carcinoma
+18731,TAMOXIFEN,cutaneous melanoma
+18733,SELUMETINIB,mucosal melanoma
+18736,DECITABINE,melanoma
+18740,IMATINIB,melanoma
+18741,BRENTUXIMAB VEDOTIN,adult T-cell leukemia/lymphoma
+18742,BEVACIZUMAB,melanoma
+18745,PAZOPANIB,cutaneous melanoma
+18749,PALBOCICLIB,head and neck squamous cell carcinoma
+18752,INTERFERON GAMMA-1B,cutaneous melanoma
+18754,CABAZITAXEL,head and neck squamous cell carcinoma
+18756,NIVOLUMAB,oropharynx squamous cell carcinoma
+18758,INFIGRATINIB,melanoma
+18768,DINACICLIB,mucosal melanoma
+18770,ASPIRIN,cutaneous melanoma
+18779,DACOMITINIB,squamous cell carcinoma
+18792,PEGINTERFERON ALFA-2B,adult T-cell leukemia/lymphoma
+18796,METHYLPREDNISOLONE,melanoma
+18797,NIRAPARIB,metastatic melanoma
+18805,TOFACITINIB,extranodal nasal NK/T cell lymphoma
+18806,SELUMETINIB,cutaneous melanoma
+18807,EPACADOSTAT,head and neck squamous cell carcinoma
+18809,PAZOPANIB,Dermatofibrosarcoma protuberans
+18811,NIMOTUZUMAB,head and neck squamous cell carcinoma
+18816,CEDIRANIB,lentigo maligna melanoma
+18818,DOXYCYCLINE,mycosis fungoides
+18821,PEMBROLIZUMAB,esophageal squamous cell carcinoma
+18823,OLAPARIB,metastatic melanoma
+18824,FILGRASTIM,melanoma
+18827,MELATONIN,melanoma
+18831,DENILEUKIN DIFTITOX,melanoma
+18832,AFATINIB,esophageal squamous cell carcinoma
+18834,PANITUMUMAB,head and neck squamous cell carcinoma
+18850,PEMBROLIZUMAB,Uveal Melanoma
+18852,NIVOLUMAB,oral squamous cell carcinoma
+18853,TEMSIROLIMUS,cutaneous melanoma
+18862,AXITINIB,mucosal melanoma
+18873,SEMAXANIB,melanoma
+18874,RIBOCICLIB,melanoma
+18882,PIOGLITAZONE,squamous cell carcinoma
+18897,FILGRASTIM,head and neck squamous cell carcinoma
+18899,AVELUMAB,skin squamous cell carcinoma
+18902,PEMBROLIZUMAB,desmoplastic melanoma
+18916,IMATINIB,mucosal melanoma
+18921,DECITABINE,extranodal nasal NK/T cell lymphoma
+18923,INDOMETHACIN,cutaneous melanoma
+18929,IPILIMUMAB,head and neck squamous cell carcinoma
+18934,MYCOPHENOLATE MOFETIL,extranodal nasal NK/T cell lymphoma
+18943,IMATINIB,metastatic melanoma
+18944,PEGINTERFERON ALFA-2B,Ocular Melanoma
+18950,PEXIDARTINIB,melanoma
+18953,CETUXIMAB,laryngeal squamous cell carcinoma
+18963,TEMSIROLIMUS,endometrial adenosquamous carcinoma
+18973,TEMSIROLIMUS,mucosal melanoma
+18982,TRETINOIN,cutaneous melanoma
+18983,PEMBROLIZUMAB,skin squamous cell carcinoma
+18985,NIVOLUMAB,basal cell carcinoma
+18992,PALBOCICLIB,squamous cell carcinoma
+18997,LENVATINIB,mucosal melanoma
+19004,AFLIBERCEPT,metastatic melanoma
+19007,ERLOTINIB,melanoma
+19009,GANETESPIB,melanoma
+19010,NIMOTUZUMAB,cervical squamous cell carcinoma
+19014,SORAFENIB,nasal cavity and paranasal sinus squamous cell carcinoma
+19037,CAPECITABINE,head and neck squamous cell carcinoma
+19055,PEMBROLIZUMAB,mycosis fungoides
+19061,INDOMETHACIN,head and neck squamous cell carcinoma
+19062,BARDOXOLONE METHYL,melanoma
+19063,RETASPIMYCIN,metastatic melanoma
+19070,ADAVOSERTIB,laryngeal squamous cell carcinoma
+19083,BEVACIZUMAB,Uveal Melanoma
+19084,SARGRAMOSTIM,metastatic melanoma
+19085,PAZOPANIB,head and neck squamous cell carcinoma
+19086,BEXAROTENE,Sezary's disease
+19091,ENTRECTINIB,cutaneous melanoma
+19103,LAPATINIB,esophageal squamous cell carcinoma
+19109,CIXUTUMUMAB,head and neck squamous cell carcinoma
+19112,BEVACIZUMAB,endometrial adenosquamous carcinoma
+19118,ATEZOLIZUMAB,metastatic melanoma
+19119,NIVOLUMAB,human papillomavirus-related squamous cell carcinoma
+19125,CIXUTUMUMAB,melanoma
+19136,ATEZOLIZUMAB,mycosis fungoides
+19139,IPILIMUMAB,Gorlin syndrome
+19140,LAPATINIB,salivary gland squamous cell carcinoma
+19141,CAPIVASERTIB,squamous cell carcinoma
+19145,LAPATINIB,laryngeal squamous cell carcinoma
+19147,ALDESLEUKIN,mucosal melanoma
+19153,TEMSIROLIMUS,head and neck squamous cell carcinoma
+19158,BEVACIZUMAB,cervical squamous cell carcinoma
+19164,NIVOLUMAB,squamous cell carcinoma
+19165,TREMELIMUMAB,Uveal Melanoma
+19172,ETARACIZUMAB,metastatic melanoma
+19174,EVEROLIMUS,head and neck squamous cell carcinoma
+19195,PREDNISONE,melanoma
+19203,CRIZOTINIB,squamous cell carcinoma
+19207,OMEPRAZOLE,head and neck squamous cell carcinoma
+19238,SIROLIMUS,skin carcinoma
+19240,ADAVOSERTIB,oropharynx squamous cell carcinoma
+19252,DEXAMETHASONE,adult T-cell leukemia/lymphoma
+19253,PEGFILGRASTIM,head and neck squamous cell carcinoma
+19264,ATEZOLIZUMAB,cutaneous melanoma
+19266,PEMETREXED,head and neck squamous cell carcinoma
+19271,INDOMETHACIN,cervical squamous cell carcinoma
+19272,EVEROLIMUS,metastatic melanoma
+19276,NIVOLUMAB,esophageal squamous cell carcinoma
+19299,AZACITIDINE,metastatic melanoma
+19303,UPROSERTIB,melanoma
+19308,BEVACIZUMAB,extranodal nasal NK/T cell lymphoma
+19318,FLUOROURACIL,oropharynx squamous cell carcinoma
+19333,CELECOXIB,non-melanoma skin carcinoma
+19336,RIVOCERANIB,head and neck squamous cell carcinoma
+19341,AFATINIB,squamous cell carcinoma of penis
+19358,CELECOXIB,melanoma
+19360,RIVOCERANIB,mucosal melanoma
+19368,LENALIDOMIDE,squamous cell carcinoma
+19371,BOSENTAN,melanoma
+19385,GEFITINIB,squamous cell carcinoma
+19386,DICLOFENAC,basal cell carcinoma
+19401,PEMBROLIZUMAB,laryngeal squamous cell carcinoma
+19405,AVELUMAB,esophageal squamous cell carcinoma
+19415,TRETINOIN,melanoma
+19431,CEMIPLIMAB,skin squamous cell carcinoma
+19432,SELINEXOR,squamous cell carcinoma
+19438,NIVOLUMAB,mucosal melanoma
+19440,EPACADOSTAT,mucosal melanoma
+19441,IRINOTECAN,squamous cell carcinoma
+19443,TEMSIROLIMUS,squamous cell carcinoma
+19456,SELUMETINIB,endometrial adenosquamous carcinoma
+19462,IMIQUIMOD,melanoma
+19464,PEMBROLIZUMAB,acral lentiginous melanoma (disease)
+19468,PEMBROLIZUMAB,cutaneous squamous cell carcinoma
+19481,MYCOPHENOLATE MOFETIL,cutaneous melanoma
+19488,CYCLOSPORINE,cutaneous melanoma
+19494,AFLIBERCEPT,Uveal Melanoma
+19496,TREMELIMUMAB,oropharynx squamous cell carcinoma
+19521,CETUXIMAB,esophageal squamous cell carcinoma
+19522,TACROLIMUS,mycosis fungoides
+19532,PEGINTERFERON ALFA-2B,squamous cell carcinoma
+19538,PROPRANOLOL,cutaneous melanoma
+19550,SARACATINIB,melanoma
+19552,ROSIGLITAZONE,mycosis fungoides
+19554,CM-082,mucosal melanoma
+19555,BEVACIZUMAB,head and neck squamous cell carcinoma
+19564,FLUOROURACIL,oral squamous cell carcinoma
+19568,CEMIPLIMAB,basal cell carcinoma
+19573,METHOTREXATE,Sezary's disease
+19575,VALPROIC ACID,melanoma
+19590,ALDESLEUKIN,Uveal Melanoma
+19593,RITUXIMAB,cutaneous melanoma
+19616,ROGARATINIB,squamous cell carcinoma
+19617,ERLOTINIB,cervical squamous cell carcinoma
+19631,TACROLIMUS,adult T-cell leukemia/lymphoma
+19634,TAMOXIFEN,Ocular Melanoma
+19635,SARGRAMOSTIM,oral squamous cell carcinoma
+19657,SELUMETINIB,squamous cell carcinoma
+19660,DURVALUMAB,squamous cell carcinoma
+19662,TREMELIMUMAB,cutaneous melanoma
+19667,PREDNISOLONE,melanoma
+19684,HYDROXYUREA,human papillomavirus-related squamous cell carcinoma
+19688,CABOZANTINIB,squamous cell carcinoma of penis
+19696,DENOSUMAB,cutaneous melanoma
+19702,FLUOROURACIL,human papillomavirus-related squamous cell carcinoma
+19713,DINACICLIB,acral lentiginous melanoma (disease)
+19721,EPACADOSTAT,Uveal Melanoma
+19734,TOCILIZUMAB,melanoma
+19777,EVEROLIMUS,Uveal Melanoma
+19797,RITUXIMAB,metastatic melanoma
+19805,CETUXIMAB,nasal cavity and paranasal sinus squamous cell carcinoma
+19836,PEGFILGRASTIM,melanoma
+19847,RAMUCIRUMAB,esophageal squamous cell carcinoma
+19851,RUXOLITINIB,head and neck squamous cell carcinoma
+19853,IPILIMUMAB,cutaneous squamous cell carcinoma
+19869,BEVACIZUMAB,squamous cell carcinoma
+19872,BEVACIZUMAB,mucosal melanoma
+19888,CEMIPLIMAB,melanoma
+19902,AVELUMAB,squamous cell carcinoma of penis
+19906,LAPATINIB,nasal cavity and paranasal sinus squamous cell carcinoma
+19908,ERLOTINIB,skin squamous cell carcinoma
+19918,LAPATINIB,squamous cell carcinoma
+19930,PIMASERTIB,cutaneous melanoma
+19931,CALCITRIOL,basal cell carcinoma
+19941,CETUXIMAB,cervical squamous cell carcinoma
+19949,CETUXIMAB,salivary gland squamous cell carcinoma
+19959,BEVACIZUMAB,Ocular Melanoma
+19961,CELECOXIB,oral squamous cell carcinoma
+19982,PANITUMUMAB,esophageal squamous cell carcinoma
+19991,DEXAMETHASONE,head and neck squamous cell carcinoma
+20001,ABEMACICLIB,melanoma
+20004,DEXAMETHASONE,melanoma
+20007,TANESPIMYCIN,cutaneous melanoma
+20011,NIVOLUMAB,Gorlin syndrome
+20014,OMEPRAZOLE,cervical squamous cell carcinoma
+20019,EPACADOSTAT,cutaneous melanoma
+20037,PEMBROLIZUMAB,Vulvar Squamous Cell Carcinoma
+20055,SIROLIMUS,Cutaneous T-cell lymphoma
+20093,CETUXIMAB,squamous cell carcinoma of penis
+20096,DURVALUMAB,oropharynx squamous cell carcinoma
+20109,NIMOTUZUMAB,oral squamous cell carcinoma
+20115,ADAVOSERTIB,lip and oral cavity squamous cell carcinoma
+20128,RIVOCERANIB,squamous cell carcinoma
+20148,PEMBROLIZUMAB,squamous cell carcinoma of penis
+20153,EVEROLIMUS,Cutaneous T-cell lymphoma
+20177,HYDROCORTISONE,melanoma
+20194,LIDOCAINE,squamous cell carcinoma
+20196,DOVITINIB,melanoma
+20197,ALDESLEUKIN,Ocular Melanoma
+20198,PACLITAXEL,verrucous carcinoma
+20200,UCN-01,verrucous carcinoma
+20201,MIDAZOLAM,metastatic melanoma
+20202,IMATINIB,cutaneous melanoma
+20203,VORINOSTAT,salivary gland squamous cell carcinoma
+20204,TANESPIMYCIN,adult T-cell leukemia/lymphoma
+20205,ROMIDEPSIN,Sezary's disease
+20206,METFORMIN,oropharynx squamous cell carcinoma
+20207,PACLITAXEL,nasal cavity and paranasal sinus squamous cell carcinoma
+20208,VOXTALISIB,melanoma
+20209,DASATINIB,extranodal nasal NK/T cell lymphoma
+20210,SOTRASTAURIN,Uveal Melanoma
+20211,NINTEDANIB,cutaneous melanoma
+20213,RIBOCICLIB,head and neck squamous cell carcinoma
+20214,PANOBINOSTAT,melanoma
+20215,MUPARFOSTAT,melanoma
+20216,AZACITIDINE,cutaneous melanoma
+20218,CAFFEINE,metastatic melanoma
+20222,DIGOXIN,melanoma
+20223,IMIQUIMOD,squamous cell carcinoma
+20224,SORAFENIB,squamous cell carcinoma
+20225,DINACICLIB,melanoma
+20226,UCN-01,nasal cavity and paranasal sinus squamous cell carcinoma
+20228,UCN-01,basal cell carcinoma
+20229,VORINOSTAT,melanoma
+20233,DEXAMETHASONE,Cutaneous T-cell lymphoma
+20234,UCN-01,laryngeal squamous cell carcinoma
+20236,FLUDARABINE PHOSPHATE,Ocular Melanoma
+20238,PACLITAXEL,laryngeal squamous cell carcinoma
+20239,CYCLOSPORINE,Sezary's disease
+20241,TANESPIMYCIN,mycosis fungoides
+20244,PACLITAXEL POLIGLUMEX,squamous cell carcinoma
+20250,DASATINIB,adult T-cell leukemia/lymphoma
+20254,MOCETINOSTAT,melanoma
+20260,FLUOROURACIL,melanoma
+20264,CEDIRANIB,cutaneous melanoma
+20265,MOCETINOSTAT,oral squamous cell carcinoma
+20266,IBUPROFEN,choroidal melanoma
+20267,ENTRECTINIB,Uveal Melanoma
+20269,IMIQUIMOD,cutaneous melanoma
+20271,HYDROXYCHLOROQUINE,melanoma
+20278,DURVALUMAB,oral squamous cell carcinoma
+20281,PEGINTERFERON ALFA-2B,metastatic melanoma
+20291,CEMIPLIMAB,head and neck squamous cell carcinoma
+20293,CEDIRANIB,metastatic melanoma
+20295,VORINOSTAT,nasal cavity and paranasal sinus squamous cell carcinoma
+20296,BELINOSTAT,mycosis fungoides
+20301,ROMIDEPSIN,mycosis fungoides
+20303,CAPECITABINE,melanoma
+20304,METHOTREXATE,cutaneous melanoma
+20305,ALDESLEUKIN,mycosis fungoides
+20306,BORTEZOMIB,Sezary's disease
+20307,DASATINIB,Sezary's disease
+20314,GEMCITABINE,mycosis fungoides
+20319,INFLIXIMAB,melanoma
+20323,GEMCITABINE,Cutaneous T-cell lymphoma
+20328,IRINOTECAN,basal cell carcinoma
+20329,DASATINIB,mycosis fungoides
+20331,RAMUCIRUMAB,cutaneous melanoma
+20333,BRENTUXIMAB VEDOTIN,Cutaneous T-cell lymphoma
+20338,OBATOCLAX,metastatic melanoma
+20345,CILENGITIDE,squamous cell carcinoma
+20346,PEXIDARTINIB,metastatic melanoma
+20347,PIMASERTIB,melanoma
+20349,PANOBINOSTAT,metastatic melanoma
+20354,DOXYCYCLINE,melanoma
+20357,VATALANIB,melanoma
+20363,TANESPIMYCIN,Sezary's disease
+20369,PACLITAXEL,Endometrial Squamous Cell Carcinoma
+20371,DECITABINE,metastatic melanoma
+20372,TREMELIMUMAB,oral squamous cell carcinoma
+20373,DECITABINE,Cutaneous T-cell lymphoma
+20379,MUPARFOSTAT,cutaneous melanoma
+20385,ABEMACICLIB,head and neck squamous cell carcinoma
+20386,PEGFILGRASTIM,Cutaneous T-cell lymphoma
+20387,AZACITIDINE,squamous cell carcinoma
+20397,DECITABINE,cutaneous melanoma
+20403,VORINOSTAT,laryngeal squamous cell carcinoma
+20405,ALDESLEUKIN,Sezary's disease
+20415,VINCRISTINE,melanoma
+20438,BUPROPION,metastatic melanoma
+20443,VORINOSTAT,verrucous carcinoma
+20445,BINIMETINIB,Uveal Melanoma
+20453,BEVACIZUMAB,Endometrial Squamous Cell Carcinoma
+20456,ETARACIZUMAB,melanoma
+20461,PEMBROLIZUMAB,basal cell carcinoma
+20472,FLUOROURACIL,basal cell carcinoma
+20482,PANITUMUMAB,skin squamous cell carcinoma
+20483,CABOZANTINIB,squamous cell carcinoma
+20492,RITUXIMAB,squamous cell carcinoma
+20496,ADAVOSERTIB,head and neck squamous cell carcinoma
+20500,BORTEZOMIB,mycosis fungoides
+20504,TRASTUZUMAB,mycosis fungoides
+20511,PACLITAXEL,salivary gland squamous cell carcinoma
+20516,DEXTROMETHORPHAN,metastatic melanoma
+20536,IRINOTECAN,adult T-cell leukemia/lymphoma
+20546,IRINOTECAN,Sezary's disease
+20560,IRINOTECAN,mycosis fungoides
+20562,DURVALUMAB,melanoma
+20563,CABOZANTINIB,metastatic melanoma
+20570,SELINEXOR,melanoma
+20572,CARMUSTINE,Cutaneous T-cell lymphoma
+20573,DURVALUMAB,Cutaneous T-cell lymphoma
+20584,SIROLIMUS,cutaneous squamous cell carcinoma
+20585,DENOSUMAB,melanoma
+20626,OMEPRAZOLE,metastatic melanoma
+20627,RITUXIMAB,mycosis fungoides
+20634,CALCITRIOL,metastatic melanoma
+20638,IRINOTECAN,verrucous carcinoma
+20655,FULVESTRANT,head and neck squamous cell carcinoma
+20658,DOXORUBICIN,Cutaneous T-cell lymphoma
+20676,BORTEZOMIB,squamous cell carcinoma
+20686,LENVATINIB,metastatic melanoma
+20696,OLAPARIB,squamous cell carcinoma
+20705,SARGRAMOSTIM,Bladder Squamous Cell Carcinoma
+20733,ARSENIC TRIOXIDE,metastatic melanoma
+20753,COPANLISIB,squamous cell carcinoma
+20755,CYCLOSPORINE,mycosis fungoides
+20761,PREDNISONE,cutaneous squamous cell carcinoma
+20767,ABEMACICLIB,cutaneous melanoma
+20778,PIOGLITAZONE,melanoma
+20789,AVELUMAB,squamous cell carcinoma
+20801,LINSITINIB,head and neck squamous cell carcinoma
+20803,SELUMETINIB,metastatic melanoma
+20806,BORTEZOMIB,adult T-cell leukemia/lymphoma
+20830,TREMELIMUMAB,metastatic melanoma
+20842,ROSUVASTATIN,metastatic melanoma
+20846,CARMUSTINE,Sezary's disease
+20862,CARMUSTINE,mycosis fungoides
+20866,PEMBROLIZUMAB,Cutaneous T-cell lymphoma
+20870,NIVOLUMAB,mycosis fungoides
+20879,IRINOTECAN,nasal cavity and paranasal sinus squamous cell carcinoma
+20888,EVEROLIMUS,cutaneous squamous cell carcinoma
+20900,AVELUMAB,melanoma
+20902,IRINOTECAN,laryngeal squamous cell carcinoma
+20918,ADAVOSERTIB,squamous cell carcinoma
+20921,RAMUCIRUMAB,head and neck squamous cell carcinoma
+20933,GEFITINIB,non-melanoma skin carcinoma
+20950,ARSENIC TRIOXIDE,basal cell carcinoma
+20954,TRASTUZUMAB,laryngeal squamous cell carcinoma
+20960,CHOLECALCIFEROL,skin cancer
+20964,IMIQUIMOD,cervical squamous cell carcinoma
+20965,DOXYCYCLINE,Cutaneous T-cell lymphoma
+20966,PRAMLINTIDE,cutaneous squamous cell carcinoma
+20971,IMIQUIMOD,Cutaneous T-cell lymphoma
+20972,FLUOROURACIL,cervical squamous cell carcinoma
+20973,DEXMEDETOMIDINE,endometrium adenocarcinoma
+20975,KETAMINE,endometrium adenocarcinoma
+20976,PEGFILGRASTIM,cervical cancer
+20984,BEVACIZUMAB,cervical carcinoma
+20986,PACLITAXEL,cervical adenocarcinoma
+20987,PACLITAXEL,endometrial cancer
+20988,GEMCITABINE,cervical cancer
+20989,GEMCITABINE,cervical carcinoma
+20991,VINBLASTINE,cervical cancer
+20994,PACLITAXEL,cervical carcinoma
+20996,VINCRISTINE,cervical cancer
+20997,FILGRASTIM,endometrial cancer
+20999,PACLITAXEL,Uterine Carcinosarcoma
+21000,PACLITAXEL,cervical cancer
+21005,VINORELBINE,cervical adenocarcinoma
+21008,DOCETAXEL,uterine leiomyosarcoma
+21012,LETROZOLE,endometrial carcinoma
+21018,PACLITAXEL,uterine sarcoma
+21019,DOCETAXEL,cervical cancer
+21020,GEMCITABINE,uterine leiomyosarcoma
+21022,DOXORUBICIN,endometrial cancer
+21024,IXABEPILONE,endometrial cancer
+21025,FILGRASTIM,uterine leiomyosarcoma
+21030,PACLITAXEL,Endometrial Clear Cell Adenocarcinoma
+21032,PEGFILGRASTIM,Endometrial Serous Adenocarcinoma
+21037,ATEZOLIZUMAB,endometrial cancer
+21039,GEMCITABINE,cervical adenocarcinoma
+21047,PEGFILGRASTIM,uterine leiomyosarcoma
+21051,PACLITAXEL,Endometrial Serous Adenocarcinoma
+21068,NICOTINE,cervical cancer
+21071,DOXORUBICIN,uterine sarcoma
+21092,SELINEXOR,endometrial cancer
+21096,PEMBROLIZUMAB,cervical adenocarcinoma
+21101,"ESTROGENS, CONJUGATED",endometrial cancer
+21112,FILGRASTIM,Endometrial Clear Cell Adenocarcinoma
+21120,ATEZOLIZUMAB,cervical carcinoma
+21125,FILGRASTIM,Endometrial Serous Adenocarcinoma
+21127,METHOTREXATE,cervical cancer
+21133,NIMOTUZUMAB,cervical cancer
+21137,PEGFILGRASTIM,Endometrial Clear Cell Adenocarcinoma
+21148,TOPOTECAN,cervical adenocarcinoma
+21152,TOPOTECAN,cervical cancer
+21168,FLUOROURACIL,cervical cancer
+21171,BEVACIZUMAB,cervical cancer
+21174,BEVACIZUMAB,uterine leiomyosarcoma
+21185,DOXORUBICIN,Endometrial Clear Cell Adenocarcinoma
+21189,PEMBROLIZUMAB,cervical cancer
+21196,DOXORUBICIN,Endometrial Serous Adenocarcinoma
+21202,TAMOXIFEN,endometrial cancer
+21212,DOXORUBICIN,uterine leiomyosarcoma
+21214,VALPROIC ACID,cervical cancer
+21226,CEMIPLIMAB,cervical cancer
+21235,DURVALUMAB,cervical cancer
+21244,PACLITAXEL,endometrium adenocarcinoma
+21245,OLAPARIB,cervical carcinoma
+21246,GEMCITABINE,Uterine Carcinosarcoma
+21247,FULVESTRANT,endometrial stromal sarcoma
+21248,SORAFENIB,Uterine Carcinosarcoma
+21249,PAZOPANIB,Uterine Carcinosarcoma
+21250,PAZOPANIB,uterine sarcoma
+21251,IMATINIB,Uterine Carcinosarcoma
+21252,METFORMIN,cervical cancer
+21253,COPANLISIB,Endometrial Undifferentiated Carcinoma
+21254,DOCETAXEL,endometrial cancer
+21256,BUPARLISIB,endometrial cancer
+21257,METFORMIN,endometrial cancer
+21258,ALVOCIDIB,endometrial cancer
+21260,NINTEDANIB,endometrial cancer
+21261,CELECOXIB,Cervical Intraepithelial Neoplasia Grade 2/3
+21265,PACLITAXEL,endometrial carcinoma
+21267,IXABEPILONE,uterine leiomyosarcoma
+21268,IXABEPILONE,uterine sarcoma
+21269,PACLITAXEL,uterine cancer
+21270,IXABEPILONE,endometrium adenocarcinoma
+21271,SEMAXANIB,cervical cancer
+21272,ANLOTINIB,endometrial cancer
+21273,IXABEPILONE,Endometrial Clear Cell Adenocarcinoma
+21274,MIRVETUXIMAB SORAVTANSINE,endometrial cancer
+21275,LAPATINIB,endometrial carcinoma
+21277,COPANLISIB,Endometrial Serous Adenocarcinoma
+21280,DOCETAXEL,cervical adenocarcinoma
+21281,RUCAPARIB,endometrial cancer
+21285,BEVACIZUMAB,endometrial cancer
+21289,UPROSERTIB,cervical cancer
+21291,METFORMIN,cervical adenocarcinoma
+21294,FULVESTRANT,endometrium adenocarcinoma
+21296,PILARALISIB,endometrial cancer
+21297,MIRVETUXIMAB SORAVTANSINE,Endometrial Serous Adenocarcinoma
+21306,PAZOPANIB,cervical cancer
+21307,IMATINIB,uterine sarcoma
+21309,EVEROLIMUS,endometrial cancer
+21315,NINTEDANIB,cervical adenocarcinoma
+21318,MIRVETUXIMAB SORAVTANSINE,Endometrial Clear Cell Adenocarcinoma
+21319,ABEMACICLIB,endometrial cancer
+21321,DOCETAXEL,uterine sarcoma
+21322,AVELUMAB,endometrial cancer
+21324,DACTOLISIB,endometrial cancer
+21328,DOCETAXEL,endometrium adenocarcinoma
+21331,SUNITINIB,uterine leiomyosarcoma
+21334,PEMETREXED,cervical cancer
+21337,ABEMACICLIB,endometrium adenocarcinoma
+21338,AXITINIB,endometrial cancer
+21340,OLAPARIB,cervical cancer
+21342,VINORELBINE,cervical cancer
+21350,ZOLEDRONIC ACID,cervical adenocarcinoma
+21352,BEVACIZUMAB,Endometrial Serous Adenocarcinoma
+21353,IXABEPILONE,Uterine Carcinosarcoma
+21356,ERIBULIN,cervical cancer
+21360,CABOZANTINIB,uterine sarcoma
+21364,GEMCITABINE,endometrial cancer
+21365,FILGRASTIM,cervical cancer
+21367,CELECOXIB,uterine cancer
+21370,AFLIBERCEPT,endometrial carcinoma
+21373,BUPARLISIB,cervical cancer
+21376,THALIDOMIDE,uterine leiomyosarcoma
+21379,MIFEPRISTONE,endometrial cancer
+21381,GEMCITABINE,Endometrial Clear Cell Adenocarcinoma
+21384,TAMOXIFEN,endometrial carcinoma
+21391,NIRAPARIB,endometrial cancer
+21395,CABOZANTINIB,endometrial carcinoma
+21396,THALIDOMIDE,Uterine Carcinosarcoma
+21398,CRIZOTINIB,endometrial cancer
+21399,IPILIMUMAB,Uterine Carcinosarcoma
+21400,ATEZOLIZUMAB,cervical cancer
+21405,RIVOCERANIB,cervical carcinoma
+21407,CABOZANTINIB,Uterine Carcinosarcoma
+21408,CEDIRANIB,cervical cancer
+21409,LETROZOLE,endometrial cancer
+21410,APITOLISIB,endometrial carcinoma
+21414,PEMBROLIZUMAB,endometrial cancer
+21415,ASPIRIN,endometrial cancer
+21420,PAZOPANIB,uterine leiomyosarcoma
+21429,DOVITINIB,endometrial cancer
+21430,ISOTRETINOIN,cervical cancer
+21431,ERGOCALCIFEROL,cervical cancer
+21434,SORAFENIB,uterine sarcoma
+21438,CETUXIMAB,cervical cancer
+21440,RUCAPARIB,cervical cancer
+21441,LETROZOLE,uterine cancer
+21447,GEMCITABINE,uterine sarcoma
+21451,IXABEPILONE,Endometrial Serous Adenocarcinoma
+21457,NIVOLUMAB,endometrial carcinoma
+21458,SAMOTOLISIB,endometrial cancer
+21468,PALBOCICLIB,endometrial cancer
+21476,PEGINTERFERON ALFA-2B,cervical cancer
+21491,TALAZOPARIB,endometrial cancer
+21505,MK-2206,endometrial cancer
+21507,RUCAPARIB,Uterine Carcinosarcoma
+21508,ADAVOSERTIB,Endometrial Serous Adenocarcinoma
+21513,ASPIRIN,cervical cancer
+21520,CETUXIMAB,cervical carcinoma
+21534,CABOZANTINIB,cervical cancer
+21537,ROSUVASTATIN,endometrial carcinoma
+21541,SELUMETINIB,Endometrial Clear Cell Adenocarcinoma
+21555,PEMBROLIZUMAB,endometrium adenocarcinoma
+21561,OLAPARIB,uterine leiomyosarcoma
+21577,PEMETREXED,endometrial cancer
+21580,TEMSIROLIMUS,Endometrial Serous Adenocarcinoma
+21606,LENVATINIB,endometrial cancer
+21621,ATEZOLIZUMAB,Uterine Carcinosarcoma
+21630,BEVACIZUMAB,Endometrial Clear Cell Adenocarcinoma
+21635,PEMBROLIZUMAB,cervical carcinoma
+21656,OLAPARIB,endometrial carcinoma
+21658,CETUXIMAB,endometrial cancer
+21663,FULVESTRANT,endometrial carcinoma
+21665,DOCETAXEL,Uterine Carcinosarcoma
+21682,DIPHENHYDRAMINE,endometrial cancer
+21692,TRASTUZUMAB,endometrial cancer
+21695,CAPECITABINE,cervical cancer
+21700,BEVACIZUMAB,Uterine Carcinosarcoma
+21702,GEFITINIB,cervical cancer
+21711,DEXAMETHASONE,endometrial cancer
+21712,NIRAPARIB,cervical carcinoma
+21717,IRINOTECAN,cervical adenocarcinoma
+21736,LETROZOLE,cervical adenocarcinoma
+21739,TAMOXIFEN,cervical adenocarcinoma
+21748,IPILIMUMAB,uterine leiomyosarcoma
+21756,TEMSIROLIMUS,Endometrial Clear Cell Adenocarcinoma
+21759,CELECOXIB,uterine cervix carcinoma in situ
+21762,IMIQUIMOD,cervical carcinoma
+21777,TRASTUZUMAB,endometrium adenocarcinoma
+21787,RIVOCERANIB,cervical cancer
+21800,DOXORUBICIN,cervical cancer
+21809,EPACADOSTAT,endometrial carcinoma
+21822,TEMSIROLIMUS,endometrial carcinoma
+21827,TEMSIROLIMUS,Uterine Carcinosarcoma
+21836,LAPATINIB,cervical cancer
+21841,ERLOTINIB,endometrial cancer
+21842,NIRAPARIB,endometrial carcinoma
+21845,TEMSIROLIMUS,uterine sarcoma
+21851,NIVOLUMAB,cervical cancer
+21886,ARSENIC TRIOXIDE,cervical cancer
+21887,EPACADOSTAT,endometrial cancer
+21897,CABOZANTINIB,uterine leiomyosarcoma
+21900,NIMOTUZUMAB,cervical carcinoma
+21917,NIVOLUMAB,uterine leiomyosarcoma
+21919,ERGOCALCIFEROL,endometrial cancer
+21933,TOPOTECAN,endometrial cancer
+21935,BORTEZOMIB,cervical cancer
+21945,BEVACIZUMAB,endometrial carcinoma
+21952,IRINOTECAN,cervical cancer
+21958,NIVOLUMAB,Uterine Carcinosarcoma
+21964,EVEROLIMUS,uterine cancer
+21977,PEMBROLIZUMAB,endometrial carcinoma
+21982,ADAVOSERTIB,uterine cancer
+22003,IMIQUIMOD,cervical cancer
+22008,ARSENIC TRIOXIDE,endometrial carcinoma
+22026,PANITUMUMAB,cervical cancer
+22063,IMATINIB,endometrial cancer
+22064,CAPIVASERTIB,endometrial cancer
+22065,VATALANIB,endometrial cancer
+22066,CAPIVASERTIB,endometrium adenocarcinoma
+22067,PACLITAXEL,endometrial mixed adenocarcinoma
+22068,PACLITAXEL,Endometrial Mucinous Adenocarcinoma
+22069,UCN-01,cervical cancer
+22070,CEDIRANIB,endometrial cancer
+22071,PACLITAXEL,Endometrial Undifferentiated Carcinoma
+22072,BEVACIZUMAB,endometrial mixed adenocarcinoma
+22074,UCN-01,endometrial carcinoma
+22075,TANESPIMYCIN,uterine sarcoma
+22076,OLAPARIB,endometrium adenocarcinoma
+22078,VINORELBINE,endometrial cancer
+22080,IRINOTECAN,endometrial carcinoma
+22081,PACLITAXEL,cervical adenosarcoma
+22082,SORAFENIB,cervical carcinoma
+22086,CAPIVASERTIB,cervical cancer
+22088,VATALANIB,cervical cancer
+22091,ERLOTINIB,cervical cancer
+22092,DS-7423,endometrial cancer
+22096,LAPATINIB,endometrial cancer
+22098,OLAPARIB,endometrial cancer
+22101,BOSUTINIB,cervical cancer
+22110,BEVACIZUMAB,Endometrial Undifferentiated Carcinoma
+22112,PACLITAXEL,cervical carcinosarcoma
+22118,ADAVOSERTIB,cervical cancer
+22128,INFIGRATINIB,cervical carcinoma
+22132,IMATINIB,uterine cancer
+22133,VISTUSERTIB,endometrial carcinoma
+22136,TRASTUZUMAB,cervical cancer
+22137,TEMSIROLIMUS,cervical cancer
+22146,ZOLEDRONIC ACID,cervical cancer
+22153,BEVACIZUMAB,cervical adenosarcoma
+22168,IPATASERTIB,endometrial cancer
+22172,ANASTROZOLE,endometrial cancer
+22173,EVEROLIMUS,cervical cancer
+22174,CELECOXIB,cervical cancer
+22179,SARGRAMOSTIM,endometrial cancer
+22185,OLAPARIB,Endometrial Serous Adenocarcinoma
+22189,IRINOTECAN,cervical carcinoma
+22210,IPILIMUMAB,cervical carcinoma
+22213,VISTUSERTIB,endometrium adenocarcinoma
+22217,TEMSIROLIMUS,endometrial cancer
+22221,BEVACIZUMAB,Endometrial Mucinous Adenocarcinoma
+22225,IMIQUIMOD,Cervical Intraepithelial Neoplasia Grade 2/3
+22234,NIVOLUMAB,cervical carcinoma
+22241,BEVACIZUMAB,cervical carcinosarcoma
+22244,CELECOXIB,cervical adenocarcinoma
+22250,TOPOTECAN,cervical carcinoma
+22254,ANASTROZOLE,endometrial carcinoma
+22256,PEMBROLIZUMAB,uterine cancer
+22260,IPILIMUMAB,endometrial carcinoma
+22272,TRASTUZUMAB,endometrial carcinoma
+22276,FLUOROURACIL,Cervical Intraepithelial Neoplasia Grade 2/3
+22277,DASATINIB,endometrial cancer
+22288,ATORVASTATIN,endometrial cancer
